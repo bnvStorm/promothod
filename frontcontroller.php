@@ -1,11 +1,6 @@
 <?php 
 // config data
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "promothod";
-$base_uri = "http://www.promothod.kz";
-$url = $base_uri . $_SERVER['REQUEST_URI'];
+require 'config.php';
 
 $sql = "SELECT * FROM promothod_kz___promothod_kz WHERE url = '$url'";
 
@@ -28,9 +23,9 @@ if ($result->num_rows > 0) {
     $h1 = $row['h1'];	
     $content = $row['content'];	
     }
-}  else {
-  header('Location: http://www.promothod.kz/404.html');
-  exit;
+}  elseif ($result->num_rows = 0) {
+	header('Location: http://www.promothod.kz/404.html');
+  	exit;
 }
 $conn->close();
 
