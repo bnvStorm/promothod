@@ -1,27 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
-	<title>Промотход</title>
+	<title><?php echo $title; ?></title>
 
 	<meta charset="utf-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="description" content="">
+	<meta name="description" content="<?php echo $descr; ?>">
+	<meta name="keywords" content="<?php echo $keywords; ?>">
 
 	<!-- Google Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Barlow:400,600%7COpen+Sans:400,400i,700' rel='stylesheet'>
 
 	<!-- Css -->
-	<link rel="stylesheet" href="css/bootstrap.min.css" />
-	<link rel="stylesheet" href="css/font-icons.css" />
-	<link rel="stylesheet" href="revolution/css/settings.css" />
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/css/font-icons.css" />
+	<link rel="stylesheet" href="/revolution/css/settings.css" />
+	<link rel="stylesheet" href="/css/style.css" />
 
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="img/favicon.ico">
-	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="/img/favicon.ico">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
 
 </head>
 
@@ -44,8 +45,8 @@
 
 						<div class="nav__header">
 							<!-- Logo -->
-							<a href="index.html" class="logo-container flex-child">
-								<img class="logo" src="img/logo.png" srcset="img/logo.png 1x, img/logo@2x.png 2x" alt="logo">
+							<a href="/" class="logo-container flex-child">
+								<img class="logo" src="/img/logo.png" srcset="/img/logo.png 1x, /img/logo@2x.png 2x" alt="logo">
 							</a>
 
 							<!-- Mobile toggle -->
