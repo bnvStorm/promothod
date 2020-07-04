@@ -197,137 +197,147 @@
 
 						</li> <!-- end slide 1 -->
 
-						<!-- SLIDE 3 -->
-						<li data-fstransition="fade"
-							data-transition="fade"
-							data-easein="default"
-							data-easeout="default"
-							data-slotamount="1"
-							data-masterspeed="1200"
-							data-delay="8000"
-							data-title="Horizon Urban"
-							>
-							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/3.jpg"
-								alt=""
-								data-bgrepeat="no-repeat"
-								data-bgfit="cover"
-								data-bgparallax="7"
-								class="rev-slidebg"
-								>
-
-							<!-- HERO TITLE -->
-							<div class="tp-caption hero-text"
-								data-x="30"
-								data-y="center"
-								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[72,62,52,46]"
-								data-lineheight="[72,62,52,46]"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
-								data-frames='[{
-									"delay":1000,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								data-splitout="none">Horizon Urban<span class="hero-dot">.</span>
-							</div>
-
-							<!-- HERO SUBTITLE -->
-							<div class="tp-caption small-text"
-								data-x="30"
-								data-y="center"
-								data-voffset="[-40,-30,-20,0]"
-								data-fontsize="[21,21,21,21]"
-								data-lineheight="34"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
-								data-frames='[{
-									"delay":1100,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								>The Sedona Theatre is Ireland's largest fixed-seat theatre.<br>It's located in Grand Canal Square, Dublin.
-							</div>
-
-							<!-- BUTTON -->
-							<div class="tp-caption"
-									data-x="30"
-									data-y="center"
-									data-voffset="[60,60,60,100]"
-									data-lineheight="55"
-									data-hoffset="0"
-									data-frames='[{
-										"delay":1200,
-										"speed":900,
-										"frame":"0",
-										"from":"y:150px;opacity:0;",
-										"ease":"Power3.easeOut",
-										"to":"o:1;"
-										},{
-										"delay":"wait",
-										"speed":1000,
-										"frame":"999",
-										"to":"opacity:0;","ease":"Power3.easeOut"
-									}]'
-									><a href='#' class='btn btn--lg btn--color'>View Project</a>
-							</div>
-
-						</li> <!-- end slide 1 -->
 
 					</ul>
 				</div>
 			</div>
 
+            </div>
 			<!-- Intro -->
 			<section class="section-wrap intro pb-40">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-7">
-							<h2 class="intro__title">25 years of Experience</h2>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque
-							ipsa quae</p>
-							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia conse quuntur magni dolores eos qui
-							ratione voluptatem sequi nesciunt. Neque porro quisquam qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+					<div class="col-lg-5 right-box">
+
+                 	<a href="/otkhody/akkumulyatory/" class="lkn-1 square" title="утилизация аккумуляторов">
+                 		<img src="img/link/link-img-1.png" alt="утилизация аккумуляторов">
+                 	</a>
+
+                    <a href="/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/" class="lkn-2 square">
+                    	<img src="img/link/link-img-2.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/" class="lkn-3 square">
+                    	<img src="img/link/link-img-3.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/bumaga-karton/" class="lkn-4 square">
+                    	<img src="img/link/link-img-4.png" alt="">
+                    </a>      
+
+                	<a href="/otkhody/khimicheskie-otkhody/" class="lkn-5 rectangle">
+                		<img src="img/link/link-img-5.png" alt="">
+                	</a> 
+
+                    <a href="/otkhody/plastik-polimery/" class="lkn-6 rectangle">
+                    	<img src="img/link/link-img-6.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/" class="lkn-7 square">
+                    	<img src="img/link/link-img-7.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/" class="lkn-8 square">
+                    	<img src="img/link/link-img-8.png" alt="">
+                    </a>
+
+                	<a href="/otkhody/lakokrasochnye-materialy/" class="lkn-9 square">
+                		<img src="img/link/link-img-9.png" alt="">
+                	</a> 
+
+                    <a href="/otkhody/neftesoderzhashchie-otkhody/" class="lkn-10 square">
+                    	<img src="img/link/link-img-10.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/otkhody-soderzhashchie-pkhd-i-soz/" class="lkn-11 square">
+                    	<img src="img/link/link-img-11.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/otkhody-drevesiny/" class="lkn-12 square">
+                    	<img src="img/link/link-img-12.png" alt="">
+                    </a>
+
+					<div class="rect-block">
+
+	                    <a href="/otkhody/bytovaya-tekhnika-i-mebel/" class="lkn-13 rectangle">
+	                    	<img src="img/link/link-img-13.png" alt="">
+	                    </a>
+
+	                    <a href="/otkhody/rtutsoderzhashchie-otkhody/" class="lkn-14 rectangle">
+	                    	<img src="img/link/link-img-14.png" alt="">
+	                    </a>
+
+					</div>
+
+                    <a href="/otkhody/" class="lkn-16 square">
+                    	<img src="img/link/link-img-16.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/sredstva-individualnoy-zashchity/" class="lkn-17 square">
+                    	<img src="img/link/link-img-17.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/medotkhody/" class="lkn-18 square">
+                    	<img src="img/link/link-img-18.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/" class="lkn-19 square">
+                    	<img src="img/link/link-img-19.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/tara-i-upakovka/" class="lkn-20 square">
+                    	<img src="img/link/link-img-20.png" alt="">
+                    </a>
+
+                    <a href="/otkhody/tamozhennye-otkhody/" class="lkn-23 square">
+                    	<img src="img/link/link-img-23.png" alt="">
+                    </a>
+					<div class="rect-block">
+	                    <a href="/otkhody/neftesoderzhashchie-otkhody/" class="lkn-21 rectangle">
+	                    	<img src="img/link/link-img-21.png" alt="">
+	                    </a> 
+
+	                    <a href="/otkhody/" class="lkn-22 rectangle">
+	                    	<img src="img/link/link-img-22.png" alt="">
+	                    </a>
+					</div>
+
+					
+                    <a href="/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/" class="lkn-15 rectangle">
+                    	<img src="img/link/link-img-15.png" alt="">
+                    </a>
+            </div>
+            <div class="col-lg-7">
+            	<div class="row">
+            		<div class="col-lg-12">
+							<h2 class="intro__title">25 лет опыта</h2>
+							<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Речью раз переписали жаренные всемогущая, страну возвращайся великий ipsum подпоясал страна. Речью букв правилами, подзаголовок lorem парадигматическая всемогущая назад ему.</p><p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Речью раз переписали жаренные всемогущая, страну возвращайся великий ipsum подпоясал страна. Речью букв правилами, подзаголовок lorem парадигматическая всемогущая назад ему.</p>
 							<div class="row mb-lg-48">
 								<div class="col-sm-4">
 									<div class="feature">
 										<i class="icon-Hotel-3 feature__icon"></i>
-										<h4 class="feature__title">Architecture</h4>
+										<h4 class="feature__title">Переработка</h4>
 									</div>
 								</div>
 								<div class="col-sm-4">
 									<div class="feature">
 										<i class="icon-Ruler-Tool feature__icon"></i>
-										<h4 class="feature__title">Interior Design</h4>
+										<h4 class="feature__title">Отходов</h4>
 									</div>
 								</div>
 								<div class="col-sm-4">
 									<div class="feature">
 										<i class="icon-Trowel-and-Brick feature__icon"></i>
-										<h4 class="feature__title">Construction</h4>
+										<h4 class="feature__title">Казпромотход</h4>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-5">
-							<img src="img/intro/1.jpg" class="img-full-width" alt="">
+					<!-- 	<div class="col-lg-5">
+							<img src="img/priyom-othodov.jpg" class="img-full-width" alt="">
+						</div> -->
+            	</div>
+						
 						</div>
 					</div>
 				</div>
