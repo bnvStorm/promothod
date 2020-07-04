@@ -5828,3 +5828,65 @@ dd {
 .logo {
   max-width: 250px;
 }
+
+.tp-bgimg.defaultimg:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 119, 119, 0.3);
+}
+
+.content-wrapper--boxed {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.right-box {
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+}
+.right-box a.rectangle {
+  display: block;
+  width: 196px;
+  height: 43px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+}
+.right-box a.rectangle img {
+  position: absolute;
+}
+.right-box a.square {
+  display: block;
+  width: 93px;
+  height: 93px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+}
+.right-box a.square img {
+  position: absolute;
+}
+
+a.rectangle:hover img {
+  top: -44px;
+}
+
+a.lkn-13:hover img, a.lkn-14:hover img, a.lkn-15:hover img {
+  top: -69px;
+}
+
+a.square:hover img {
+  top: -93px;
+}
