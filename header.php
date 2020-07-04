@@ -51,7 +51,7 @@
 
 							<!-- Mobile toggle -->
 							<button type="button" class="nav__icon-toggle" id="nav__icon-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-								<span class="sr-only">Toggle navigation</span>
+								<span class="sr-only">КНПН</span>
 								<span class="nav__icon-toggle-bar"></span>
 								<span class="nav__icon-toggle-bar"></span>
 								<span class="nav__icon-toggle-bar"></span>
@@ -61,7 +61,7 @@
 						<!-- Navbar -->
 						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
 							<ul class="nav__menu">
-								<li class="nav__dropdown active">
+								<li class="nav__dropdown">
 									<a href="/o-nas/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">

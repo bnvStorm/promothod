@@ -1,5 +1,5 @@
 			<!-- Footer -->
-			<footer class="footer bg-dark-overlay" style="background-image: url(/img/footer/1.jpg);">
+			<footer class="footer bg-dark-overlay">
 				<div class="container-fluid">
 					<div class="footer__widgets">
 						<div class="row">
