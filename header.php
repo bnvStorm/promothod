@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Sedona | Elements</title>
+	<title>Промотход</title>
 
 	<meta charset="utf-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
@@ -30,7 +30,7 @@
 	<!-- Preloader -->
 	<div class="loader-mask">
 		<div class="loader">
-			"Loading..."
+			"Загрузка..."
 		</div>
 	</div>
 
@@ -61,78 +61,78 @@
 						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
 							<ul class="nav__menu">
 								<li class="nav__dropdown active">
-									<a href="index.html" aria-haspopup="true">Home</a>
+									<a href="index.html" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<ul class="nav__dropdown-menu">
-										<li><a href="index.html">Home 1</a></li>
+									<!-- <ul class="nav__dropdown-menu">
+										<li><a href="index.html">О нас</a></li>
 										<li><a href="index-2.html">Home 2</a></li>
 										<li><a href="index-3.html">Home 3</a></li>
 										<li><a href="index-4.html">Home 4</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Pages</a>
+									<a href="#" aria-haspopup="true">Услуги</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<ul class="nav__dropdown-menu">
+						<!-- 			<ul class="nav__dropdown-menu">
 										<li><a href="about.html">About</a></li>
 										<li><a href="services.html">Services</a></li>
 										<li><a href="single-service.html">Single Service</a></li>
 										<li><a href="contact.html">Contact</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Works</a>
+									<a href="#" aria-haspopup="true">Отходы</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<ul class="nav__dropdown-menu">
+								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="portfolio.html">Portfolio</a></li>
 										<li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
 										<li><a href="portfolio-single.html">Portfolio Single</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Features</a>
+									<a href="#" aria-haspopup="true">Инфо</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<ul class="nav__dropdown-menu">
+								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="icons.html">Icons</a></li>
 										<li><a href="elements.html">Elements</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="blog.html" aria-haspopup="true">Blog</a>
+									<a href="blog.html" aria-haspopup="true">Контакты</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<ul class="nav__dropdown-menu">
+								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="blog-masonry.html">Blog Masonry</a></li>
 										<li><a href="blog.html">Blog Standard</a></li>
 										<li><a href="single-post.html">Single Post</a></li>
-									</ul>
+									</ul> -->
 								</li>
 							</ul> <!-- end menu -->
 							<div class="nav__phone nav__phone--mobile d-lg-none">
-								<span class="nav__phone-text">Call us:</span>
-								<a href="tel:1-800-995-3959" class="nav__phone-number">1-800-995-3959</a>
+								<span class="nav__phone-text">Позвоните нам:</span>
+								<a href="tel: 8 (7212) 41-00-29" class="nav__phone-number"> 8 (7212) 41-00-29</a>
 							</div>
 
 							<div class="nav__socials nav__socials--mobile d-lg-none">
 								<div class="socials">
-									<a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a>
+									<!-- <a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a> -->
 									<a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
-									<a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a>
+									<!-- <a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a> -->
 									<a href="#" class="social social-instagram" aria-label="instagram" title="instagram" target="_blank"><i class="ui-instagram"></i></a>
 								</div>
 							</div>
 						</nav> <!-- end nav-wrap -->
 
 						<div class="nav__phone nav--align-right d-none d-lg-block">
-							<span class="nav__phone-text">Call us:</span>
-							<a href="tel:1-800-995-3959" class="nav__phone-number">1-800-995-3959</a>
+						<!-- 	<span class="nav__phone-text">Позвоните нам:</span> -->
+							<a href="tel:8 (7212) 41-00-29" class="nav__phone-number">8 (7212) 41-00-29</a>
 						</div>
 
 						<div class="nav__socials d-none d-lg-block">
 							<div class="socials">
-								<a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a>
-								<a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
-								<a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a>
-								<a href="#" class="social social-instagram" aria-label="instagram" title="instagram" target="_blank"><i class="ui-instagram"></i></a>
+							<!-- 	<a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a> -->
+							<!-- 	<a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a> -->
+							<!-- 	<a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a> -->
+								<!-- <a href="#" class="social social-instagram" aria-label="instagram" title="instagram" target="_blank"><i class="ui-instagram"></i></a> -->
 							</div>
 						</div>
 
