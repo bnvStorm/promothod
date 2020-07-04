@@ -3,7 +3,7 @@
 
 		<div class="content-wrapper content-wrapper--boxed oh">
 
-		<?php echo $content; ?>
+		404
 		
 </div>
 			<!-- Footer -->

@@ -204,10 +204,10 @@
 
             </div>
 			<!-- Intro -->
-			<section class="section-wrap intro pb-40">
+			<section class="section-wrap intro">
 				<div class="container">
 					<div class="row">
-					<div class="col-lg-5 right-box">
+					<div class="col-sm-12 col-md-12 col-lg-5 right-box">
 
                  	<a href="/otkhody/akkumulyatory/" class="lkn-1 square" title="утилизация аккумуляторов">
                  		<img src="img/link/link-img-1.png" alt="утилизация аккумуляторов">
@@ -307,7 +307,7 @@
                     	<img src="img/link/link-img-15.png" alt="">
                     </a>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-7 col-sm-9 col-md-9">
             	<div class="row">
             		<div class="col-lg-12">
 							<h2 class="intro__title">25 лет опыта</h2>
@@ -348,16 +348,16 @@
 			<section class="section-wrap pt-72 pb-72 pb-lg-40">
 				<div class="container">
 					<div class="title-row">
-						<h2 class="section-title">Discover Recent Works</h2>
+						<h2 class="section-title">Галерея</h2>
 					</div>					
 
 					<!-- Filter -->
 					<div class="masonry-filter">
-						<a href="#" class="filter active" data-filter="*">All</a>
-						<a href="#" class="filter" data-filter=".residential">Residential</a>
-						<a href="#" class="filter" data-filter=".commercial">Commercial</a>
-						<a href="#" class="filter" data-filter=".interior">Interior</a>
-						<a href="#" class="filter" data-filter=".landscape">Landscape</a>
+						<a href="#" class="filter active" data-filter="*">Все</a>
+						<a href="#" class="filter" data-filter=".residential">Один</a>
+						<a href="#" class="filter" data-filter=".commercial">Два</a>
+						<a href="#" class="filter" data-filter=".interior">Три</a>
+						<a href="#" class="filter" data-filter=".landscape">Четыре</a>
 					</div> <!-- end filter -->
 
 					<div class="row masonry-grid">
@@ -369,7 +369,7 @@
 										<img src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
-												<h3 class="project__title">Keangnam Grand Hall</h3>
+												<h3 class="project__title">Текст</h3>
 												<span class="project__date">2018</span>
 											</div>
 										</div>
@@ -385,7 +385,7 @@
 										<img src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
-												<h3 class="project__title">Green House</h3>
+												<h3 class="project__title">Текст</h3>
 												<span class="project__date">2018</span>
 											</div>
 										</div>
@@ -401,7 +401,7 @@
 										<img src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
-												<h3 class="project__title">Contemporary Villa</h3>
+												<h3 class="project__title">Текст</h3>
 												<span class="project__date">2018</span>
 											</div>
 										</div>
@@ -417,7 +417,7 @@
 										<img src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
-												<h3 class="project__title">Business Office</h3>
+												<h3 class="project__title">Текст</h3>
 												<span class="project__date">2018</span>
 											</div>
 										</div>
@@ -435,8 +435,8 @@
 			<section class="section-wrap bg-dark-overlay" style="background-image: url(img/testimonials/bg.jpg);">
 				<div class="container">
 					<div class="title-row text-center">
-						<p class="subtitle">Testimonials</p>
-						<h2 class="section-title">What clients say about us</h2>
+						<p class="subtitle">Текст</p>
+						<h2 class="section-title">Слайдер с текстом</h2>
 						<i class="quote">“</i>
 					</div>					
 
@@ -444,41 +444,21 @@
 
 						<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this work for anyone seeking to increase.”</p>
+								<p class="testimonial__text">“Цитата”</p>
 							</div>
 							<div class="testimonial__info">
-								<span class="testimonial__author">Joeby Ragpa</span>
-								<span class="testimonial__company">DeoThemes</span>
+								<span class="testimonial__author">Текст</span>
+								<span class="testimonial__company">Текст</span>
 							</div>
 						</div>
 
-						<div class="testimonial clearfix">
+												<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented! I will work only to help your sales goals.”</p>
+								<p class="testimonial__text">“Цитата”</p>
 							</div>
 							<div class="testimonial__info">
-								<span class="testimonial__author">Alexander Samokhin</span>
-								<span class="testimonial__company">DeoThemes</span>
-							</div>
-						</div>
-
-						<div class="testimonial clearfix">
-							<div class="testimonial__body">
-								<p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this work for anyone seeking to increase.”</p>
-							</div>
-							<div class="testimonial__info">
-								<span class="testimonial__author">Joeby Ragpa</span>
-								<span class="testimonial__company">DeoThemes</span>
-							</div>
-						</div>
-
-						<div class="testimonial clearfix">
-							<div class="testimonial__body">
-								<p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented! I will work only to help your sales goals.”</p>
-							</div>
-							<div class="testimonial__info">
-								<span class="testimonial__author">Alexander Samokhin</span>
-								<span class="testimonial__company">DeoThemes</span>
+								<span class="testimonial__author">Текст</span>
+								<span class="testimonial__company">Текст</span>
 							</div>
 						</div>
 
@@ -532,15 +512,14 @@
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
-									<p class="subtitle">From Blog</p>
-									<h2 class="section-title">Specialized news</h2>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun tur magni dolores eos qui
-									ratione</p>
+									<p class="subtitle">Текст</p>
+									<h2 class="section-title">Текст</h2>
+									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Не правилами коварных подзаголовок, знаках пустился большого свое семь, предупреждал вершину себя, оксмокс великий. Речью рукописи, назад рот! Сбить, коварных.</p>
 								</div>
 								<div class="call-us mt-auto">
 									<i class="icon-Dispacher-2 call-us__icon"></i>
-									<span class="call-us__title">Call us anytime</span>
-									<a href="tel:1-800-995-3959" class="call-us__phone-number"> 1-800-995-3959</a>
+									<span class="call-us__title">Звоните в любое время</span>
+									<a href="tel:8 (7212) 41-00-29" class="call-us__phone-number"> 8 (7212) 41-00-29</a>
 								</div>
 							</div>							
 						</div>						
@@ -558,11 +537,11 @@
 											<div class="entry__body">
 												<ul class="entry__meta">
 													<li class="entry__meta-date">
-														<span>15 November 2018</span>
+														<span>15 нбр 2020</span>
 													</li>
 												</ul>
 												<h4 class="entry__title">
-													<a href="single-post.html">Best buildings of 2018 revealed at day one of World Architecture Festival 2018.</a>
+													<a href="single-post.html">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Знаках грустный заголовок реторический, пояс ведущими моей себя, имени гор выйти, алфавит страну собрал. Страна щеке назад маленький за точках.</a>
 												</h4>
 											</div>
 										</article>
@@ -577,11 +556,11 @@
 											<div class="entry__body">
 												<ul class="entry__meta">
 													<li class="entry__meta-date">
-														<span>15 November 2018</span>
+														<span>15 дек 2020</span>
 													</li>
 												</ul>
 												<h4 class="entry__title">
-													<a href="single-post.html">Sunken washroom by Studio 304 allows residents to bathe in a garden setting.</a>
+													<a href="single-post.html">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушавшись раз, он силуэт.</a>
 												</h4>
 											</div>
 										</article>
@@ -591,16 +570,15 @@
 									<ul class="from-blog__recent-posts-list">
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">1</span>
-											<a href="single-post.html" class="from-blog__post-url">Guadalajara offers "extraordinary opportunities" for young architects</a>
+											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">2</span>
-											<a href="single-post.html" class="from-blog__post-url">Lacy Brick by Pamphilon ArchitectsResidentialPamphilon Architects adds textured
-											brick extension to Edwardian house in London</a>
+											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">3</span>
-											<a href="single-post.html" class="from-blog__post-url">Guadalajara offers "extraordinary opportunities" for young architects</a>
+											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 									</ul>
 								</div>								 

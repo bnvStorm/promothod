@@ -4,6 +4,10 @@
 .logo{
 	max-width: 250px;
 }
+.intro{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 // SLDER
 .tp-bgimg.defaultimg:before{
     content: "";
@@ -20,6 +24,10 @@
 	padding-right: 0;
 }
 // SLIDER
+.content-wrapper--boxed{
+	height: 80vh;
+padding: 20px;
+}
 // RIGHT BOX
 .right-box{
 	display: -webkit-flex;
@@ -81,3 +89,8 @@ a.square:hover{
 // 	top: -44px !important;
 // }
 // RIGHT BOX
+@media(max-width:770px){
+	.right-box{
+		// max-width: 300px;
+	}
+}
