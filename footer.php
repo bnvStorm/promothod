@@ -1,5 +1,3 @@
-     
-
 			<!-- Footer -->
 			<footer class="footer bg-dark-overlay" style="background-image: url(img/footer/1.jpg);">
 				<div class="container-fluid">
@@ -10,18 +8,33 @@
 								<div class="widget widget-about-us">
 									<!-- Logo -->
 									<a href="index.html" class="logo-container flex-child">
-										<img class="logo" src="img/logo_white.png" srcset="img/logo_white.png 1x, img/logo_white@2x.png 2x" alt="logo">
+										<img class="logo" src="img/logo.png" srcset="img/logo.png 1x, img/logo_white@2x.png 2x" alt="logo">
 									</a>
 								</div>
 							</div> <!-- end logo -->
 
 							<div class="col-lg-2 col-md-3">
 								<div class="widget widget_nav_menu">
-									<ul>
-										<li><a href="#">About</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Contact</a></li>
+									<ul class="footer-list">
+
+											<li><a href="/o-nas/">О нас</a></li>								
+
+											<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
+
+											<li><a href="/uslugi/">Услуги</a></li>									
+
+											<li><a href="/otkhody/">Отходы</a></li>									
+
+											<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
+
+											<li><a href="/o-nas/novosti/">Новости</a></li>							
+
+											<li><a href="/tseny/">Цены</a></li>										
+
+											<li><a href="/resheniya/">Решения</a></li>								
+
+											<li><a href="/sitemap/">Карта сайта</a></li>							
+
 									</ul>
 								</div>
 							</div>
@@ -72,7 +85,22 @@
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/plugins.js"></script>
+	<script src="revolution/js/jquery.themepunch.tools.min.js"></script>
+	<script src="revolution/js/jquery.themepunch.revolution.min.js"></script>
+	<script src="js/rev-slider.js"></script>
 	<script src="js/scripts.js"></script>
+
+
+	<!-- Rev Slider Offline Scripts -->
+	<script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
+	<script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
 
 </body>
 </html>

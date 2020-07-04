@@ -62,7 +62,7 @@
 						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
 							<ul class="nav__menu">
 								<li class="nav__dropdown active">
-									<a href="index.html" aria-haspopup="true">О нас</a>
+									<a href="/o-nas/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">
 										<li><a href="index.html">О нас</a></li>
@@ -72,7 +72,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Услуги</a>
+									<a href="/uslugi/" aria-haspopup="true">Услуги</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 						<!-- 			<ul class="nav__dropdown-menu">
 										<li><a href="about.html">About</a></li>
@@ -82,7 +82,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Отходы</a>
+									<a href="/otkhody/" aria-haspopup="true">Отходы</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="portfolio.html">Portfolio</a></li>
@@ -91,7 +91,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="#" aria-haspopup="true">Инфо</a>
+									<a href="/info/" aria-haspopup="true">Инфо</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="icons.html">Icons</a></li>
@@ -99,7 +99,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="blog.php" aria-haspopup="true">Контакты</a>
+									<a href="/kontakty/" aria-haspopup="true">Контакты</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="blog-masonry.html">Blog Masonry</a></li>
