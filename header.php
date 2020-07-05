@@ -142,4 +142,11 @@
 
 			</div>
 		</header> <!-- end navigation -->
-
+<?php 
+$dev_mode = true;
+if ($dev_mode) {
+	echo '<a targer="_blank"href="/dev.php?func=save_to_file&page_id='.$id.'" class="btn btn--md btn--dark"><span>Сохранить в файл</span></a>';
+	echo '<a targer="_blank"href="/dev.php?func=save_to_db&page_id='.$id.'" class="btn btn--md btn--dark"><span>Сохранить в базу</span></a>';
+	echo '<a targer="_blank"href="/dev.php?func=view_from_cache&page_id='.$id.'" class="btn btn--md btn--dark"><span>Посмотреть из кеша</span></a>';
+}
+?>

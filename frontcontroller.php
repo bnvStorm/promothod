@@ -30,6 +30,7 @@ if ($result->num_rows > 0) {
     $keywords = $row['keywords'];
     $h1 = $row['h1'];	
     $content = $row['content'];	
+    $id = $row['id'];
     }
 }  
 $conn->close();
