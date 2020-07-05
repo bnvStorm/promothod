@@ -1,6 +1,36 @@
+#frontcontroller
 RewriteEngine On
+RewriteBase /
 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 
 RewriteRule ^(.*)$ ./frontcontroller.php?route=$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI} ^/index$ [OR]
+RewriteCond %{REQUEST_URI} ^/index[.]+(\w+)$
+    RewriteRule . / [R=301,L]
+
+
+
+#Запрещаем просмотр содержимого папки
+Options All -Indexes
+
+#Устанавливаем альтернативную страницу по-умолчанию
+DirectoryIndex index.php
+
+ErrorDocument 401 /404.php
+ErrorDocument 403 /404.php
+ErrorDocument 404 /404.php
+ErrorDocument 500 /404.php
+
+
+<files footer.php>
+order allow,deny
+deny from all
+</files>
+
+<files header.php>
+order allow,deny
+deny from all
+</files>
