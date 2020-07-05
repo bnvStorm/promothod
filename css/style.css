@@ -5863,6 +5863,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 10px;
 }
 
+.nav__menu > li > a, .nav__phone-text, .nav__phone-number, .footer__widgets a, .copyright {
+  color: #fff;
+}
+
 .leftMenu {
   max-width: 270px;
   width: 100%;

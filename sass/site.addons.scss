@@ -11,6 +11,9 @@ h1, h2, h3, h4, h5, h6{
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+.nav__menu > li > a,.nav__phone-text, .nav__phone-number,.footer__widgets a,.copyright{
+	color:#fff;
+}
 // LEFT_MENU
 .leftMenu{
 	max-width: 270px;
