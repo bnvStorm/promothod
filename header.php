@@ -143,7 +143,7 @@
 			</div>
 		</header> <!-- end navigation -->
 <?php 
-$dev_mode = true;
+require 'config.php';
 if ($dev_mode) {
 	echo '<a targer="_blank"href="/dev.php?func=save_to_file&page_id='.$id.'" class="btn btn--md btn--dark"><span>Сохранить в файл</span></a>';
 	echo '<a targer="_blank"href="/dev.php?func=save_to_db&page_id='.$id.'" class="btn btn--md btn--dark"><span>Сохранить в базу</span></a>';
