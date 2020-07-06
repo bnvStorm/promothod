@@ -432,7 +432,7 @@
 
 
 			<!-- Testimonials -->
-			<section class="section-wrap bg-dark-overlay" style="background-image: url(img/testimonials/bg.jpg);">
+			<section class="section-wrap bg-dark-overlay" style="background-image: url(img/vyvoz_ewaste.JPG);background-size:contain;">
 				<div class="container">
 					<div class="title-row text-center">
 						<p class="subtitle">Текст</p>
@@ -470,6 +470,9 @@
 			<!-- Partners -->
 			<div class="partners bg-light text-center">
 				<div class="container">
+							<div class="title-row">
+						<h2 class="section-title">Наши партнеры</h2>
+					</div>	
 					<div class="row">
 						<div class="col-sm-2">
 							<a href="#">

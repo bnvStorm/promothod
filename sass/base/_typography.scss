@@ -77,13 +77,13 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   }
 }
 
-.subtitle {
+.subtitle,.testimonial__text{
   font-size: 14px;
   line-height: 1.56;
   font-weight: 500;
   @include uppercase;
   letter-spacing: 0.3em;
-  color: $main-color;
+  color: #ffffff;
 }
 
 .highlight {
