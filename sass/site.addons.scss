@@ -4,12 +4,13 @@ h1, h2, h3, h4, h5, h6{
 .nav__container--side-padding{
 	background: #007777;
 }
-.logo{
-	max-width: 250px;
-}
+
 .intro{
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+.nav__container--side-padding{
+	background: url('../img/new/header.jpg');
 }
 .nav__menu > li > a,.nav__phone-text, .nav__phone-number,.footer__widgets a,.copyright{
 	color:#fff;
@@ -19,6 +20,12 @@ h1, h2, h3, h4, h5, h6{
 }
 .intro__title {
 	max-width: 350px;
+}
+.about_img{
+	display: block;
+	float: right;
+	width: 100%;
+	max-width: 400px;
 }
 // LEFT_MENU
 .leftMenu{
@@ -199,9 +206,9 @@ a.square:hover{
 	background-color: unset;
 }
 .footer{
-	background-image: none;
-	background: #727271;
+	background: url('../img/new/footer.jpg');
 }
+
 // FOOTER
 @media(max-width:1360px){
 	h1, .h1 {
@@ -236,4 +243,9 @@ h1, .h1 {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+@media(max-width: 1360px) and (min-width: 1020px){
+	.nav__wrap{
+		padding-left: 100px;
+	}
 }

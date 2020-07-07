@@ -179,6 +179,8 @@
 -------------------------------------------------------*/
 .logo {
   line-height: 1;
+  max-width: 250px;
+  max-height: 70px;
 }
 
 
@@ -361,7 +363,7 @@ header .flex-parent {
     .nav__wrap {
       padding-left: 0;
       width: 100%;
-      margin-top: 40px;
+      margin-top: 60px;
     }
 
     .nav__menu,

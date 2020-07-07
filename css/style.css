@@ -3336,7 +3336,7 @@ figcaption {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   z-index: 120;
-  min-height: 95px;
+  min-height: 80px;
   position: relative;
   /* Dropdowns (large screen) */
 }
@@ -3393,7 +3393,7 @@ figcaption {
   color: #C5C6C6;
   font-size: 15px;
   padding: 0 17px;
-  line-height: 95px;
+  line-height: 80px;
   display: block;
   position: relative;
 }
@@ -3485,6 +3485,8 @@ figcaption {
 -------------------------------------------------------*/
 .logo {
   line-height: 1;
+  max-width: 250px;
+  max-height: 70px;
 }
 
 /* Nav Flexbox
@@ -3643,7 +3645,7 @@ header .flex-parent {
   .nav--side .nav__wrap {
     padding-left: 0;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 60px;
   }
   .nav--side .nav__menu,
 .nav--side .nav__menu > li {
@@ -4399,7 +4401,7 @@ iframe {
 /* Bottom Footer
 -------------------------------------------------------*/
 .footer__bottom {
-  padding: 24px 0 40px;
+  padding: 5px 0 20px;
   position: relative;
 }
 
@@ -5854,13 +5856,13 @@ h1, h2, h3, h4, h5, h6 {
   background: #007777;
 }
 
-.logo {
-  max-width: 250px;
-}
-
 .intro {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.nav__container--side-padding {
+  background: url("../img/new/header.jpg");
 }
 
 .nav__menu > li > a, .nav__phone-text, .nav__phone-number, .footer__widgets a, .copyright {
@@ -5873,6 +5875,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .intro__title {
   max-width: 350px;
+}
+
+.about_img {
+  display: block;
+  float: right;
+  width: 100%;
+  max-width: 400px;
 }
 
 .leftMenu {
@@ -6032,8 +6041,7 @@ a.square:hover img {
 }
 
 .footer {
-  background-image: none;
-  background: #727271;
+  background: url("../img/new/footer.jpg");
 }
 
 @media (max-width: 1360px) {
@@ -6065,4 +6073,10 @@ a.square:hover img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 1360px) and (min-width: 1020px) {
+  .nav__wrap {
+    padding-left: 100px;
+  }
 }
