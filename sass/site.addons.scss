@@ -14,6 +14,12 @@ h1, h2, h3, h4, h5, h6{
 .nav__menu > li > a,.nav__phone-text, .nav__phone-number,.footer__widgets a,.copyright{
 	color:#fff;
 }
+.nav__menu > li > a:hover,.footer__widgets a:hover {
+    color: #0b4465;
+}
+.intro__title {
+	max-width: 350px;
+}
 // LEFT_MENU
 .leftMenu{
 	max-width: 270px;
@@ -104,7 +110,7 @@ h1, h2, h3, h4, h5, h6{
 .content-wrapper--boxed{
 	min-height: 80vh;
 	height: 100%;
-	padding: 20px;
+	// padding: 20px;
 }
 // RIGHT BOX
 .right-box{
@@ -175,6 +181,7 @@ a.square:hover{
 	display: -o-flex;
 	display: flex;
 	flex-wrap:wrap;
+	padding: 20px;
 }
 .content_text{
 	display: -webkit-flex;
@@ -196,6 +203,11 @@ a.square:hover{
 	background: #727271;
 }
 // FOOTER
+@media(max-width:1360px){
+	h1, .h1 {
+    font-size: 32px;
+}
+}
 @media(max-width:1024px){
 	.content_text{
     max-width: 680px;
@@ -218,4 +230,10 @@ h1, .h1 {
 	.right-box{
 		// max-width: 300px;
 	}
+}
+.content_404{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
