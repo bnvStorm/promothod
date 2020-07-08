@@ -1,5 +1,7 @@
 <?php 
 require 'config.php';
+
+// проверка на дев режим
 if (!$dev_mode) {
 	header('Location: '. $base_uri . '404.php');
 	exit;
@@ -24,6 +26,7 @@ switch ($_GET['func']) {
 		break;
 }
 
+// сохраняет контент из бд в файл
 function save_to_file($page_id)
 {
 // выбираем контент из бд
@@ -48,19 +51,20 @@ function save_to_file($page_id)
 	}
 	// если результат есть
 	if ($result->num_rows > 0) {
-	  // присваиваем значения переменных и закрываем соединение
+	  // присваиваем значения переменных
 	  while($row = $result->fetch_assoc()) {	
 	    $content = $row['content'];
 	    $id = $row['id'];
 	    $filename = 'cache/' . $id . '.php';
 	    file_put_contents( $filename, $content);	
-	    echo "Страница успешно создана. Хотите просмотреть ее на сайте?";	
+	    echo "Страница с id $id успешно создана. Хотите просмотреть ее на сайте?";	
 	    }
 	}  
 	$conn->close();
 
 }
 
+// сохраниет контент из файла в базу данных по id страницы
 function save_to_db($page_id)
 {
 	require 'config.php';
@@ -88,6 +92,7 @@ function save_to_db($page_id)
 	$conn->close();
 }
 
+// генерирует страницу для показа страницы из файла кеша
 function view_from_cache($page_id)
 {
 	require 'config.php';
@@ -332,6 +337,7 @@ function view_from_cache($page_id)
 
 }
 
+// сохраняет все файлы из папки кеш, в соответствующие idшникам поля в таблицу в поле content
 function save_all_files_to_db()
 {
 	$files = scandir('cache');
