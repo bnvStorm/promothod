@@ -1,12 +1,19 @@
 #frontcontroller
 RewriteEngine On
+
 RewriteBase /
 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 
+# исключаем папки из обрабоки
+RewriteCond %{REQUEST_URI} !^/img/.*$
+RewriteCond %{REQUEST_URI} !^/upload/.*$
+
+# переадресация на фронтконтроллер
 RewriteRule ^(.*)$ ./frontcontroller.php?route=$1 [QSA,L]
 
+#переадресация с index на /
 RewriteCond %{REQUEST_URI} ^/index$ [OR]
 RewriteCond %{REQUEST_URI} ^/index[.]+(\w+)$
     RewriteRule . / [R=301,L]
@@ -25,6 +32,7 @@ ErrorDocument 404 /404.php
 ErrorDocument 500 /404.php
 
 
+# сокрытие файлов от просмотра
 <files footer.php>
 order allow,deny
 deny from all
