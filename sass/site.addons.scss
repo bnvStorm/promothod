@@ -279,6 +279,11 @@ h1, .h1 {
 	}
 }
 @media only screen and (max-width: 991px){
+	.logo-container{
+		max-width: 320px;
+		width: 100%;
+	}
+
 .nav__header {
     height: 80px;
 }
@@ -291,4 +296,14 @@ h1, .h1 {
 .bg-dark-overlay:before{
 	background: none;
 }
+.nav{
+	width: 100%;
+	position: fixed;
+}
+}
+@media(max-width: 320px){
+		.nav__icon-toggle{
+		left: -45px;
+    position: relative;
+	}
 }
