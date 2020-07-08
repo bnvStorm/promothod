@@ -20,7 +20,7 @@
 							data-title="Переработка отходов"
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/1.png"
+							<img src="img/revolution/home-1/11.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -114,7 +114,7 @@
 							data-title="Временное хранение отходов"
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/2.png"
+							<img src="img/revolution/home-1/22.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
