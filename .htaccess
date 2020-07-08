@@ -1,12 +1,19 @@
 #frontcontroller
 RewriteEngine On
+
 RewriteBase /
 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 
+# исключаем папки из обрабоки
+RewriteCond %{REQUEST_URI} !^/img/.*$
+RewriteCond %{REQUEST_URI} !^/upload/.*$
+
+# переадресация на фронтконтроллер
 RewriteRule ^(.*)$ ./frontcontroller.php?route=$1 [QSA,L]
 
+#переадресация с index на /
 RewriteCond %{REQUEST_URI} ^/index$ [OR]
 RewriteCond %{REQUEST_URI} ^/index[.]+(\w+)$
     RewriteRule . / [R=301,L]
@@ -25,6 +32,7 @@ ErrorDocument 404 /404.php
 ErrorDocument 500 /404.php
 
 
+# сокрытие файлов от просмотра
 <files footer.php>
 order allow,deny
 deny from all
@@ -34,3 +42,22 @@ deny from all
 order allow,deny
 deny from all
 </files>
+
+#caching
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType application/javascript "access plus 7 days"
+ExpiresByType text/javascript "access plus 7 days"
+ExpiresByType text/css "access plus 7 days"
+ExpiresByType image/gif "access plus 7 days"
+ExpiresByType image/jpeg "access plus 7 days"
+ExpiresByType image/png "access plus 7 days"
+</IfModule>
+
+FileETag MTime Size
+<ifmodule mod_expires.c>
+<filesmatch ".(jpg|gif|png|css|js)$">
+ExpiresActive on
+ExpiresDefault "access plus 1 month"
+</filesmatch>
+</ifmodule>

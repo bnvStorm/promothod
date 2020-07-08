@@ -18,7 +18,8 @@ $result = $conn->query($sql);
 // если результатов не найдено
 if ($result->num_rows < 1) {
 // редирект на 404 ошибку
-	header('Location: '. $base_uri . '404.php');
+header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
+include("404.php");
   	exit;
 }
 // если результат есть
