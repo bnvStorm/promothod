@@ -3336,7 +3336,7 @@ figcaption {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   z-index: 120;
-  min-height: 80px;
+  min-height: 70px;
   position: relative;
   /* Dropdowns (large screen) */
 }
@@ -3393,7 +3393,7 @@ figcaption {
   color: #C5C6C6;
   font-size: 15px;
   padding: 0 17px;
-  line-height: 80px;
+  line-height: 70px;
   display: block;
   position: relative;
 }
@@ -5852,8 +5852,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #181818;
 }
 
-.nav__container--side-padding {
-  background: #007777;
+.logo {
+  margin-left: 70px;
+}
+
+.logo-container {
+  display: block;
+  width: 320px;
+  background: url("../img/new/hlogo.png") 50% 50% no-repeat;
+  background-size: cover;
+}
+
+footer .logo-container {
+  display: block;
+  width: 320px;
+  background: none;
+  background-size: cover;
 }
 
 .intro {
@@ -5862,7 +5876,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav__container--side-padding {
+  padding: 0;
+  background: #007777;
   background: url("../img/new/header.jpg");
+  background-size: contain;
 }
 
 .nav__menu > li > a, .nav__phone-text, .nav__phone-number, .footer__widgets a, .copyright {
@@ -6017,6 +6034,11 @@ a.square:hover img {
   top: -93px;
 }
 
+.intro {
+  background: url(../img/new/bg.jpg) -320% 0% no-repeat;
+  background-size: cover;
+}
+
 .content {
   display: -moz-flex;
   display: -ms-flex;
@@ -6038,10 +6060,15 @@ a.square:hover img {
 
 .bg-dark-overlay:before {
   background-color: unset;
+  background: url("../img/new/flogo.png") 0% 50% no-repeat;
 }
 
 .footer {
   background: url("../img/new/footer.jpg");
+}
+
+footer .logo {
+  margin-left: 20px;
 }
 
 @media (max-width: 1360px) {
