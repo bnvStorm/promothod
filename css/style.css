@@ -3555,9 +3555,10 @@ header .flex-parent {
 -------------------------------------------------------*/
 .nav__icon-toggle {
   margin-left: auto;
+  margin-right: 10px;
   position: relative;
-  padding: 9px 0 9px 10px;
-  background-color: transparent;
+  padding: 10px;
+  background-color: #fff;
   border: none;
   z-index: 50;
 }
@@ -5853,12 +5854,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
+  margin-top: 5px;
   margin-left: 70px;
 }
 
 .logo-container {
   display: block;
   width: 320px;
+  height: 80px;
   background: url("../img/new/hlogo.png") 50% 50% no-repeat;
   background-size: cover;
 }
@@ -6095,6 +6098,10 @@ footer .logo {
     height: 25px;
   }
 }
+.ui-instagram:before, .ui-facebook:before {
+  color: #fff;
+}
+
 .content_404 {
   display: flex;
   flex-direction: column;
@@ -6102,8 +6109,29 @@ footer .logo {
   align-items: center;
 }
 
+.contact-head-content ul {
+  padding-left: 0;
+}
+
 @media (max-width: 1360px) and (min-width: 1020px) {
   .nav__wrap {
     padding-left: 100px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .nav__header {
+    height: 80px;
+  }
+
+  .nav__menu, .nav__phone--mobile, .nav__phone + .nav__socials {
+    padding-left: 10px;
+  }
+
+  .footer ul, .footer__widgets {
+    display: none;
+  }
+
+  .bg-dark-overlay:before {
+    background: none;
   }
 }

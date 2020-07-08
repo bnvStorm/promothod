@@ -187,7 +187,7 @@
 															
 						<a href='/kontakty/predstavitelstva/' class='item '>
 							Представительства<div class='arrow'></div>						</a>
-					<!--<div class='second_level'><a href='/kontakty/predstavitelstva/astana.php' class='link item-2 '>АСТАНА</a><a href='/kontakty/predstavitelstva/almaty.php' class='link item-2 '>АЛМАТЫ</a></div>	-->				                </div>";
+					<div class='second_level'><a href='/kontakty/predstavitelstva/astana.php' class='link item-2 '>АСТАНА</a><a href='/kontakty/predstavitelstva/almaty.php' class='link item-2 '>АЛМАТЫ</a></div>				                </div>";
 				break;
 			
 			default:

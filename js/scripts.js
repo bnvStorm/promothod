@@ -109,12 +109,12 @@
     });
 
     $navDropdown.on('click', '> a', function(e) {
-      e.preventDefault();
+      // e.preventDefault();
     });
 
     $navDropdown.on('click',function(e) {
-      e.stopPropagation();
-      $('.nav__dropdown-menu').removeClass('hide-dropdown');
+      // e.stopPropagation();
+      // $('.nav__dropdown-menu').removeClass('hide-dropdown');
     });
   }
 

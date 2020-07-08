@@ -253,9 +253,10 @@ header .flex-parent {
 -------------------------------------------------------*/
 .nav__icon-toggle {
   margin-left: auto;
+  margin-right: 10px;
   position: relative;
-  padding: 9px 0 9px 10px;
-  background-color: transparent;
+  padding: 10px;
+  background-color: #fff;
   border: none;
   z-index: 50;
 
