@@ -8,7 +8,7 @@
 								<div class="widget widget-about-us">
 									<!-- Logo -->
 									<a href="/" class="logo-container flex-child">
-										<img class="logo" src="../img/logo.png" srcset="../img/logo.png 1x, ../img/logo_white@2x.png 2x" alt="logo">
+										<img class="logo" src="../../../img/logo.png" srcset="../../../img/logo.png 1x, ../../../img/logo_white@2x.png 2x" alt="logo">
 									</a>
 								</div>
 							</div> <!-- end logo -->
@@ -80,24 +80,7 @@
 	<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
 	<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script> -->
 	<script src="/js/scripts.js"></script>
-	<script>
-		// путь в урле
-		var pathname  = window.location.pathname;
-		$(document).ready(function(){
-			// все ссылки из бокового меню
-			var links = $('.leftMenu a');
-			// links.parents().siblings('i').click()
-			// цикл обработки ссылок
-			for (var i = links.length - 1; i >= 0; i--) {
-				// проверка на совпадение урла и ссылки
-				if (links[i].pathname === pathname) {
-					// кликнуть по иконке в ближайшем родителе
-					$(links[i]).parents().siblings('i').click()
-				}
-				
-			}
-		});
-	</script>
+	<script src="/js/site.addons.js"></script>
 
 </body>
 </html>
