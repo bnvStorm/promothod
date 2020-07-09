@@ -76,9 +76,9 @@
 	<!-- jQuery Scripts -->
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
-	<script src="/js/plugins.js"></script>
+	<script src="/js/plugins.js"></script><!-- 
 	<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
-	<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
+	<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script> -->
 	<script src="/js/scripts.js"></script>
 
 </body>

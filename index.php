@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-
+<script src="js/lazy.js"></script>
 
 		<div class="content-wrapper content-wrapper--boxed oh">
 
@@ -20,7 +20,7 @@
 							data-title="Переработка отходов"
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/1.png"
+							<img src="img/revolution/home-1/11.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -114,7 +114,7 @@
 							data-title="Временное хранение отходов"
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/2.png"
+							<img src="img/revolution/home-1/22.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -366,7 +366,7 @@
 							<div class="project__container">
 								<div class="project__img-holder">
 									<a href="portfolio-single.html">
-										<img src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
+										<img class="lazyload" data-src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
 												<h3 class="project__title">Текст</h3>
@@ -382,7 +382,7 @@
 							<div class="project__container">
 								<div class="project__img-holder">
 									<a href="portfolio-single.html">
-										<img src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
+										<img class="lazyload" data-src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
 												<h3 class="project__title">Текст</h3>
@@ -398,7 +398,7 @@
 							<div class="project__container">
 								<div class="project__img-holder">
 									<a href="portfolio-single.html">
-										<img src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
+										<img class="lazyload" data-src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
 												<h3 class="project__title">Текст</h3>
@@ -414,7 +414,7 @@
 							<div class="project__container">
 								<div class="project__img-holder">
 									<a href="portfolio-single.html">
-										<img src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
+										<img class="lazyload" data-src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
 										<div class="hover-overlay">
 											<div class="project__description">
 												<h3 class="project__title">Текст</h3>
@@ -432,7 +432,7 @@
 
 
 			<!-- Testimonials -->
-			<section class="section-wrap bg-dark-overlay" style="background-image: url(img/vyvoz_ewaste.JPG);background-size:contain;">
+			<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/vyvoz_ewaste.jpg">
 				<div class="container">
 					<div class="title-row text-center">
 						<p class="subtitle">Текст</p>
@@ -476,32 +476,32 @@
 					<div class="row">
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/1.png" alt="">
+								<img class="lazyload" data-src="img/partners/1.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/2.png" alt="">
+								<img class="lazyload" data-src="img/partners/2.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/3.png" alt="">
+								<img class="lazyload" data-src="img/partners/3.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/4.png" alt="">
+								<img class="lazyload" data-src="img/partners/4.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/5.png" alt="">
+								<img class="lazyload" data-src="img/partners/5.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img src="img/partners/6.png" alt="">
+								<img class="lazyload" data-src="img/partners/6.png" alt="">
 							</a>
 						</div>
 					</div>
@@ -534,7 +534,7 @@
 										<article class="entry">
 											<div class="entry__img-holder">
 												<a href="single-post.html">
-													<img src="img/blog/from_blog_1.jpg" class="entry__img" alt="">
+													<img data-src="img/blog/from_blog_1.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
 											<div class="entry__body">
@@ -553,7 +553,7 @@
 										<article class="entry">
 											<div class="entry__img-holder">
 												<a href="single-post.html">
-													<img src="img/blog/from_blog_2.jpg" class="entry__img" alt="">
+													<img data-src="img/blog/from_blog_2.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
 											<div class="entry__body">
@@ -592,7 +592,7 @@
 				</div>
 			</section> <!-- end from blog -->
 			<!-- Footer -->
-			<footer class="footer bg-dark-overlay">
+			<footer class="footer bg-dark-overlay lazyload" data-bg="/img/new/footer.jpg">
 				<div class="container-fluid">
 					<div class="footer__widgets">
 						<div class="row">
@@ -601,7 +601,7 @@
 								<div class="widget widget-about-us">
 									<!-- Logo -->
 									<a href="/" class="logo-container flex-child">
-										<img class="logo" src="/img/logo.png" srcset="/img/logo.png 1x, img/logo_white@2x.png 2x" alt="logo">
+										<img class="logo lazyload" data-src="/img/logo.png" srcset="/img/logo.png 1x, img/logo_white@2x.png 2x" alt="logo">
 									</a>
 								</div>
 							</div> <!-- end logo -->
@@ -677,15 +677,14 @@
 
 
 	<!-- Rev Slider Offline Scripts -->
-	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>
+<!-- 	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.actions.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-	<script src="/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+	<script src="/revolution/js/extensions/revolution.extension.parallax.min.js"></script> -->
 
 </body>
 </html>
