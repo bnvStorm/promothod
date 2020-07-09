@@ -6160,6 +6160,18 @@ footer .logo {
   }
 }
 @media only screen and (min-width: 992px) {
+  .active {
+    background: #646a6a;
+  }
+
+  .nav--side .nav__menu > li > a {
+    padding-left: 10px;
+  }
+
+  .nav__dropdown .disactive {
+    display: block;
+  }
+
   .leftMenu .nav__dropdown {
     padding-left: 10px;
   }
