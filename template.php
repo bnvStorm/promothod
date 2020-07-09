@@ -168,17 +168,33 @@
 				break;
 			case 'info':
 				echo "
-				<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>Инфо</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/' class='item '>
-							Кодексы и Законы Республики Казахстан<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/' class='link item-2 '>Экологический кодекс Республики Казахстан, Кодекс Республики Казахстан от 9 января 2007 года N 212</a></div>															
-						<a href='/info/vtorichnoe-syrye/' class='item '>
-							Вторичное сырьё						</a>
-										                </div>
+<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+								<li class='nav__dropdown'>
+									<a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/' aria-haspopup='true'>Кодексы и Законы Республики Казахстан</a>
+									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+									<ul class='nav__dropdown-menu'>
+										<li><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс Республики Казахстан, Кодекс Республики Казахстан от 9 января 2007 года N 212</a></li>
+									</ul>
+								</li>
+								<li class='nav__dropdown'>
+									<a href='/info/vtorichnoe-syrye/' aria-haspopup='true'>Вторичное сырьё</a>
+								</li>
+								
+							</ul> <!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div> <!-- end navigation -->
 				";
 				break;
 			case 'kontakty':

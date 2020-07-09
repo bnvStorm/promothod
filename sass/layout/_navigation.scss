@@ -291,7 +291,7 @@ header .flex-parent {
 /* Nav Sticky
 -------------------------------------------------------*/
 .nav__holder {
-
+background: #308585;
   &.offset {
     @include transform (translate3d(0, -100%, 0));
     @include transition ($all);

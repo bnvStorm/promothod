@@ -114,14 +114,7 @@ footer .logo-container{
     background: -o-linear-gradient(top, #0583bc, #0478b4);
     background: -ms-linear-gradient(top, #0583bc, #0478b4);
 }
-.leftMenu .item:hover + .second_level{
-	display: block;
-	opacity: 1;
-}
 
-.second_level{
-	display: none;
-}
 // LEFT_MENU
 // SLDER
 .tp-bgimg.defaultimg:before{
@@ -314,4 +307,21 @@ h1, .h1 {
 		left: -45px;
     position: relative;
 	}
+}
+@media only screen and (min-width: 992px){
+.nav--side-sticky-left {
+  position: unset; 
+}
+.nav--side .nav__container{
+	padding: 20px 30px 20px 10px;
+}
+.nav--side .nav__wrap{
+	margin-top: 10px;
+}
+.nav--side{
+	z-index: 0;
+}
+.nav--side .nav__dropdown-trigger{
+    right: -30px;
+}
 }
