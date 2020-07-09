@@ -302,6 +302,9 @@ h1, .h1 {
 	position: fixed;
 }
 }
+.ui-arrow-down:before{
+	color:#fff;
+}
 @media(max-width: 320px){
 		.nav__icon-toggle{
 		left: -45px;
@@ -309,6 +312,12 @@ h1, .h1 {
 	}
 }
 @media only screen and (min-width: 992px){
+	.nav__dropdown{
+		padding-left: 10px;
+	}
+	.nav__dropdown:hover{
+		background:#646a6a;
+	}
 .nav--side-sticky-left {
   position: unset; 
 }
@@ -323,5 +332,14 @@ h1, .h1 {
 }
 .nav--side .nav__dropdown-trigger{
     right: -30px;
+}
+.nav__dropdown-menu > li > a{
+	color: #fff;
+}
+.nav__dropdown-menu > li > a:hover, .nav__dropdown-menu > li > a:focus{
+	color:#fff;
+}
+.nav__menu > li > a:hover, .footer__widgets a:hover{
+	color:#fff;
 }
 }

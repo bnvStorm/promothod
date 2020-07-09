@@ -3661,6 +3661,7 @@ header .flex-parent {
   .nav--side .nav__menu > li > a {
     line-height: 1;
     padding: 17px 0;
+    font-size: 14px;
   }
   .nav--side .nav__dropdown-menu {
     position: relative;
@@ -6148,6 +6149,10 @@ footer .logo {
     position: fixed;
   }
 }
+.ui-arrow-down:before {
+  color: #fff;
+}
+
 @media (max-width: 320px) {
   .nav__icon-toggle {
     left: -45px;
@@ -6155,6 +6160,14 @@ footer .logo {
   }
 }
 @media only screen and (min-width: 992px) {
+  .nav__dropdown {
+    padding-left: 10px;
+  }
+
+  .nav__dropdown:hover {
+    background: #646a6a;
+  }
+
   .nav--side-sticky-left {
     position: unset;
   }
@@ -6173,5 +6186,17 @@ footer .logo {
 
   .nav--side .nav__dropdown-trigger {
     right: -30px;
+  }
+
+  .nav__dropdown-menu > li > a {
+    color: #fff;
+  }
+
+  .nav__dropdown-menu > li > a:hover, .nav__dropdown-menu > li > a:focus {
+    color: #fff;
+  }
+
+  .nav__menu > li > a:hover, .footer__widgets a:hover {
+    color: #fff;
   }
 }
