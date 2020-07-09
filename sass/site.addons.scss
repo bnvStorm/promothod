@@ -280,6 +280,9 @@ h1, .h1 {
 	}
 }
 @media only screen and (max-width: 991px){
+	.leftMenu{
+		display: none;
+	}
 	.logo-container{
 		max-width: 320px;
 		width: 100%;

@@ -154,81 +154,156 @@
 					";
 				break;
 			case 'o-nas':
-				echo "<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>О нас</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/o-nas/nasha-komanda/' >
+				echo "				<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+								<li class='nav__dropdown'>
+									<a href='/o-nas/nasha-komanda/' >
 							Наша команда						</a>
-																				
-						<a href='/o-nas/novosti/' >
+									
+								</li>												
+								<li class='nav__dropdown'>
+									<a href='/o-nas/novosti/' >
 							Новости						</a>
+									
+								</li>													
+								<li class='nav__dropdown'>
+									<a href='/o-nas/multimedia/'>Мультимедиа</a>
+									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+									<ul class='nav__dropdown-menu'>
+									<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
+									<li><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a></li>
+									<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
+								</ul>
+								</li>						
+								<li class='nav__dropdown'>
+									
+						<li class='nav__dropdown'>
+							<a href='/o-nas/nashi-partnery/' >
+							Наши партнеры						</a>		</li>	
 																				
-						<a href='/o-nas/multimedia/' >
-							Mультимедиа</div>						</a>
-					<div class='second_level'><a href='/o-nas/multimedia/video/' >Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></div>															
-						<a href='/o-nas/nashi-partnery/' >
-							Наши партнеры						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/razreshitelnye-dokumenty/' >
+							Разрешительные документы						</a>		</li>	
 																				
-						<a href='/o-nas/razreshitelnye-dokumenty/' >
-							Разрешительные документы						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/interesnye-proekty/' >
+							Интересные проекты						</a>		</li>	
 																				
-						<a href='/o-nas/interesnye-proekty/' >
-							Интересные проекты						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/otzyvy/' >
+							Отзывы						</a>		</li>	
 																				
-						<a href='/o-nas/otzyvy/' >
-							Отзывы						</a>
-																				
-						<a href='/o-nas/vakansii/' >
-							Вакансии						</a>
-										                </div>";
+						<li class='nav__dropdown'>
+							<a href='/o-nas/vakansii/' >
+							Вакансии						</a>		</li>	
+								
+
+							</ul> <!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div> ";
 				break;
 			case 'uslugi':
-				echo "<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>Услуги</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/uslugi/priem-otkhodov/' >
-							Прием отходов</div>						</a>
-					<div class='second_level'><a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' >Прием пластика ПЭТ и ПВД</a></div>															
-						<a href='/uslugi/vremennoe-khranenie-otkhodov/' >
-							Временное хранение отходов</div>						</a>
-					<div class='second_level'><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' >Контейнерные площадки</a></div>															
+				echo "	<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+							<li class='nav__dropdown'>							
+								<a href='/uslugi/priem-otkhodov/' >Прием отходов</a>
+								<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+								<ul class='nav__dropdown-menu'>
+									<li>
+										<a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' >Прием пластика ПЭТ и ПВД</a>
+									</li>	
+								</ul>	
+							</li>	
+							<li class='nav__dropdown'>										
+							<a href='/uslugi/vremennoe-khranenie-otkhodov/' >Временное хранение отходов</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+								<ul class='nav__dropdown-menu'>
+									<li><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' >Контейнерные площадки</a>	</li>
+								</ul>
+						</li>
+							<li class='nav__dropdown'>												
 						<a href='/uslugi/dokumentirovanie-otkhodov/' >
-							Документирование отходов						</a>
-																				
+							Документирование отходов						</a></li>
+							<li class='nav__dropdown'>														
 						<a href='/uslugi/zakhoronenie-otkhodov/' >
-							Захоронение отходов						</a>
-																				
+							Захоронение отходов						</a></li>
+							<li class='nav__dropdown'>														
 						<a href='/uslugi/konteynery/' >
 							Контейнеры						</a>
+							
+							<li class='nav__dropdown'>														
+								<a href='/uslugi/obezvrezhivanie-otkhodov/' >
+									Обезвреживание отходов</a>
+									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+										<ul class='nav__dropdown-menu'>
+									<li><a href='/uslugi/obezvrezhivanie-otkhodov/biologicheskoe-obezvrezhivanie/' >Биологическое обезвреживание</a>
+				</li>
+				<li><a href='/uslugi/obezvrezhivanie-otkhodov/khimicheskaya-neytralizatsiya/' >Химическая нейтрализация</a></li></ul>	
+						</li>
+						</li>
+						<li class='nav__dropdown'>	
+						<a href='/uslugi/pererabotka-otkhodov/' >Переработка отходов</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+							<ul class='nav__dropdown-menu'>
+								<li><a href='/uslugi/pererabotka-otkhodov/sortirovka/' >Сортировка</a></li>
+								<li><a href='/uslugi/pererabotka-otkhodov/droblenie/' >Дробление</a></li>
+								<li><a href='/uslugi/pererabotka-otkhodov/pressovanie/' >Прессование</a></li>
+							</ul>
+						</li>
+																			
+						<li class='nav__dropdown'>	
+							<a href='/uslugi/realizatsiya-produktov-pererabotki/' >
+							Реализация продуктов переработки</a></li>
 																				
-						<a href='/uslugi/obezvrezhivanie-otkhodov/' >
-							Обезвреживание отходов</div>						</a>
-					<div class='second_level'><a href='/uslugi/obezvrezhivanie-otkhodov/biologicheskoe-obezvrezhivanie/' >Биологическое обезвреживание</a><a href='/uslugi/obezvrezhivanie-otkhodov/khimicheskaya-neytralizatsiya/' >Химическая нейтрализация</a></div>															
-						<a href='/uslugi/pererabotka-otkhodov/' >
-							Переработка отходов</div>						</a>
-					<div class='second_level'><a href='/uslugi/pererabotka-otkhodov/sortirovka/' >Сортировка</a><a href='/uslugi/pererabotka-otkhodov/droblenie/' >Дробление</a><a href='/uslugi/pererabotka-otkhodov/pressovanie/' >Прессование</a></div>															
-						<a href='/uslugi/realizatsiya-produktov-pererabotki/' >
-							Реализация продуктов переработки						</a>
-																				
-						<a href='/uslugi/sbor-i-vyvoz-otkhodov/' >
-							Сбор и вывоз отходов</div>						</a>
-					<div class='second_level'><a href='/uslugi/sbor-i-vyvoz-otkhodov/razdelnyy-sbor/' >Раздельный сбор</a></div>															
+						<li class='nav__dropdown'>	
+							<a href='/uslugi/sbor-i-vyvoz-otkhodov/' >
+							Сбор и вывоз отходов</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+							<ul class='nav__dropdown-menu'>
+								<li><a href='/uslugi/sbor-i-vyvoz-otkhodov/razdelnyy-sbor/' >Раздельный сбор</a></li>	
+							</ul>
+						</li>
+							<li class='nav__dropdown'>										
 						<a href='/uslugi/transportirovka-otkhodov/' >
-							Транспортировка отходов						</a>
-																				
+							Транспортировка отходов						</a></li>
+										<li class='nav__dropdown'>										
 						<a href='/uslugi/upakovka-otkhodov/' >
-							Упаковка отходов						</a>
-																				
+							Упаковка отходов						</a></li>
+									<li class='nav__dropdown'>											
 						<a href='/uslugi/unichtozhenie-otkhodov/' >
-							Уничтожение отходов						</a>
-																				
+							Уничтожение отходов						</a></li>
+									<li class='nav__dropdown'>											
 						<a href='/uslugi/ustranenie-razlivov-khimicheskikh-veshchestv/' >
-							Устранение разливов химических веществ						</a>
-										                </div>
+							Устранение разливов химических веществ						</a></li>
+							</li>	
+								
+
+							</ul> <!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div>
+										               
 				";
 				break;
 			case 'info':
@@ -293,35 +368,65 @@
 				break;
 			
 			default:
-				echo "<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>О нас</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/o-nas/nasha-komanda/' >
+				echo "
+				<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+								<li class='nav__dropdown'>
+									<a href='/o-nas/nasha-komanda/' >
 							Наша команда						</a>
-																				
-						<a href='/o-nas/novosti/' >
+									
+								</li>												
+								<li class='nav__dropdown'>
+									<a href='/o-nas/novosti/' >
 							Новости						</a>
+									
+								</li>													
+								<li class='nav__dropdown'>
+									<a href='/o-nas/multimedia/'>Мультимедиа</a>
+									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+									<ul class='nav__dropdown-menu'>
+									<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
+									<li><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a></li>
+									<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
+								</ul>
+								</li>						
+								<li class='nav__dropdown'>
+									
+						<li class='nav__dropdown'>
+							<a href='/o-nas/nashi-partnery/' >
+							Наши партнеры						</a>		</li>	
 																				
-						<a href='/o-nas/multimedia/' >
-							Mультимедиа</div>						</a>
-					<div class='second_level'><a href='/o-nas/multimedia/video/' >Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></div>															
-						<a href='/o-nas/nashi-partnery/' >
-							Наши партнеры						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/razreshitelnye-dokumenty/' >
+							Разрешительные документы						</a>		</li>	
 																				
-						<a href='/o-nas/razreshitelnye-dokumenty/' >
-							Разрешительные документы						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/interesnye-proekty/' >
+							Интересные проекты						</a>		</li>	
 																				
-						<a href='/o-nas/interesnye-proekty/' >
-							Интересные проекты						</a>
+						<li class='nav__dropdown'>
+							<a href='/o-nas/otzyvy/' >
+							Отзывы						</a>		</li>	
 																				
-						<a href='/o-nas/otzyvy/' >
-							Отзывы						</a>
-																				
-						<a href='/o-nas/vakansii/' >
-							Вакансии						</a>
-										                </div>";
+						<li class='nav__dropdown'>
+							<a href='/o-nas/vakansii/' >
+							Вакансии						</a>		</li>	
+								
+
+							</ul> <!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div>  ";
 				break;
 		}  ?>
 		
