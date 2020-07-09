@@ -5970,6 +5970,15 @@ footer .logo-container {
   background: -ms-linear-gradient(top, #0583bc, #0478b4);
 }
 
+.leftMenu .item:hover + .second_level {
+  display: block;
+  opacity: 1;
+}
+
+.second_level {
+  display: none;
+}
+
 .tp-bgimg.defaultimg:before {
   content: "";
   display: block;

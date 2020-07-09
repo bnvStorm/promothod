@@ -114,6 +114,14 @@ footer .logo-container{
     background: -o-linear-gradient(top, #0583bc, #0478b4);
     background: -ms-linear-gradient(top, #0583bc, #0478b4);
 }
+.leftMenu .item:hover + .second_level{
+	display: block;
+	opacity: 1;
+}
+
+.second_level{
+	display: none;
+}
 // LEFT_MENU
 // SLDER
 .tp-bgimg.defaultimg:before{

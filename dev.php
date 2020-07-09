@@ -1,11 +1,5 @@
 <?php 
-require 'config.php';
 
-// проверка на дев режим
-if (!$dev_mode) {
-	header('Location: '. $base_uri . '404.php');
-	exit;
-}
 
 // проверка гет запросов
 switch ($_GET['func']) {
@@ -18,15 +12,11 @@ switch ($_GET['func']) {
 	case 'save_to_db':
 		save_to_db($_GET["page_id"]);
 		break;
-	case 'save_all_files_to_db':
-		save_all_files_to_db();
-		break;
 	default:
 		# code...
 		break;
 }
 
-// сохраняет контент из бд в файл
 function save_to_file($page_id)
 {
 // выбираем контент из бд
@@ -51,20 +41,19 @@ function save_to_file($page_id)
 	}
 	// если результат есть
 	if ($result->num_rows > 0) {
-	  // присваиваем значения переменных
+	  // присваиваем значения переменных и закрываем соединение
 	  while($row = $result->fetch_assoc()) {	
 	    $content = $row['content'];
 	    $id = $row['id'];
 	    $filename = 'cache/' . $id . '.php';
 	    file_put_contents( $filename, $content);	
-	    echo "Страница с id $id успешно создана. Хотите просмотреть ее на сайте?";	
+	    echo "Страница успешно создана. Хотите просмотреть ее на сайте?";	
 	    }
 	}  
 	$conn->close();
 
 }
 
-// сохраниет контент из файла в базу данных по id страницы
 function save_to_db($page_id)
 {
 	require 'config.php';
@@ -86,13 +75,13 @@ function save_to_db($page_id)
 	// выполнение запроса
 	$result = $conn->query($sql);
 	if ($result) {
-		echo "Страница c id $page_id успешно сохранена в базу данных. </br>";
+		echo "Страница успешно сохранена в базу данных. </br>";
+		echo "Страница успешно сохранена в базу данных.";
 	}
 
 	$conn->close();
 }
 
-// генерирует страницу для показа страницы из файла кеша
 function view_from_cache($page_id)
 {
 	require 'config.php';
@@ -335,17 +324,4 @@ function view_from_cache($page_id)
 		require 'footer.php';
 	}
 
-}
-
-// сохраняет все файлы из папки кеш, в соответствующие idшникам поля в таблицу в поле content
-function save_all_files_to_db()
-{
-	$files = scandir('cache');
-	$count_files = count($files);
-	for ($i=0; $i < $count_files; $i++) { 
-		if (strlen($files[$i]) > 3) {
-			$page_id = preg_replace('/[^0-9]/', '', $files[$i]);
-			save_to_db($page_id);
-		}
-	}
 }

@@ -44,8 +44,10 @@
 							Медицинское оборудование						</a>
 																				
 						<a href='/otkhody/neftesoderzhashchie-otkhody/' class='item '>
-							Нефтесодержащие отходы<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/otkhody/neftesoderzhashchie-otkhody/otrabotannye-masla/' class='link item-2 '>Отработанные масла</a><a href='/otkhody/neftesoderzhashchie-otkhody/promaslennaya-vetosh/' class='link item-2 '>Промасленная ветошь</a><a href='/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/' class='link item-2 '>Фильтры автомобильные</a><a href='/otkhody/neftesoderzhashchie-otkhody/nefteshlam/' class='link item-2 '>Нефтешлам</a><a href='/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/' class='link item-2 '>Замазученный грунт</a><a href='/otkhody/neftesoderzhashchie-otkhody/vodomaslyanye-emulsii/' class='link item-2 '>Водомасляные эмульсии</a><a href='/otkhody/neftesoderzhashchie-otkhody/otkhody-nefteuloviteley/' class='link item-2 '>Отходы нефтеуловителей</a></div>															
+							Нефтесодержащие отходы		</a>		
+										<div class='second_level'><a href='/otkhody/neftesoderzhashchie-otkhody/otrabotannye-masla/' class='link item-2 '>Отработанные масла</a><a href='/otkhody/neftesoderzhashchie-otkhody/promaslennaya-vetosh/' class='link item-2 '>Промасленная ветошь</a><a href='/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/' class='link item-2 '>Фильтры автомобильные</a><a href='/otkhody/neftesoderzhashchie-otkhody/nefteshlam/' class='link item-2 '>Нефтешлам</a><a href='/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/' class='link item-2 '>Замазученный грунт</a><a href='/otkhody/neftesoderzhashchie-otkhody/vodomaslyanye-emulsii/' class='link item-2 '>Водомасляные эмульсии</a><a href='/otkhody/neftesoderzhashchie-otkhody/otkhody-nefteuloviteley/' class='link item-2 '>Отходы нефтеуловителей</a></div>
+							
+																		
 						<a href='/otkhody/ogarki-svarochnykh-elektrodov/' class='item '>
 							Огарки сварочных электродов						</a>
 																				
