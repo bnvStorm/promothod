@@ -6165,6 +6165,10 @@ footer .logo {
   }
 
   .nav--side .nav__menu > li > a {
+    max-width: 210px;
+  }
+
+  .nav--side .nav__menu > li > a {
     padding-left: 10px;
   }
 

@@ -8,85 +8,150 @@
 			$cat = $cat[1];
 		switch ($cat) {
 			case 'otkhody':
-				echo "<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>Отходы</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/otkhody/avtomobili-i-oborudovanie/' class='item '>
+				echo "
+				<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+								<li class='nav__dropdown'>
+															<a href='/otkhody/avtomobili-i-oborudovanie/' >
 							Автомобили и оборудование						</a>
-																				
-						<a href='/otkhody/akkumulyatory/' class='item '>
+				
+									
+								</li>	
+								<li class='nav__dropdown'>
+																									
+						<a href='/otkhody/akkumulyatory/' >
 							Аккумуляторы						</a>
-																				
-						<a href='/otkhody/arkhivy-na-bumazhnykh-nositelyakh/' class='item '>
+																		</li>	
+								<li class='nav__dropdown'>		
+						<a href='/otkhody/arkhivy-na-bumazhnykh-nositelyakh/' >
 							Архивы на бумажных носителях						</a>
-																				
-						<a href='/otkhody/ballony-atsetilenovye-gazovye-kislorodnye-i-dr/' class='item '>
+																				</li>	
+								<li class='nav__dropdown'>
+						<a href='/otkhody/ballony-atsetilenovye-gazovye-kislorodnye-i-dr/' >
 							Баллоны ацетиленовые, газовые, кислородные и др.)						</a>
-																				
-						<a href='/otkhody/bumaga-karton/' class='item '>
+																				</li>	
+								<li class='nav__dropdown'>
+						<a href='/otkhody/bumaga-karton/' >
 							Бумага, картон						</a>
-																				
-						<a href='/otkhody/bytovaya-tekhnika-i-mebel/' class='item '>
+																		</li>	
+								<li class='nav__dropdown'>		
+						<a href='/otkhody/bytovaya-tekhnika-i-mebel/' >
 							Бытовая техника и мебель						</a>
-																				
-						<a href='/otkhody/lakokrasochnye-materialy/' class='item '>
+																				</li>	
+								<li class='nav__dropdown'>
+						<a href='/otkhody/lakokrasochnye-materialy/' >
 							Лакокрасочные материалы						</a>
-																				
-						<a href='/otkhody/lom-i-pyl-abrazivnykh-materialov/' class='item '>
+																				</li>	
+								<li class='nav__dropdown'>
+						<a href='/otkhody/lom-i-pyl-abrazivnykh-materialov/' >
 							Лом и пыль абразивных материалов						</a>
-																				
-						<a href='/otkhody/medotkhody/' class='item '>
+																				</li>	
+								<li class='nav__dropdown'>
+						<a href='/otkhody/medotkhody/' >
 							Медицинские отходы						</a>
+																			</li>	
+								<li class='nav__dropdown'>	
+						<a href='/otkhody/meditsinskoe-oborudovanie/' >
+							Медицинское оборудование						</a></li>	
+							<li class='nav__dropdown'>	
+												<a href='/otkhody/ogarki-svarochnykh-elektrodov/' >
+							Огарки сварочных электродов						</a></li>	
 																				
-						<a href='/otkhody/meditsinskoe-oborudovanie/' class='item '>
-							Медицинское оборудование						</a>
+						<li class='nav__dropdown'>	<a href='/otkhody/orgtekhnika-elektronnaya-tekhnika/' >
+							Оргтехника, электронная техника						</a></li>	
 																				
-						<a href='/otkhody/neftesoderzhashchie-otkhody/' class='item '>
-							Нефтесодержащие отходы		</a>		
-										<div class='second_level'><a href='/otkhody/neftesoderzhashchie-otkhody/otrabotannye-masla/' class='link item-2 '>Отработанные масла</a><a href='/otkhody/neftesoderzhashchie-otkhody/promaslennaya-vetosh/' class='link item-2 '>Промасленная ветошь</a><a href='/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/' class='link item-2 '>Фильтры автомобильные</a><a href='/otkhody/neftesoderzhashchie-otkhody/nefteshlam/' class='link item-2 '>Нефтешлам</a><a href='/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/' class='link item-2 '>Замазученный грунт</a><a href='/otkhody/neftesoderzhashchie-otkhody/vodomaslyanye-emulsii/' class='link item-2 '>Водомасляные эмульсии</a><a href='/otkhody/neftesoderzhashchie-otkhody/otkhody-nefteuloviteley/' class='link item-2 '>Отходы нефтеуловителей</a></div>
-							
-																		
-						<a href='/otkhody/ogarki-svarochnykh-elektrodov/' class='item '>
-							Огарки сварочных электродов						</a>
+						<li class='nav__dropdown'>	<a href='/otkhody/plastik-polimery/' >
+							Пластик, полимеры						</a></li>	
 																				
-						<a href='/otkhody/orgtekhnika-elektronnaya-tekhnika/' class='item '>
-							Оргтехника, электронная техника						</a>
+						<li class='nav__dropdown'>	<a href='/otkhody/produkty-pitaniya-prosrochennye/' >
+							Продукты питания просроченные						</a></li>	
 																				
-						<a href='/otkhody/plastik-polimery/' class='item '>
-							Пластик, полимеры						</a>
+						<li class='nav__dropdown'>	<a href='/otkhody/otkhody-drevesiny/' >
+							Отходы древесины						</a></li>	
+								
+								<li class='nav__dropdown'>	
+						<a href='/otkhody/neftesoderzhashchie-otkhody/' >
+							Нефтесодержащие отходы		</a>	
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+								<ul class='nav__dropdown-menu'>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/otrabotannye-masla/'>Отработанные масла</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/promaslennaya-vetosh/'>Промасленная ветошь</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/'>Фильтры автомобильные</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/nefteshlam/' >Нефтешлам</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/'>Замазученный грунт</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/vodomaslyanye-emulsii/'>Водомасляные эмульсии</a></li>
+									<li><a href='/otkhody/neftesoderzhashchie-otkhody/otkhody-nefteuloviteley/'>Отходы нефтеуловителей<li></a></li>
+								</ul>
+								</li>
+						<li class='nav__dropdown'><a href='/otkhody/sredstva-individualnoy-zashchity/' >
+							Средства индивидуальной защиты</a></li>
+								<li class='nav__dropdown'><a href='/otkhody/pyl-i-shlam-aspiratsionnykh-ustanovok/' >
+							Пыль и шлам аспирационных установок</a></li>	
 																				
-						<a href='/otkhody/produkty-pitaniya-prosrochennye/' class='item '>
-							Продукты питания просроченные						</a>
+						<li class='nav__dropdown'><a href='/otkhody/tamozhennye-otkhody/' >
+							Таможенные отходы</a></li>	
 																				
-						<a href='/otkhody/otkhody-drevesiny/' class='item '>
-							Отходы древесины						</a>
+						<li class='nav__dropdown'><a href='/otkhody/tara-i-upakovka/' >
+							Тара и упаковка</a></li>	
 																				
-						<a href='/otkhody/otkhody-reziny/' class='item '>
-							Отходы резины<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/otkhody/otkhody-reziny/shiny-avtomobilnye/' class='link item-2 '>Шины автомобильные</a><a href='/otkhody/otkhody-reziny/konveyernaya-lenta-privodnye-remni-rezinovye-detali/' class='link item-2 '>Конвейерная лента, приводные ремни, резиновые детали</a></div>															
-						<a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/' class='item '>
-							Отходы содержащие ПХД и СОЗ<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-soderzhashchee-maslo/' class='link item-2 '>ПХД-содержащее масло</a><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-zagryaznennoe-oborudovanie/' class='link item-2 '>ПХД-загрязненное оборудование</a></div>															
-						<a href='/otkhody/pyl-i-shlam-aspiratsionnykh-ustanovok/' class='item '>
-							Пыль и шлам аспирационных установок						</a>
-																				
-						<a href='/otkhody/rtutsoderzhashchie-otkhody/' class='item '>
-							Ртутьсодержащие отходы<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/otkhody/rtutsoderzhashchie-otkhody/rtutsoderzhashchie-lampy/' class='link item-2 '>Ртутьсодержащие лампы</a><a href='/otkhody/rtutsoderzhashchie-otkhody/rtutsoderzhashchie-pribory/' class='link item-2 '>Ртутьсодержащие приборы</a><a href='/otkhody/rtutsoderzhashchie-otkhody/rtut-metallicheskaya/' class='link item-2 '>Ртуть металлическая</a><a href='/otkhody/rtutsoderzhashchie-otkhody/grunt-zagryaznennyy-rtutyu/' class='link item-2 '>Грунт, загрязненный ртутью</a></div>															
-						<a href='/otkhody/sredstva-individualnoy-zashchity/' class='item '>
-							Средства индивидуальной защиты						</a>
-																				
-						<a href='/otkhody/tamozhennye-otkhody/' class='item '>
-							Таможенные отходы						</a>
-																				
-						<a href='/otkhody/tara-i-upakovka/' class='item '>
-							Тара и упаковка						</a>
-																				
-						<a href='/otkhody/khimicheskie-otkhody/' class='item '>
-							Химические отходы						</a>
-										                </div>";
+						<li class='nav__dropdown'><a href='/otkhody/khimicheskie-otkhody/' >
+							Химические отходы</a></li>	
+
+
+						<li class='nav__dropdown'>
+						<a href='/otkhody/otkhody-reziny/' >
+							Отходы резины</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+							<ul class='nav__dropdown-menu'>
+								<li><a href='/otkhody/otkhody-reziny/shiny-avtomobilnye/' >Шины автомобильные</a></li>
+								<li><a href='/otkhody/otkhody-reziny/konveyernaya-lenta-privodnye-remni-rezinovye-detali/'>Конвейерная лента, приводные ремни, резиновые детали</a></li>									
+							</ul> 
+						</li>	
+											<li class='nav__dropdown'>
+						<a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/' >
+							Отходы содержащие ПХД и СОЗ</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+							<ul class='nav__dropdown-menu'>
+								<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-soderzhashchee-maslo/' >ПХД-содержащее масло</a></li>
+						<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-zagryaznennoe-oborudovanie/' >ПХД-загрязненное оборудование</a>	</li>								
+							</ul> 
+						</li>
+
+
+						<li class='nav__dropdown'>
+						<a href='/otkhody/rtutsoderzhashchie-otkhody/' >
+							Ртутьсодержащие отходы</a>
+							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+							<ul class='nav__dropdown-menu'>
+								<li>
+									<a href='/otkhody/rtutsoderzhashchie-otkhody/rtutsoderzhashchie-lampy/' >Ртутьсодержащие лампы</a>
+								</li>
+								<li>
+									<a href='/otkhody/rtutsoderzhashchie-otkhody/rtutsoderzhashchie-pribory/' >Ртутьсодержащие приборы</a>
+								</li>
+								<li>
+									<a href='/otkhody/rtutsoderzhashchie-otkhody/rtut-metallicheskaya/' >Ртуть металлическая</a>
+								</li>
+								<li>
+									<a href='/otkhody/rtutsoderzhashchie-otkhody/grunt-zagryaznennyy-rtutyu/' >Грунт, загрязненный ртутью</a>
+								</li>									
+							</ul> 
+							</li>
+							<!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div> <!-- end navigation -->							
+					";
 				break;
 			case 'o-nas':
 				echo "<div class='leftMenu'>
@@ -94,28 +159,28 @@
                     	<span>О нас</span>
                     </div><!--leftMenu-head-->
 															
-						<a href='/o-nas/nasha-komanda/' class='item '>
+						<a href='/o-nas/nasha-komanda/' >
 							Наша команда						</a>
 																				
-						<a href='/o-nas/novosti/' class='item '>
+						<a href='/o-nas/novosti/' >
 							Новости						</a>
 																				
-						<a href='/o-nas/multimedia/' class='item '>
-							Mультимедиа<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/o-nas/multimedia/video/' class='link item-2 '>Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' class='link item-2 '>Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' class='link item-2 '>Фотоматериалы</a></div>															
-						<a href='/o-nas/nashi-partnery/' class='item '>
+						<a href='/o-nas/multimedia/' >
+							Mультимедиа</div>						</a>
+					<div class='second_level'><a href='/o-nas/multimedia/video/' >Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></div>															
+						<a href='/o-nas/nashi-partnery/' >
 							Наши партнеры						</a>
 																				
-						<a href='/o-nas/razreshitelnye-dokumenty/' class='item '>
+						<a href='/o-nas/razreshitelnye-dokumenty/' >
 							Разрешительные документы						</a>
 																				
-						<a href='/o-nas/interesnye-proekty/' class='item '>
+						<a href='/o-nas/interesnye-proekty/' >
 							Интересные проекты						</a>
 																				
-						<a href='/o-nas/otzyvy/' class='item '>
+						<a href='/o-nas/otzyvy/' >
 							Отзывы						</a>
 																				
-						<a href='/o-nas/vakansii/' class='item '>
+						<a href='/o-nas/vakansii/' >
 							Вакансии						</a>
 										                </div>";
 				break;
@@ -125,43 +190,43 @@
                     	<span>Услуги</span>
                     </div><!--leftMenu-head-->
 															
-						<a href='/uslugi/priem-otkhodov/' class='item '>
-							Прием отходов<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' class='link item-2 '>Прием пластика ПЭТ и ПВД</a></div>															
-						<a href='/uslugi/vremennoe-khranenie-otkhodov/' class='item '>
-							Временное хранение отходов<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' class='link item-2 '>Контейнерные площадки</a></div>															
-						<a href='/uslugi/dokumentirovanie-otkhodov/' class='item '>
+						<a href='/uslugi/priem-otkhodov/' >
+							Прием отходов</div>						</a>
+					<div class='second_level'><a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' >Прием пластика ПЭТ и ПВД</a></div>															
+						<a href='/uslugi/vremennoe-khranenie-otkhodov/' >
+							Временное хранение отходов</div>						</a>
+					<div class='second_level'><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' >Контейнерные площадки</a></div>															
+						<a href='/uslugi/dokumentirovanie-otkhodov/' >
 							Документирование отходов						</a>
 																				
-						<a href='/uslugi/zakhoronenie-otkhodov/' class='item '>
+						<a href='/uslugi/zakhoronenie-otkhodov/' >
 							Захоронение отходов						</a>
 																				
-						<a href='/uslugi/konteynery/' class='item '>
+						<a href='/uslugi/konteynery/' >
 							Контейнеры						</a>
 																				
-						<a href='/uslugi/obezvrezhivanie-otkhodov/' class='item '>
-							Обезвреживание отходов<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/uslugi/obezvrezhivanie-otkhodov/biologicheskoe-obezvrezhivanie/' class='link item-2 '>Биологическое обезвреживание</a><a href='/uslugi/obezvrezhivanie-otkhodov/khimicheskaya-neytralizatsiya/' class='link item-2 '>Химическая нейтрализация</a></div>															
-						<a href='/uslugi/pererabotka-otkhodov/' class='item '>
-							Переработка отходов<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/uslugi/pererabotka-otkhodov/sortirovka/' class='link item-2 '>Сортировка</a><a href='/uslugi/pererabotka-otkhodov/droblenie/' class='link item-2 '>Дробление</a><a href='/uslugi/pererabotka-otkhodov/pressovanie/' class='link item-2 '>Прессование</a></div>															
-						<a href='/uslugi/realizatsiya-produktov-pererabotki/' class='item '>
+						<a href='/uslugi/obezvrezhivanie-otkhodov/' >
+							Обезвреживание отходов</div>						</a>
+					<div class='second_level'><a href='/uslugi/obezvrezhivanie-otkhodov/biologicheskoe-obezvrezhivanie/' >Биологическое обезвреживание</a><a href='/uslugi/obezvrezhivanie-otkhodov/khimicheskaya-neytralizatsiya/' >Химическая нейтрализация</a></div>															
+						<a href='/uslugi/pererabotka-otkhodov/' >
+							Переработка отходов</div>						</a>
+					<div class='second_level'><a href='/uslugi/pererabotka-otkhodov/sortirovka/' >Сортировка</a><a href='/uslugi/pererabotka-otkhodov/droblenie/' >Дробление</a><a href='/uslugi/pererabotka-otkhodov/pressovanie/' >Прессование</a></div>															
+						<a href='/uslugi/realizatsiya-produktov-pererabotki/' >
 							Реализация продуктов переработки						</a>
 																				
-						<a href='/uslugi/sbor-i-vyvoz-otkhodov/' class='item '>
-							Сбор и вывоз отходов<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/uslugi/sbor-i-vyvoz-otkhodov/razdelnyy-sbor/' class='link item-2 '>Раздельный сбор</a></div>															
-						<a href='/uslugi/transportirovka-otkhodov/' class='item '>
+						<a href='/uslugi/sbor-i-vyvoz-otkhodov/' >
+							Сбор и вывоз отходов</div>						</a>
+					<div class='second_level'><a href='/uslugi/sbor-i-vyvoz-otkhodov/razdelnyy-sbor/' >Раздельный сбор</a></div>															
+						<a href='/uslugi/transportirovka-otkhodov/' >
 							Транспортировка отходов						</a>
 																				
-						<a href='/uslugi/upakovka-otkhodov/' class='item '>
+						<a href='/uslugi/upakovka-otkhodov/' >
 							Упаковка отходов						</a>
 																				
-						<a href='/uslugi/unichtozhenie-otkhodov/' class='item '>
+						<a href='/uslugi/unichtozhenie-otkhodov/' >
 							Уничтожение отходов						</a>
 																				
-						<a href='/uslugi/ustranenie-razlivov-khimicheskikh-veshchestv/' class='item '>
+						<a href='/uslugi/ustranenie-razlivov-khimicheskikh-veshchestv/' >
 							Устранение разливов химических веществ						</a>
 										                </div>
 				";
@@ -198,14 +263,33 @@
 				";
 				break;
 			case 'kontakty':
-				echo "<div class='leftMenu'>
-                	<div class='leftMenu-head'>
-                    	<span>Контакты</span>
-                    </div><!--leftMenu-head-->
-															
-						<a href='/kontakty/predstavitelstva/' class='item '>
-							Представительства<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/kontakty/predstavitelstva/astana.php' class='link item-2 '>АСТАНА</a><a href='/kontakty/predstavitelstva/almaty.php' class='link item-2 '>АЛМАТЫ</a></div>				                </div>";
+				echo "
+<div class='nav nav--side nav--side-sticky-left leftMenu'>
+			<div class='nav__holder'>
+				<div class='nav__container container'>
+
+					<div class='flex-parent'>
+						<!-- Navbar -->
+						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+							<ul class='nav__menu'>
+								<li class='nav__dropdown'>
+									<a href='/kontakty/predstavitelstva/' >Представительства</a>
+									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+									<ul class='nav__dropdown-menu'>
+										<li><a href='/kontakty/predstavitelstva/astana.php' >АСТАНА</a></li>
+										<li><a href='/kontakty/predstavitelstva/almaty.php' >АЛМАТЫ</a></li>
+									</ul>
+								</li>
+												
+							</ul> <!-- end menu -->
+						</nav> <!-- end nav-wrap -->	
+
+					</div> <!-- end flex-parent -->
+				</div> <!-- end container -->
+
+			</div>
+		</div> <!-- end navigation -->
+					";
 				break;
 			
 			default:
@@ -214,28 +298,28 @@
                     	<span>О нас</span>
                     </div><!--leftMenu-head-->
 															
-						<a href='/o-nas/nasha-komanda/' class='item '>
+						<a href='/o-nas/nasha-komanda/' >
 							Наша команда						</a>
 																				
-						<a href='/o-nas/novosti/' class='item '>
+						<a href='/o-nas/novosti/' >
 							Новости						</a>
 																				
-						<a href='/o-nas/multimedia/' class='item '>
-							Mультимедиа<div class='arrow'></div>						</a>
-					<div class='second_level'><a href='/o-nas/multimedia/video/' class='link item-2 '>Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' class='link item-2 '>Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' class='link item-2 '>Фотоматериалы</a></div>															
-						<a href='/o-nas/nashi-partnery/' class='item '>
+						<a href='/o-nas/multimedia/' >
+							Mультимедиа</div>						</a>
+					<div class='second_level'><a href='/o-nas/multimedia/video/' >Видеоматериалы</a><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></div>															
+						<a href='/o-nas/nashi-partnery/' >
 							Наши партнеры						</a>
 																				
-						<a href='/o-nas/razreshitelnye-dokumenty/' class='item '>
+						<a href='/o-nas/razreshitelnye-dokumenty/' >
 							Разрешительные документы						</a>
 																				
-						<a href='/o-nas/interesnye-proekty/' class='item '>
+						<a href='/o-nas/interesnye-proekty/' >
 							Интересные проекты						</a>
 																				
-						<a href='/o-nas/otzyvy/' class='item '>
+						<a href='/o-nas/otzyvy/' >
 							Отзывы						</a>
 																				
-						<a href='/o-nas/vakansii/' class='item '>
+						<a href='/o-nas/vakansii/' >
 							Вакансии						</a>
 										                </div>";
 				break;
