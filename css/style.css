@@ -6211,7 +6211,7 @@ footer .logo {
     padding-left: 10px;
   }
 
-  .leftMenu .nav__dropdown:hover {
+  .leftMenu .nav__dropdown a:hover {
     background: #646a6a;
   }
 
