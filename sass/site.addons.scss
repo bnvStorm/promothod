@@ -222,6 +222,13 @@ a.square:hover{
     width: 100%;
     max-width: 930px;
 }
+.double{
+	border: 1px solid #000;
+	position: fixed;
+	margin-left: 0;
+    bottom: 20px;	
+    z-index: 10000;
+}
 // CONTENT
 // FOOTER
 .bg-dark-overlay:before {
@@ -280,9 +287,24 @@ h1, .h1 {
 	}
 }
 @media only screen and (max-width: 991px){
+		.content_text{
+		margin-top: 70px;
+	}
+	.nav__menu > li > a{
+		font-size: 12px;
+	}
 	.leftMenu{
 		display: none;
+		max-width: 100%;
+		margin-right: 0;
 	}
+	.visible_menu{
+		display: block;
+		border: 1px solid #000;
+	}
+	.nav--side .nav__holder, .nav--side .nav__container, .nav--side .flex-parent {
+    height: 100%;
+}
 	.logo-container{
 		max-width: 320px;
 		width: 100%;
@@ -315,6 +337,7 @@ h1, .h1 {
 	}
 }
 @media only screen and (min-width: 992px){
+
 	.active{
 		background:#646a6a;
 	}
