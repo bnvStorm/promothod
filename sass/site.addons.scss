@@ -1,6 +1,8 @@
 h1, h2, h3, h4, h5, h6{
 	color:$bg-dark;
 }
+
+
 .logo{
 	margin-top: 5px;
 	margin-left: 70px;
@@ -27,7 +29,7 @@ footer .logo-container{
 	padding: 0;
 	background: #007777;
 	background: url('../img/new/header.jpg');
-	background-size: contain;
+	background-size: cover;
 }
 .nav__menu > li > a,.nav__phone-text, .nav__phone-number,.footer__widgets a,.copyright{
 	color:#fff;
@@ -200,7 +202,7 @@ a.square:hover{
 // RIGHT BOX
 // CONTENT
 .intro{
-	    background: url(../img/new/bg.jpg) -320% 0% no-repeat;
+	    background: url('../img/new/bg.jpg') -320% 0% no-repeat;
     background-size: cover;
 }
 .content{
@@ -283,7 +285,7 @@ h1, .h1 {
 }
 @media(max-width: 1360px) and (min-width: 1020px){
 	.nav__wrap{
-		padding-left: 100px;
+		padding-left: 0px;
 	}
 }
 @media only screen and (max-width: 991px){
@@ -302,6 +304,7 @@ h1, .h1 {
 		display: block;
 		border: 1px solid #000;
 	}
+
 	.nav--side .nav__holder, .nav--side .nav__container, .nav--side .flex-parent {
     height: 100%;
 }
@@ -337,21 +340,42 @@ h1, .h1 {
 	}
 }
 @media only screen and (min-width: 992px){
-
+.nav__phone-number{
+	color:#9D9E9E;
+}
 	.active{
 		background:#646a6a;
 	}
 	.nav--side .nav__menu > li > a{
-		max-width: 210px;
+		// max-width: 230px;
 	}
 	.nav--side .nav__menu > li > a{
 		padding-left: 10px;
 	}
+	.nav__menu > li{
+		background: url('../img/new/tmbtn.png');
+		min-width: 90px;
+		margin-right: 5px;
+	}
+	.leftMenu .nav__dropdown{
+	background: url('../img/new/navdropdown.jpg');
+	margin-bottom: 10px;
+	padding-left: 0;
+}
+.leftMenu .nav__dropdown a:hover:hover{
+	background: url('../img/new/navdropdownhover.jpg') no-repeat;
+}
+.nav--side .nav__dropdown-menu{
+	li{
+			background: url('../img/new/navdropdownhover.jpg') no-repeat;
+			margin-bottom: 10px;
+	}
+}
 	.nav__dropdown .disactive{
 		display: block;
 	}
 	.leftMenu .nav__dropdown{
-		padding-left: 10px;
+		padding-left: 0px;
 	}
 	.leftMenu .nav__dropdown a:hover{
 		background:#646a6a;
@@ -360,7 +384,7 @@ h1, .h1 {
   position: unset; 
 }
 .nav--side .nav__container{
-	padding: 20px 30px 20px 10px;
+	padding: 20px 10px 20px 10px;
 }
 .nav--side .nav__wrap{
 	margin-top: 10px;
