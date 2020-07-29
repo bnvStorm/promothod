@@ -110,7 +110,7 @@
 						</li>	
 											<li class='nav__dropdown'>
 						<a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/' >
-							Отходы содержащие ПХД и СОЗ</a>
+							Отходы содержащие <br> ПХД и СОЗ</a>
 							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 							<ul class='nav__dropdown-menu'>
 								<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-soderzhashchee-maslo/' >ПХД-содержащее масло</a></li>
@@ -312,10 +312,10 @@
 						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
 							<ul class='nav__menu'>
 								<li class='nav__dropdown'>
-									<a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/' aria-haspopup='true'>Кодексы и Законы Республики Казахстан</a>
+									<a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/' aria-haspopup='true'>Кодексы и Законы <br> Республики Казахстан</a>
 									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 									<ul class='nav__dropdown-menu'>
-										<li><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс Республики Казахстан, Кодекс Республики Казахстан от 9 января 2007 года N 212</a></li>
+										<li><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс РК, Кодекс РК от 9 января 2007 года N 212</a></li>
 									</ul>
 								</li>
 								<li class='nav__dropdown'>

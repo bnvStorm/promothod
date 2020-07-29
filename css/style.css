@@ -5857,9 +5857,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #181818;
 }
 
+.nav__phone-number {
+  display: none;
+}
+
 .logo {
   margin-top: 5px;
-  margin-left: 70px;
+  margin-left: 240px;
 }
 
 .logo-container {
@@ -5868,6 +5872,14 @@ h1, h2, h3, h4, h5, h6 {
   height: 80px;
   background: url("../img/new/hlogo.png") 50% 50% no-repeat;
   background-size: cover;
+}
+
+header .flex-parent {
+  padding-bottom: 10px;
+}
+
+.nav__wrap {
+  margin-left: auto;
 }
 
 footer .logo-container {
@@ -5885,7 +5897,7 @@ footer .logo-container {
 .nav__container--side-padding {
   padding: 0;
   background: #007777;
-  background: url("../img/new/header.jpg");
+  background: url("../img/new/header2.jpg");
   background-size: cover;
 }
 
@@ -6180,6 +6192,18 @@ footer .logo {
     position: fixed;
   }
 }
+.nav--side .nav__dropdown-trigger {
+  background: url("../img/new/arrow.png") no-repeat;
+  background-position-y: 50%;
+  background-position-x: 25%;
+  right: -6px;
+  background-size: 35%;
+}
+
+.ui-arrow-down:before {
+  content: none;
+}
+
 .ui-arrow-down:before {
   color: #fff;
 }
@@ -6196,7 +6220,7 @@ footer .logo {
   }
 
   .active {
-    background: #646a6a;
+    background: url("../img/new/navdropdown-act.jpg");
   }
 
   .nav--side .nav__menu > li > a {
@@ -6204,9 +6228,12 @@ footer .logo {
   }
 
   .nav__menu > li {
-    background: url("../img/new/tmbtn.png");
+    background: url("../img/new/tmbtn.jpg");
     min-width: 90px;
     margin-right: 5px;
+  }
+  .nav__menu > li:hover {
+    background: url("../img/new/tmbtn-act.jpg");
   }
 
   .leftMenu .nav__dropdown {
@@ -6253,7 +6280,7 @@ footer .logo {
   }
 
   .nav--side .nav__dropdown-trigger {
-    right: -30px;
+    right: -6px;
   }
 
   .nav__dropdown-menu > li > a {

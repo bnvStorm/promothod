@@ -2,10 +2,12 @@ h1, h2, h3, h4, h5, h6{
 	color:$bg-dark;
 }
 
-
+.nav__phone-number{
+	display: none;
+}
 .logo{
 	margin-top: 5px;
-	margin-left: 70px;
+	margin-left: 240px;
 }
 .logo-container{
 	display: block;
@@ -14,7 +16,12 @@ h1, h2, h3, h4, h5, h6{
 	background: url('../img/new/hlogo.png') 50% 50% no-repeat;
 	background-size:cover;
 }
-
+header .flex-parent{
+	padding-bottom: 10px;
+}
+.nav__wrap{
+	margin-left: auto;
+}
 footer .logo-container{
 	display: block;
 	width: 320px;
@@ -28,7 +35,7 @@ footer .logo-container{
 .nav__container--side-padding{
 	padding: 0;
 	background: #007777;
-	background: url('../img/new/header.jpg');
+	background: url('../img/new/header2.jpg');
 	background-size: cover;
 }
 .nav__menu > li > a,.nav__phone-text, .nav__phone-number,.footer__widgets a,.copyright{
@@ -330,8 +337,20 @@ h1, .h1 {
 	position: fixed;
 }
 }
+.nav--side .nav__dropdown-trigger{
+		background:url('../img/new/arrow.png') no-repeat;
+		        background-position-y: 50%;
+    background-position-x: 25%;
+    right: -6px;
+        background-size: 35%;
+		
+}
+.ui-arrow-down:before{
+	content:none;
+}
 .ui-arrow-down:before{
 	color:#fff;
+	// background:url('../img/new/arrow.jpg') no-repeat;
 }
 @media(max-width: 320px){
 		.nav__icon-toggle{
@@ -344,7 +363,7 @@ h1, .h1 {
 	color:#9D9E9E;
 }
 	.active{
-		background:#646a6a;
+		background:url('../img/new/navdropdown-act.jpg');
 	}
 	.nav--side .nav__menu > li > a{
 		// max-width: 230px;
@@ -353,9 +372,13 @@ h1, .h1 {
 		padding-left: 10px;
 	}
 	.nav__menu > li{
-		background: url('../img/new/tmbtn.png');
+		background: url('../img/new/tmbtn.jpg');
 		min-width: 90px;
 		margin-right: 5px;
+		&:hover{
+			background: url('../img/new/tmbtn-act.jpg');
+		}
+
 	}
 	.leftMenu .nav__dropdown{
 	background: url('../img/new/navdropdown.jpg');
@@ -393,7 +416,7 @@ h1, .h1 {
 	z-index: 0;
 }
 .nav--side .nav__dropdown-trigger{
-    right: -30px;
+    right: -6px;
 }
 .nav__dropdown-menu > li > a{
 	color: #fff;
