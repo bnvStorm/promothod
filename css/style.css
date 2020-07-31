@@ -5863,19 +5863,21 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo {
   margin-top: 5px;
-  margin-left: 240px;
+  max-height: 80px;
 }
 
 .logo-container {
   display: block;
+  text-align: right;
   width: 320px;
   height: 80px;
-  background: url("../img/new/hlogo.png") 50% 50% no-repeat;
   background-size: cover;
 }
 
 header .flex-parent {
   padding-bottom: 10px;
+  text-align: center;
+  justify-content: space-between;
 }
 
 .nav__wrap {
@@ -5906,7 +5908,7 @@ footer .logo-container {
 }
 
 .nav__menu > li > a:hover, .footer__widgets a:hover {
-  color: #0b4465;
+  color: #000;
 }
 
 .intro__title {
@@ -6083,6 +6085,7 @@ a.square:hover img {
   margin-left: 0;
   bottom: 20px;
   z-index: 10000;
+  margin-left: 10px;
 }
 
 .bg-dark-overlay:before {
@@ -6142,6 +6145,11 @@ footer .logo {
     padding-left: 0px;
   }
 }
+@media (max-width: 1024px) {
+  .logo {
+    margin-right: 50px;
+  }
+}
 @media only screen and (max-width: 991px) {
   .content_text {
     margin-top: 70px;
@@ -6149,6 +6157,12 @@ footer .logo {
 
   .nav__menu > li > a {
     font-size: 12px;
+    padding-left: 10px;
+    min-width: 180px;
+  }
+
+  .nav__wrap {
+    margin-right: auto;
   }
 
   .leftMenu {
@@ -6162,13 +6176,26 @@ footer .logo {
     border: 1px solid #000;
   }
 
+  .leftMenu .nav__dropdown {
+    background: url("../img/new/navdropdown.jpg");
+  }
+
   .nav--side .nav__holder, .nav--side .nav__container, .nav--side .flex-parent {
     height: 100%;
+  }
+
+  .nav__dropdown-menu > li > a {
+    color: #fff;
   }
 
   .logo-container {
     max-width: 320px;
     width: 100%;
+    text-align: center;
+  }
+
+  .nav_top .nav__menu > li > a {
+    background: #00595C;
   }
 
   .nav__header {
@@ -6176,7 +6203,10 @@ footer .logo {
   }
 
   .nav__menu, .nav__phone--mobile, .nav__phone + .nav__socials {
+    padding-top: 20px;
     padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
   }
 
   .footer ul, .footer__widgets {
@@ -6195,7 +6225,7 @@ footer .logo {
 .nav--side .nav__dropdown-trigger {
   background: url("../img/new/arrow.png") no-repeat;
   background-position-y: 50%;
-  background-position-x: 25%;
+  background-position-x: 15%;
   right: -6px;
   background-size: 35%;
 }
@@ -6206,6 +6236,10 @@ footer .logo {
 
 .ui-arrow-down:before {
   color: #fff;
+}
+
+footer .logo-container {
+  text-align: unset;
 }
 
 @media (max-width: 320px) {
@@ -6227,12 +6261,12 @@ footer .logo {
     padding-left: 10px;
   }
 
-  .nav__menu > li {
+  .nav_top .nav__menu > li {
     background: url("../img/new/tmbtn.jpg");
-    min-width: 90px;
-    margin-right: 5px;
+    min-width: 105px;
+    margin-right: 15px;
   }
-  .nav__menu > li:hover {
+  .nav_top .nav__menu > li:hover {
     background: url("../img/new/tmbtn-act.jpg");
   }
 
@@ -6244,6 +6278,10 @@ footer .logo {
 
   .leftMenu .nav__dropdown a:hover:hover {
     background: url("../img/new/navdropdownhover.jpg") no-repeat;
+  }
+
+  .nav_top .nav__dropdown a {
+    box-shadow: 8px 6px 10px rgba(0, 0, 0, 0.5);
   }
 
   .nav--side .nav__dropdown-menu li {

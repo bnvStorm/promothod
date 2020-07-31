@@ -227,7 +227,7 @@
 								</ul>	
 							</li>	
 							<li class='nav__dropdown'>										
-							<a href='/uslugi/vremennoe-khranenie-otkhodov/' >Временное хранение отходов</a>
+							<a href='/uslugi/vremennoe-khranenie-otkhodov/' >Временное хранение <br> отходов</a>
 							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 								<ul class='nav__dropdown-menu'>
 									<li><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' >Контейнерные площадки</a>	</li>

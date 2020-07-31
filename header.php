@@ -59,7 +59,7 @@
 						</div>
 
 						<!-- Navbar -->
-						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
+						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse nav_top">
 							<ul class="nav__menu">
 								<li class="nav__dropdown">
 									<a href="/o-nas/" aria-haspopup="true">О нас</a>
@@ -124,7 +124,7 @@
 													
 						</nav> <!-- end nav-wrap -->
 
-						<div class="nav__phone nav--align-right d-none d-lg-block">
+						<div class="nav__phone nav--align-right d-none d-lg-block" style="display:none !important;">
 						<!-- 	<span class="nav__phone-text">Позвоните нам:</span> -->
 							<a href="tel:8 (7212) 41-00-29" class="nav__phone-number">8 (7212) 41-00-29</a>
 						</div>
