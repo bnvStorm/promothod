@@ -4406,7 +4406,7 @@ iframe {
 /* Bottom Footer
 -------------------------------------------------------*/
 .footer__bottom {
-  padding: 5px 0 20px;
+  padding: 40px 0 40px;
   position: relative;
 }
 
@@ -4444,7 +4444,8 @@ iframe {
   display: -o-flex;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
+  padding-right: 0;
 }
 
 /*-------------------------------------------------------*/
@@ -5862,8 +5863,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
-  margin-top: 5px;
-  max-height: 80px;
+  margin-top: -5px;
+  max-height: 100px;
 }
 
 .logo-container {
@@ -5875,7 +5876,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header .flex-parent {
-  padding-bottom: 10px;
+  padding-bottom: 25px;
+  padding-top: 20px;
   text-align: center;
   justify-content: space-between;
 }
@@ -5926,6 +5928,9 @@ footer .logo-container {
   max-width: 270px;
   width: 100%;
   margin-right: 10px;
+}
+.leftMenu a {
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .leftMenu-head {
@@ -6086,11 +6091,6 @@ a.square:hover img {
   bottom: 20px;
   z-index: 10000;
   margin-left: 10px;
-}
-
-.bg-dark-overlay:before {
-  background-color: unset;
-  background: url("../img/new/flogo.png") 0% 50% no-repeat;
 }
 
 .footer {
@@ -6281,7 +6281,7 @@ footer .logo-container {
   }
 
   .nav_top .nav__dropdown a {
-    box-shadow: 8px 6px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 8px 6px 10px rgba(0, 0, 0, 0.2);
   }
 
   .nav--side .nav__dropdown-menu li {
@@ -6332,4 +6332,11 @@ footer .logo-container {
   .nav__menu > li > a:hover, .footer__widgets a:hover {
     color: #fff;
   }
+
+  .nav__menu > li > a {
+    line-height: 40px;
+  }
+}
+.nav--side .nav__container {
+  background-color: #00000026;
 }

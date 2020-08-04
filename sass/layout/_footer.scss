@@ -99,7 +99,7 @@
 /* Bottom Footer
 -------------------------------------------------------*/
 .footer__bottom {
-  padding: 5px 0 20px;
+  padding: 40px 0 40px;
   position: relative;
 }
 
@@ -140,6 +140,7 @@
   display: -o-flex;
   display: flex;
     align-items: center;
-      justify-content: center;
+      justify-content: flex-end;
+      padding-right: 0;
 
 }

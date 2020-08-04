@@ -7,9 +7,9 @@
 							<div class="col-lg-3 col-md-3">
 								<div class="widget widget-about-us">
 									<!-- Logo -->
-									<a href="/" class="logo-container flex-child">
+					<!-- 				<a href="/" class="logo-container flex-child">
 										<img class="logo" src="../../../img/logo.png" srcset="../../../img/logo.png 1x, ../../../img/logo_white@2x.png 2x" alt="logo">
-									</a>
+									</a> -->
 								</div>
 							</div> <!-- end logo -->
 

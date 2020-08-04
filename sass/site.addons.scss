@@ -6,9 +6,9 @@ h1, h2, h3, h4, h5, h6{
 	display: none;
 }
 .logo{
-	margin-top: 5px;
+	margin-top: -5px;
 
-	    max-height: 80px;
+	    max-height: 100px;
 }
 .logo-container{
 	display: block;
@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6{
 	background-size:cover;
 }
 header .flex-parent{
-	padding-bottom: 10px;
+	padding-bottom: 25px;
+	padding-top: 20px;
 	    text-align: center;
     justify-content: space-between;
 }
@@ -62,6 +63,9 @@ footer .logo-container{
 	max-width: 270px;
 	width: 100%;
 	margin-right: 10px;
+	a{
+		background-color: rgb(0,0,0, 0.3);
+	}
 }
 .leftMenu-head{ 
 	width: 100%;
@@ -246,11 +250,12 @@ a.square:hover{
 // CONTENT
 // FOOTER
 .bg-dark-overlay:before {
-    background-color: unset;
-    background: url('../img/new/flogo.png') 0% 50% no-repeat;
+    // background-color: unset;
+    // background: url('../img/new/flogo.png') 0% 50% no-repeat;
 }
 .footer{
 	background: url('../img/new/footer.jpg');
+	// padding-bottom: 30px;
 }
 footer .logo{
 	margin-left: 20px;
@@ -308,6 +313,7 @@ h1, .h1 {
 		font-size: 12px;
 		padding-left: 10px;
 		min-width: 180px;
+		   // line-height: 40px;
 	}
 	.nav__wrap{
 		margin-right: auto;
@@ -414,7 +420,7 @@ footer .logo-container{
 	background: url('../img/new/navdropdownhover.jpg') no-repeat;
 }
 .nav_top .nav__dropdown a{
-	box-shadow: 8px 6px 10px rgba(0,0,0,0.5);
+	box-shadow: 8px 6px 10px rgba(0,0,0,0.2);
 }
 .nav--side .nav__dropdown-menu{
 	li{
@@ -455,4 +461,10 @@ footer .logo-container{
 .nav__menu > li > a:hover, .footer__widgets a:hover{
 	color:#fff;
 }
+.nav__menu > li > a{
+	   line-height: 40px;
+}
+}
+.nav--side .nav__container{
+	background-color: #00000026;
 }
