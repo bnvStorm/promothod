@@ -6333,7 +6333,7 @@ footer .logo-container {
     color: #fff;
   }
 
-  .nav__menu > li > a {
+  .nav__menu > li > a, .nav__holder.sticky .nav__menu > li > a {
     line-height: 40px;
   }
 }

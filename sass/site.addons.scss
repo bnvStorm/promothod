@@ -461,7 +461,7 @@ footer .logo-container{
 .nav__menu > li > a:hover, .footer__widgets a:hover{
 	color:#fff;
 }
-.nav__menu > li > a{
+.nav__menu > li > a,.nav__holder.sticky .nav__menu > li > a{
 	   line-height: 40px;
 }
 }
