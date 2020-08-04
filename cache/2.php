@@ -1,0 +1,10 @@
+<p class="MsoToc1"><span style="line-height: 115%; background: white;"><font face="Arial" size="2">Нормативные правовые акты, регулирующие отношения в области обращения с отходами, являются частью законодательства об охране окружающей среды.<o:p></o:p></font></span></p>
+ <font face="Arial" size="2"><span style="line-height: 115%; background: white;">Правовые нормы в сфере обращения с отходами, являясь частью экологических правовых норм, охватывают практически все отрасли права: специальное природоохранное законодательство, гражданское, административное, уголовное право.</span> </font> 
+<div><span style="line-height: 115%; background: white;"><font face="Arial" size="2"> 
+      <br>
+     </font></span></div>
+ 
+<a href="/files/eco.pdf" target="_blank"><p class="MsoToc1" style="margin-bottom: 0.0001pt; line-height: normal;"><font ><span lang="RU">1.</span><span lang="RU" style="text-decoration-line: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="RU">Экологический кодекс РК</span></font></p></a>
+<a href="/files/metodika.pdf" target="_blank"><p class="MsoToc1" style="margin-bottom: 0.0001pt; line-height: normal;"><font ><span lang="RU">2.</span><span lang="RU" style="text-decoration-line: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="RU">Методика определений нормативов эмиссий</span></font></p></a>
+<a href="/files/klasificator.pdf" target="_blank"><p class="MsoToc1" style="margin-bottom: 0.0001pt; line-height: normal;"><font ><span lang="RU">3.</span><span lang="RU" style="text-decoration-line: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="RU">Классификатор отходов</span></font></p></a>
+<a href="/files/pravila.pdf" target="_blank"><p class="MsoToc1" style="margin-bottom: 0.0001pt; line-height: normal;"><font ><span lang="RU">4.</span><span lang="RU" style="text-decoration-line: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="RU">Правила обращения со стойкими органическими загрязнителями</span></font></p></a>
