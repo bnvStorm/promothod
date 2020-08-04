@@ -207,7 +207,7 @@
 			<section class="section-wrap intro">
 				<div class="container">
 					<div class="row">
-					<div class="col-sm-12 col-md-12 col-lg-5 right-box">
+<!-- 					<div class="col-sm-12 col-md-12 col-lg-5 right-box">
 
                  	<a href="/otkhody/akkumulyatory/" class="lkn-1 square" title="утилизация аккумуляторов">
                  		<img src="img/link/link-img-1.png" alt="утилизация аккумуляторов">
@@ -306,8 +306,8 @@
                     <a href="/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/" class="lkn-15 rectangle">
                     	<img src="img/link/link-img-15.png" alt="">
                     </a>
-            </div>
-            <div class="col-lg-7 col-sm-9 col-md-9">
+            </div> -->
+            <div class="col-lg-12 col-sm-12 col-md-12">
             	<div class="row">
             		<div class="col-lg-12">
 							<h2 class="intro__title">25 лет опыта</h2>
@@ -521,8 +521,8 @@
 								</div>
 								<div class="call-us mt-auto">
 									<i class="icon-Dispacher-2 call-us__icon"></i>
-									<span class="call-us__title">Звоните в любое время</span>
-									<a href="tel:8 (7212) 41-00-29" class="call-us__phone-number"> 8 (7212) 41-00-29</a>
+									<span class="call-us__title">Call-центр:</span>
+									<a href="tel:8 (7212) 41-00-29" class="call-us__phone-number"> 8 (7212) 41 00 29</a>
 								</div>
 							</div>							
 						</div>						
