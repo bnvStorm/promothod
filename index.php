@@ -17,7 +17,7 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Переработка отходов"
+							data-title="Инженерно-технические решения любой сложности по обращению всех видов опасных отходов"
 							>
 							<!-- MAIN IMAGE -->
 							<img src="img/revolution/home-1/11.jpg"
@@ -50,11 +50,11 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Переработка отходов<span class="hero-dot">.</span>
+								data-splitout="none">Инженерно-технические решения <br> любой сложности по обращению <br>всех видов опасных отходов<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
-							<div class="tp-caption small-text"
+			<!-- 				<div class="tp-caption small-text"
 								data-x="30"
 								data-y="center"
 								data-voffset="[-40,-30,-20,0]"
@@ -76,7 +76,7 @@
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
 								>Переработка отходов является одним из приоритетных направлений развития <br> для ТОО «ПРОМОТХОД КАЗАХСТАН»....
-							</div>
+							</div> -->
 
 							<!-- BUTTON -->
 							<div class="tp-caption"
@@ -111,7 +111,7 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Временное хранение отходов"
+							data-title="Большой практический опыт обращения с особо опасными ПХД-отходами"
 							>
 							<!-- MAIN IMAGE -->
 							<img src="img/revolution/home-1/22.jpg"
@@ -144,11 +144,11 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Временное хранение отходов<span class="hero-dot">.</span>
+								data-splitout="none">Большой практический опыт обращения <br> с особо опасными ПХД-отходами<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
-							<div class="tp-caption small-text"
+		<!-- 					<div class="tp-caption small-text"
 								data-x="30"
 								data-y="center"
 								data-voffset="[-40,-30,-20,0]"
@@ -170,7 +170,193 @@
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
 								>ТОО «ПРОМОТХОД КАЗАХСТАН» предлагает комплекс услуг по <br> временному хранению опасных отходов...
+							</div> -->
+
+							<!-- BUTTON -->
+							<div class="tp-caption"
+									data-x="30"
+									data-y="center"
+									data-voffset="[60,60,60,100]"
+									data-lineheight="55"
+									data-hoffset="0"
+									data-frames='[{
+										"delay":1200,
+										"speed":900,
+										"frame":"0",
+										"from":"y:150px;opacity:0;",
+										"ease":"Power3.easeOut",
+										"to":"o:1;"
+										},{
+										"delay":"wait",
+										"speed":1000,
+										"frame":"999",
+										"to":"opacity:0;","ease":"Power3.easeOut"
+									}]'
+									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
 							</div>
+
+						</li> <!-- end slide 2 -->
+	<!-- SLIDE 3 -->
+						<li data-fstransition="fade"
+							data-transition="fade"
+							data-easein="default"
+							data-easeout="default"
+							data-slotamount="1"
+							data-masterspeed="1200"
+							data-delay="8000"
+							data-title="Сбор, транспортировка, временное хранение ПХД-отходов на собственных площадях. "
+							>
+							<!-- MAIN IMAGE -->
+							<img src="img/revolution/home-1/22.jpg"
+								alt=""
+								data-bgrepeat="no-repeat"
+								data-bgfit="cover"
+								data-bgparallax="7"
+								class="rev-slidebg"
+								>
+
+							<!-- HERO TITLE -->
+							<div class="tp-caption hero-text"
+								data-x="30"
+								data-y="center"
+								data-voffset="[-140,-120,-100,-180]"
+								data-fontsize="[72,62,52,46]"
+								data-lineheight="[72,62,52,46]"
+								data-width="[none, none, none, 300]"
+								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-frames='[{
+									"delay":1000,
+									"speed":900,
+									"frame":"0",
+									"from":"y:150px;opacity:0;",
+									"ease":"Power3.easeOut",
+									"to":"o:1;"
+									},{
+									"delay":"wait",
+									"speed":1000,
+									"frame":"999",
+									"to":"opacity:0;","ease":"Power3.easeOut"
+								}]'
+								data-splitout="none">Сбор, транспортировка, <br> временное хранение  ПХД-отходов <br> на собственных площадях<span class="hero-dot">.</span>
+							</div>
+
+							<!-- HERO SUBTITLE -->
+	<!-- 						<div class="tp-caption small-text"
+								data-x="30"
+								data-y="center"
+								data-voffset="[-40,-30,-20,0]"
+								data-fontsize="[21,21,21,21]"
+								data-lineheight="34"
+								data-width="[none, none, none, 300]"
+								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-frames='[{
+									"delay":1100,
+									"speed":900,
+									"frame":"0",
+									"from":"y:150px;opacity:0;",
+									"ease":"Power3.easeOut",
+									"to":"o:1;"
+									},{
+									"delay":"wait",
+									"speed":1000,
+									"frame":"999",
+									"to":"opacity:0;","ease":"Power3.easeOut"
+								}]'
+								>ТОО «ПРОМОТХОД КАЗАХСТАН» предлагает комплекс услуг по <br> временному хранению опасных отходов...
+							</div> -->
+
+							<!-- BUTTON -->
+							<div class="tp-caption"
+									data-x="30"
+									data-y="center"
+									data-voffset="[60,60,60,100]"
+									data-lineheight="55"
+									data-hoffset="0"
+									data-frames='[{
+										"delay":1200,
+										"speed":900,
+										"frame":"0",
+										"from":"y:150px;opacity:0;",
+										"ease":"Power3.easeOut",
+										"to":"o:1;"
+										},{
+										"delay":"wait",
+										"speed":1000,
+										"frame":"999",
+										"to":"opacity:0;","ease":"Power3.easeOut"
+									}]'
+									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
+							</div>
+
+						</li> <!-- end slide 2 -->
+							<!-- SLIDE 3 -->
+						<li data-fstransition="fade"
+							data-transition="fade"
+							data-easein="default"
+							data-easeout="default"
+							data-slotamount="1"
+							data-masterspeed="1200"
+							data-delay="8000"
+							data-title="Трансграничная перевозка ПХД-отходов для утилизации."
+							>
+							<!-- MAIN IMAGE -->
+							<img src="img/revolution/home-1/22.jpg"
+								alt=""
+								data-bgrepeat="no-repeat"
+								data-bgfit="cover"
+								data-bgparallax="7"
+								class="rev-slidebg"
+								>
+
+							<!-- HERO TITLE -->
+							<div class="tp-caption hero-text"
+								data-x="30"
+								data-y="center"
+								data-voffset="[-140,-120,-100,-180]"
+								data-fontsize="[72,62,52,46]"
+								data-lineheight="[72,62,52,46]"
+								data-width="[none, none, none, 300]"
+								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-frames='[{
+									"delay":1000,
+									"speed":900,
+									"frame":"0",
+									"from":"y:150px;opacity:0;",
+									"ease":"Power3.easeOut",
+									"to":"o:1;"
+									},{
+									"delay":"wait",
+									"speed":1000,
+									"frame":"999",
+									"to":"opacity:0;","ease":"Power3.easeOut"
+								}]'
+								data-splitout="none">Трансграничная перевозка <br> ПХД-отходов для утилизации<span class="hero-dot">.</span>
+							</div>
+
+							<!-- HERO SUBTITLE -->
+<!-- 							<div class="tp-caption small-text"
+								data-x="30"
+								data-y="center"
+								data-voffset="[-40,-30,-20,0]"
+								data-fontsize="[21,21,21,21]"
+								data-lineheight="34"
+								data-width="[none, none, none, 300]"
+								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-frames='[{
+									"delay":1100,
+									"speed":900,
+									"frame":"0",
+									"from":"y:150px;opacity:0;",
+									"ease":"Power3.easeOut",
+									"to":"o:1;"
+									},{
+									"delay":"wait",
+									"speed":1000,
+									"frame":"999",
+									"to":"opacity:0;","ease":"Power3.easeOut"
+								}]'
+								>ТОО «ПРОМОТХОД КАЗАХСТАН» предлагает комплекс услуг по <br> временному хранению опасных отходов...
+							</div> -->
 
 							<!-- BUTTON -->
 							<div class="tp-caption"
@@ -196,7 +382,6 @@
 							</div>
 
 						</li> <!-- end slide 1 -->
-
 
 					</ul>
 				</div>
@@ -436,7 +621,7 @@
 				<div class="container">
 					<div class="title-row text-center">
 				<!-- 		<p class="subtitle">Текст</p> -->
-						<h2 class="section-title">ПРОМОТХОД</h2>
+						<h2 class="section-title">Пакет услуг по обращению с опасными отходами полного цикла:</h2>
 						<!-- <i class="quote">“</i> -->
 					</div>					
 
@@ -444,7 +629,7 @@
 
 						<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">Инженерно-технические решения любой сложности по обращению всех видов опасных отходов</p>
+								<p class="testimonial__text">Сопровождение корпоративных социальных экологических программ</p>
 							</div>
 	<!-- 						<div class="testimonial__info">
 								<span class="testimonial__author">Текст</span>
@@ -453,22 +638,30 @@
 						</div>						
 						<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">Большой практический опыт обращения с особо опасными ПХД-отходами</p>
+								<p class="testimonial__text">Проектирование и организация контейнерных площадок любого типа</p>
 							</div>
-		<!-- 					<div class="testimonial__info">
-								<span class="testimonial__author">Текст</span>
-								<span class="testimonial__company">Текст</span>
-							</div> -->
 						</div>
-
 												<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">Сбор, транспортировка, временное хранение ПХД-отходов на собственных площадях. Трансграничная перевозка ПХД-отходов для утилизации.</p>
+								<p class="testimonial__text">Сбор, транспортировка и утилизация отходов с использованием новейших технологий</p>
 							</div>
-			<!-- 				<div class="testimonial__info">
-								<span class="testimonial__author">Текст</span>
-								<span class="testimonial__company">Текст</span>
-							</div> -->
+						</div>											
+						<div class="testimonial clearfix">
+							<div class="testimonial__body">
+								<p class="testimonial__text">За переданные нам на утилизацию отходы с заказчика не взимается плата за эмиссию</p>
+							</div>
+						</div>						<div class="testimonial clearfix">
+							<div class="testimonial__body">
+								<p class="testimonial__text">Оформление технического заключения, актов списания и паспортов утилизации в соответствие с законодательством РК</p>
+							</div>
+						</div><div class="testimonial clearfix">
+							<div class="testimonial__body">
+								<p class="testimonial__text">Выезд специалистов на предприятие заказчика для разработки пакета уникальных решений по обращению с опасными отходами</p>
+							</div>
+						</div><div class="testimonial clearfix">
+							<div class="testimonial__body">
+								<p class="testimonial__text">Наша материально-техническая база позволяет решать нестандартные и срочные задачи в кратчайшие сроки</p>
+							</div>
 						</div>
 
 					</div> <!-- end slider -->
@@ -476,46 +669,7 @@
 				</div>
 			</section> <!-- end testimonials -->
 
-			<!-- Partners -->
-			<div class="partners bg-light text-center">
-				<div class="container">
-							<div class="title-row">
-						<h2 class="section-title">Наши партнеры</h2>
-					</div>	
-					<div class="row">
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/1.png" alt="">
-							</a>
-						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/2.png" alt="">
-							</a>
-						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/3.png" alt="">
-							</a>
-						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/4.png" alt="">
-							</a>
-						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/5.png" alt="">
-							</a>
-						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/partners/6.png" alt="">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+	
 
 			<!-- From Blog -->
 			<section class="section-wrap blog-grid">
@@ -600,6 +754,46 @@
 					</div>
 				</div>
 			</section> <!-- end from blog -->
+					<!-- Partners -->
+			<div class="partners bg-light text-center">
+				<div class="container">
+							<div class="title-row">
+						<h2 class="section-title">Технологии обращения с опасными отходами</h2>
+					</div>	
+					<div class="row">
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/1.png" alt="">
+							</a>
+						</div>
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/2.png" alt="">
+							</a>
+						</div>
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/3.png" alt="">
+							</a>
+						</div>
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/4.png" alt="">
+							</a>
+						</div>
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/5.png" alt="">
+							</a>
+						</div>
+						<div class="col-sm-2">
+							<a href="#">
+								<img class="lazyload" data-src="img/partners/6.png" alt="">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
 			<!-- Footer -->
 			<footer class="footer bg-dark-overlay lazyload" data-bg="/img/new/footer.jpg">
 				<div class="container-fluid">

@@ -6101,6 +6101,15 @@ footer .logo {
   margin-left: 20px;
 }
 
+.slick-next:before, .slick-prev:before, .tparrows:before {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.hermes.tparrows {
+  width: 65px;
+}
+
 @media (max-width: 1360px) {
   h1, .h1 {
     font-size: 32px;
