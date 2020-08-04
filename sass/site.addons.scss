@@ -246,6 +246,11 @@ a.square:hover{
     bottom: 20px;	
     z-index: 10000;
     margin-left: 10px;
+    // width: 68px;
+    // height: 34px;
+    // position: absolute !important;
+    // top: 100px !important;
+    // left: 40% !important;
 }
 // CONTENT
 // FOOTER
@@ -382,10 +387,31 @@ h1, .h1 {
 footer .logo-container{
 	text-align: unset;
 }
+@media(max-width: 480px){
+	.nav__container--side-padding{
+		background: #007777;
+	}
+	.nav__wrap{
+		margin-top: 10px;
+	}
+	.logo{
+		margin-right: 0;
+		margin-left: 20px;
+	
+	}
+	.logo-container{
+		
+		text-align: left;
+	}
+}
 @media(max-width: 320px){
 		.nav__icon-toggle{
 		left: -45px;
     position: relative;
+	}
+	.double{
+		left: 0px;
+		position: fixed;
 	}
 }
 @media only screen and (min-width: 992px){

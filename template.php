@@ -7,9 +7,10 @@
 		</div>	
 		<button type="button" class="nav__icon-toggle double" id="double">
 			<span class="sr-only">КНПН</span>
-			<span class="nav__icon-toggle-bar"></span>
-			<span class="nav__icon-toggle-bar"></span>
-			<span class="nav__icon-toggle-bar"></span>
+			<span >Услуги</span>
+<!-- 			<span class="nav__icon-toggle-bar"></span>
+			<span class="nav__icon-toggle-bar"></span> -->
+
 		</button>
 	</div>
 			<!-- Footer -->
