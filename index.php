@@ -435,31 +435,40 @@
 			<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/vyvoz_ewaste.jpg">
 				<div class="container">
 					<div class="title-row text-center">
-						<p class="subtitle">Текст</p>
-						<h2 class="section-title">Слайдер с текстом</h2>
-						<i class="quote">“</i>
+				<!-- 		<p class="subtitle">Текст</p> -->
+						<h2 class="section-title">ПРОМОТХОД</h2>
+						<!-- <i class="quote">“</i> -->
 					</div>					
 
 					<div class="slick-slider slick-testimonials">
 
 						<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">“Цитата”</p>
+								<p class="testimonial__text">Инженерно-технические решения любой сложности по обращению всех видов опасных отходов</p>
 							</div>
-							<div class="testimonial__info">
+	<!-- 						<div class="testimonial__info">
 								<span class="testimonial__author">Текст</span>
 								<span class="testimonial__company">Текст</span>
+							</div> -->
+						</div>						
+						<div class="testimonial clearfix">
+							<div class="testimonial__body">
+								<p class="testimonial__text">Большой практический опыт обращения с особо опасными ПХД-отходами</p>
 							</div>
+		<!-- 					<div class="testimonial__info">
+								<span class="testimonial__author">Текст</span>
+								<span class="testimonial__company">Текст</span>
+							</div> -->
 						</div>
 
 												<div class="testimonial clearfix">
 							<div class="testimonial__body">
-								<p class="testimonial__text">“Цитата”</p>
+								<p class="testimonial__text">Сбор, транспортировка, временное хранение ПХД-отходов на собственных площадях. Трансграничная перевозка ПХД-отходов для утилизации.</p>
 							</div>
-							<div class="testimonial__info">
+			<!-- 				<div class="testimonial__info">
 								<span class="testimonial__author">Текст</span>
 								<span class="testimonial__company">Текст</span>
-							</div>
+							</div> -->
 						</div>
 
 					</div> <!-- end slider -->
@@ -521,8 +530,8 @@
 								</div>
 								<div class="call-us mt-auto">
 									<i class="icon-Dispacher-2 call-us__icon"></i>
-									<span class="call-us__title">Call-центр:</span>
-									<a href="tel:8 (7212) 41-00-29" class="call-us__phone-number"> 8 (7212) 41 00 29</a>
+									<span class="call-us__title">Call-center:</span>
+									<a href="tel:+77212410029" class="call-us__phone-number">+7 (7212) 41 00 29</a>
 								</div>
 							</div>							
 						</div>						
