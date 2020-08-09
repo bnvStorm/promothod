@@ -240,8 +240,8 @@
 						<a href='/uslugi/zakhoronenie-otkhodov/' >
 							Захоронение отходов						</a></li>
 							<li class='nav__dropdown'>														
-						<a href='/uslugi/konteynery/' >
-							Контейнеры						</a>
+						<!--<a href='/uslugi/konteynery/' >
+							Контейнеры						</a>-->
 							
 							<li class='nav__dropdown'>														
 								<a href='/uslugi/obezvrezhivanie-otkhodov/' >
@@ -254,7 +254,7 @@
 						</li>
 						</li>
 						<li class='nav__dropdown'>	
-						<a href='/uslugi/pererabotka-otkhodov/' >Переработка отходов</a>
+						<a href='/uslugi/pererabotka-otkhodov/' >Переработка опасных отходов</a>
 							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 							<ul class='nav__dropdown-menu'>
 								<li><a href='/uslugi/pererabotka-otkhodov/sortirovka/' >Сортировка</a></li>
@@ -263,18 +263,18 @@
 							</ul>
 						</li>
 																			
-						<li class='nav__dropdown'>	
+						<!--<li class='nav__dropdown'>	
 							<a href='/uslugi/realizatsiya-produktov-pererabotki/' >
-							Реализация продуктов переработки</a></li>
+							Реализация продуктов переработки</a></li>-->
 																				
-						<li class='nav__dropdown'>	
+						<!--<li class='nav__dropdown'>	
 							<a href='/uslugi/sbor-i-vyvoz-otkhodov/' >
 							Сбор и вывоз отходов</a>
 							<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 							<ul class='nav__dropdown-menu'>
 								<li><a href='/uslugi/sbor-i-vyvoz-otkhodov/razdelnyy-sbor/' >Раздельный сбор</a></li>	
 							</ul>
-						</li>
+						</li>-->
 							<li class='nav__dropdown'>										
 						<a href='/uslugi/transportirovka-otkhodov/' >
 							Транспортировка отходов						</a></li>
@@ -286,7 +286,11 @@
 							Уничтожение отходов						</a></li>
 									<li class='nav__dropdown'>											
 						<a href='/uslugi/ustranenie-razlivov-khimicheskikh-veshchestv/' >
-							Устранение разливов химических веществ						</a></li>
+							Устранение разливов <br> опасных отходов</a></li>
+							</li>		
+							<li class='nav__dropdown'>											
+						<a href='http://test.promothod.kz/likvidacia_protechek_phd.php' >
+							Ликвидация утечек и проливов ПХД</a></li>
 							</li>	
 								
 

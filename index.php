@@ -17,10 +17,10 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Инженерно-технические решения любой сложности по обращению всех видов опасных отходов"
+							data-title="Инженерно-технические решения..."
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/11.jpg"
+							<img src="img/new/slider/1.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -33,8 +33,8 @@
 								data-x="30"
 								data-y="center"
 								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[72,62,52,46]"
-								data-lineheight="[72,62,52,46]"
+								data-fontsize="[82,62,52,46,36]"
+								data-lineheight="[82,62,52,46,36]"
 								data-width="[none, none, none, 300]"
 								data-whitespace="[nowrap, nowrap, nowrap, normal]"
 								data-frames='[{
@@ -54,7 +54,7 @@
 							</div>
 
 							<!-- HERO SUBTITLE -->
-			<!-- 				<div class="tp-caption small-text"
+<!-- 							<div class="tp-caption small-text"
 								data-x="30"
 								data-y="center"
 								data-voffset="[-40,-30,-20,0]"
@@ -79,7 +79,7 @@
 							</div> -->
 
 							<!-- BUTTON -->
-							<div class="tp-caption"
+			<!-- 				<div class="tp-caption"
 									data-x="30"
 									data-y="center"
 									data-voffset="[60,60,60,100]"
@@ -99,7 +99,7 @@
 										"to":"opacity:0;","ease":"Power3.easeOut"
 									}]'
 									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
-							</div>
+							</div> -->
 
 						</li> <!-- end slide 1 -->
 
@@ -111,10 +111,10 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Большой практический опыт обращения с особо опасными ПХД-отходами"
+							data-title="Большой практический опыт обращения..."
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/22.jpg"
+							<img src="img/new/slider/2.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -127,8 +127,8 @@
 								data-x="30"
 								data-y="center"
 								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[72,62,52,46]"
-								data-lineheight="[72,62,52,46]"
+								data-fontsize="[60,52,42,36]"
+								data-lineheight="[60,52,42,36]"
 								data-width="[none, none, none, 300]"
 								data-whitespace="[nowrap, nowrap, nowrap, normal]"
 								data-frames='[{
@@ -173,7 +173,7 @@
 							</div> -->
 
 							<!-- BUTTON -->
-							<div class="tp-caption"
+	<!-- 						<div class="tp-caption"
 									data-x="30"
 									data-y="center"
 									data-voffset="[60,60,60,100]"
@@ -193,7 +193,7 @@
 										"to":"opacity:0;","ease":"Power3.easeOut"
 									}]'
 									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
-							</div>
+							</div> -->
 
 						</li> <!-- end slide 2 -->
 	<!-- SLIDE 3 -->
@@ -204,10 +204,10 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Сбор, транспортировка, временное хранение ПХД-отходов на собственных площадях. "
+							data-title="Сбор, транспортировка, временное хранение... "
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/22.jpg"
+							<img src="img/new/slider/3.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -220,8 +220,8 @@
 								data-x="30"
 								data-y="center"
 								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[72,62,52,46]"
-								data-lineheight="[72,62,52,46]"
+								data-fontsize="[62,52,46,36]"
+								data-lineheight="[62,52,46,36]"
 								data-width="[none, none, none, 300]"
 								data-whitespace="[nowrap, nowrap, nowrap, normal]"
 								data-frames='[{
@@ -266,7 +266,7 @@
 							</div> -->
 
 							<!-- BUTTON -->
-							<div class="tp-caption"
+<!-- 							<div class="tp-caption"
 									data-x="30"
 									data-y="center"
 									data-voffset="[60,60,60,100]"
@@ -286,7 +286,7 @@
 										"to":"opacity:0;","ease":"Power3.easeOut"
 									}]'
 									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
-							</div>
+							</div> -->
 
 						</li> <!-- end slide 2 -->
 							<!-- SLIDE 3 -->
@@ -297,10 +297,10 @@
 							data-slotamount="1"
 							data-masterspeed="1200"
 							data-delay="8000"
-							data-title="Трансграничная перевозка ПХД-отходов для утилизации."
+							data-title="Трансграничная перевозка ПХД..."
 							>
 							<!-- MAIN IMAGE -->
-							<img src="img/revolution/home-1/22.jpg"
+							<img src="img/new/slider/1.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgfit="cover"
@@ -313,8 +313,8 @@
 								data-x="30"
 								data-y="center"
 								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[72,62,52,46]"
-								data-lineheight="[72,62,52,46]"
+								data-fontsize="[62,52,46,36]"
+								data-lineheight="[62,52,46,36]"
 								data-width="[none, none, none, 300]"
 								data-whitespace="[nowrap, nowrap, nowrap, normal]"
 								data-frames='[{
@@ -359,7 +359,7 @@
 							</div> -->
 
 							<!-- BUTTON -->
-							<div class="tp-caption"
+<!-- 							<div class="tp-caption"
 									data-x="30"
 									data-y="center"
 									data-voffset="[60,60,60,100]"
@@ -379,7 +379,7 @@
 										"to":"opacity:0;","ease":"Power3.easeOut"
 									}]'
 									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
-							</div>
+							</div> -->
 
 						</li> <!-- end slide 1 -->
 
@@ -617,7 +617,7 @@
 
 
 			<!-- Testimonials -->
-			<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/vyvoz_ewaste.jpg">
+			<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/new/tslider.jpg">
 				<div class="container">
 					<div class="title-row text-center">
 				<!-- 		<p class="subtitle">Текст</p> -->

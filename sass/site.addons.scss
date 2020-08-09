@@ -62,7 +62,7 @@ footer .logo-container{
 .leftMenu{
 	max-width: 270px;
 	width: 100%;
-	margin-right: 10px;
+	margin-right: 25px;
 	a{
 		background-color: rgb(0,0,0, 0.3);
 	}
@@ -279,6 +279,8 @@ footer .logo{
 }
 }
 @media(max-width:1024px){
+	.leftMenu{
+	margin-right: 10px;}
 	.content_text{
     max-width: 680px;
 }
@@ -510,4 +512,17 @@ footer .logo-container{
 }
 .nav--side .nav__container{
 	background-color: #00000026;
+}
+
+.tp-bgimg.defaultimg:before{
+	background-color: unset;
+}
+
+// SLIDER
+.tp-caption.hero-text{
+	padding: 20px;
+	background: url('../img/new/slider/bgs.png'),#00000045;
+}
+.bg-dark-overlay:before{
+	    background-color: rgb(0 0 0 / 4%);
 }
