@@ -316,15 +316,15 @@
 						<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
 							<ul class='nav__menu'>
 								<li class='nav__dropdown'>
-									<a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/' aria-haspopup='true'>Кодексы и Законы <br> Республики Казахстан</a>
-									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
-									<ul class='nav__dropdown-menu'>
+									<a href='/info/' aria-haspopup='true'>Закон</a>
+										<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+								<ul class='nav__dropdown-menu'>
 										<li><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс РК, Кодекс РК от 9 января 2007 года N 212</a></li>
-									</ul>
+									</ul>-->
 								</li>
-								<li class='nav__dropdown'>
+								<!--<li class='nav__dropdown'>
 									<a href='/info/vtorichnoe-syrye/' aria-haspopup='true'>Вторичное сырьё</a>
-								</li>
+								</li>-->
 								
 							</ul> <!-- end menu -->
 						</nav> <!-- end nav-wrap -->	
@@ -348,11 +348,14 @@
 							<ul class='nav__menu'>
 								<li class='nav__dropdown'>
 									<a href='/kontakty/predstavitelstva/' >Представительства</a>
-									<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+									<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 									<ul class='nav__dropdown-menu'>
 										<li><a href='/kontakty/predstavitelstva/astana.php' >АСТАНА</a></li>
 										<li><a href='/kontakty/predstavitelstva/almaty.php' >АЛМАТЫ</a></li>
-									</ul>
+									</ul>-->
+								</li>
+								<li class='nav__dropdown'>
+									<a href='/kontakty/'>Контакты</a>
 								</li>
 												
 							</ul> <!-- end menu -->

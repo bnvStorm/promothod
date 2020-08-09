@@ -33,8 +33,8 @@
 								data-x="30"
 								data-y="center"
 								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[82,62,52,46,36]"
-								data-lineheight="[82,62,52,46,36]"
+								data-fontsize="[67,52,46,36]"
+								data-lineheight="[67,52,46,36]"
 								data-width="[none, none, none, 300]"
 								data-whitespace="[nowrap, nowrap, nowrap, normal]"
 								data-frames='[{

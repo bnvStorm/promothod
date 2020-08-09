@@ -62,6 +62,16 @@
 						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse nav_top">
 							<ul class="nav__menu">
 								<li class="nav__dropdown">
+									<a href="/" aria-haspopup="true">Главная</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+									<!-- <ul class="nav__dropdown-menu">
+										<li><a href="index.html">О нас</a></li>
+										<li><a href="index-2.html">Home 2</a></li>
+										<li><a href="index-3.html">Home 3</a></li>
+										<li><a href="index-4.html">Home 4</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
 									<a href="/o-nas/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">
@@ -91,7 +101,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="/info/" aria-haspopup="true">Инфо</a>
+									<a href="/info/" aria-haspopup="true">Закон</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="icons.html">Icons</a></li>
