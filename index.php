@@ -30,13 +30,13 @@
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-								data-x="30"
+								data-x="center"
 								data-y="center"
-								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[67,52,46,36]"
-								data-lineheight="[67,52,46,36]"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-voffset="[-50,-120,50,80]"
+								data-fontsize="[100,42,38,30,30]"
+								data-lineheight="[100,42,38,36,30]"
+								data-width="[1400,900, 700, 400, 300]"
+								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
 									"speed":900,
@@ -50,7 +50,7 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Инженерно-технические решения <br> любой сложности по обращению <br>всех видов опасных отходов<span class="hero-dot">.</span>
+								data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов опасных отходов<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
@@ -124,13 +124,13 @@
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-								data-x="30"
+								data-x="center"
 								data-y="center"
-								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[60,52,42,36]"
-								data-lineheight="[60,52,42,36]"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-voffset="[-50,-120,50,80]"
+								data-fontsize="[100,42,38,30,30]"
+								data-lineheight="[100,42,38,36,30]"
+								data-width="[1400,900, 700, 400, 300]"
+								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
 									"speed":900,
@@ -144,7 +144,7 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Большой практический опыт обращения <br> с особо опасными ПХД-отходами<span class="hero-dot">.</span>
+								data-splitout="none">Большой практический опыт обращения с особо опасными ПХД-отходами<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
@@ -217,13 +217,13 @@
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-								data-x="30"
+								data-x="center"
 								data-y="center"
-								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[62,52,46,36]"
-								data-lineheight="[62,52,46,36]"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-voffset="[-50,-120,50,80]"
+								data-fontsize="[100,42,38,30,30]"
+								data-lineheight="[100,42,38,36,30]"
+								data-width="[1400,900, 700, 400, 300]"
+								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
 									"speed":900,
@@ -237,7 +237,7 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Сбор, транспортировка, <br> временное хранение  ПХД-отходов <br> на собственных площадях<span class="hero-dot">.</span>
+								data-splitout="none">Сбор, транспортировка, временное хранение  ПХД-отходов на собственных площадях<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
@@ -310,13 +310,13 @@
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-								data-x="30"
+								data-x="center"
 								data-y="center"
-								data-voffset="[-140,-120,-100,-180]"
-								data-fontsize="[62,52,46,36]"
-								data-lineheight="[62,52,46,36]"
-								data-width="[none, none, none, 300]"
-								data-whitespace="[nowrap, nowrap, nowrap, normal]"
+								data-voffset="[-50,-120,50,80]"
+								data-fontsize="[100,42,38,30,20]"
+								data-lineheight="[100,42,38,36,30]"
+								data-width="[1400,900, 700, 400, 300]"
+								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
 									"speed":900,
@@ -330,7 +330,7 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Трансграничная перевозка <br> ПХД-отходов для утилизации<span class="hero-dot">.</span>
+								data-splitout="none">Трансграничная перевозка ПХД-отходов для утилизации<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->

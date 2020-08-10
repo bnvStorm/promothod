@@ -5924,6 +5924,10 @@ footer .logo-container {
   max-width: 400px;
 }
 
+.content {
+  background: transparent url("../img/new/bg.jpg") repeat-x;
+}
+
 .leftMenu {
   max-width: 270px;
   width: 100%;
@@ -6110,6 +6114,34 @@ footer .logo {
   width: 65px;
 }
 
+.ui-instagram:before, .ui-facebook:before {
+  color: #fff;
+}
+
+.content_404 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-head-content ul {
+  padding-left: 0;
+}
+
+@media (max-width: 1360px) and (min-width: 1020px) {
+  .nav__wrap {
+    padding-left: 0px;
+  }
+
+  .tp-caption.hero-text {
+    font-size: 40px !important;
+    line-height: 40px !important;
+    max-width: 800px !important;
+    min-width: 0 !important;
+    width: 800px !important;
+  }
+}
 @media (max-width: 1360px) {
   h1, .h1 {
     font-size: 32px;
@@ -6136,26 +6168,6 @@ footer .logo {
   .right-box a.rectangle {
     width: 136px;
     height: 25px;
-  }
-}
-.ui-instagram:before, .ui-facebook:before {
-  color: #fff;
-}
-
-.content_404 {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.contact-head-content ul {
-  padding-left: 0;
-}
-
-@media (max-width: 1360px) and (min-width: 1020px) {
-  .nav__wrap {
-    padding-left: 0px;
   }
 }
 @media (max-width: 1024px) {
@@ -6273,27 +6285,23 @@ footer .logo-container {
     text-align: left;
   }
 }
-@media (max-width: 320px) {
-  .nav__icon-toggle {
-    left: -45px;
-    position: relative;
-  }
+.nav--side .nav__container {
+  background-color: #00000026;
+}
 
-  .double {
-    left: 0px;
-    position: fixed;
-  }
+.tp-bgimg.defaultimg:before {
+  background-color: unset;
 }
-@media (max-width: 5000px) and (min-width: 2300px) {
-  .logo-container {
-    margin-left: 50%;
-  }
+
+.tp-caption.hero-text {
+  padding: 20px;
+  background: url("../img/new/slider/bgs.png"), #00000045;
 }
-@media (max-width: 2300px) and (min-width: 1800px) {
-  .logo-container {
-    margin-left: 25%;
-  }
+
+.bg-dark-overlay:before {
+  background-color: rgba(0, 0, 0, 0.04);
 }
+
 @media only screen and (min-width: 992px) {
   .nav__phone-number {
     color: #9D9E9E;
@@ -6383,19 +6391,34 @@ footer .logo-container {
     line-height: 40px;
   }
 }
-.nav--side .nav__container {
-  background-color: #00000026;
+@media (max-width: 5000px) and (min-width: 2300px) {
+  .logo-container {
+    margin-left: 50%;
+  }
 }
-
-.tp-bgimg.defaultimg:before {
-  background-color: unset;
+@media (max-width: 2300px) and (min-width: 1800px) {
+  .logo-container {
+    margin-left: 25%;
+  }
 }
+@media (max-width: 480px) {
+  .tp-caption.hero-text {
+    font-size: 25px !important;
+    line-height: 25px !important;
+  }
 
-.tp-caption.hero-text {
-  padding: 20px;
-  background: url("../img/new/slider/bgs.png"), #00000045;
+  .call-us__phone-number {
+    font-size: 25px;
+  }
 }
+@media (max-width: 320px) {
+  .nav__icon-toggle {
+    left: -45px;
+    position: relative;
+  }
 
-.bg-dark-overlay:before {
-  background-color: rgba(0, 0, 0, 0.04);
+  .double {
+    left: 0px;
+    position: fixed;
+  }
 }
