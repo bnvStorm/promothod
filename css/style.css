@@ -6139,6 +6139,11 @@ footer .logo {
   border: 1px solid #000;
 }
 
+@media (min-width: 1000px) {
+  .content {
+    flex-wrap: nowrap;
+  }
+}
 @media (max-width: 1360px) and (min-width: 1020px) {
   .nav__wrap {
     padding-left: 0px;
@@ -6319,6 +6324,7 @@ footer .logo-container {
 .tp-caption.hero-text {
   padding: 20px;
   background: url("../img/new/slider/bgs.png"), #00000045;
+  background-size: cover;
 }
 
 .bg-dark-overlay:before {
