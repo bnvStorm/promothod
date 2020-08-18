@@ -6324,7 +6324,7 @@ footer .logo-container {
 .tp-caption.hero-text {
   padding: 20px;
   background: url("../img/new/slider/bgs.png"), #00000045;
-  background-size: contain;
+  background-position-x: 100%;
 }
 
 .bg-dark-overlay:before {

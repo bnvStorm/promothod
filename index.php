@@ -130,7 +130,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900,900, 700, 400, 300]"
+								data-width="[900, 700, 400, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
