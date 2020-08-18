@@ -5854,8 +5854,13 @@ dd {
   border-bottom: 1px solid #e5e5e5;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
+  font-family: "Nunito", sans-serif;
 }
 
 .nav__phone-number, .pb-72 {
@@ -6163,6 +6168,14 @@ footer .logo {
   }
 }
 @media (max-width: 1024px) {
+  .logo-container {
+    width: 260px;
+  }
+
+  .logo {
+    margin-right: 15px;
+  }
+
   .leftMenu {
     margin-right: 10px;
   }
@@ -6183,11 +6196,6 @@ footer .logo {
   .right-box a.rectangle {
     width: 136px;
     height: 25px;
-  }
-}
-@media (max-width: 1024px) {
-  .logo {
-    margin-right: 50px;
   }
 }
 @media only screen and (max-width: 991px) {
@@ -6295,24 +6303,6 @@ footer .logo-container {
   text-align: unset;
 }
 
-@media (max-width: 480px) {
-  .nav__container--side-padding {
-    background: #007777;
-  }
-
-  .nav__wrap {
-    margin-top: 10px;
-  }
-
-  .logo {
-    margin-right: 0;
-    margin-left: 20px;
-  }
-
-  .logo-container {
-    text-align: left;
-  }
-}
 .nav--side .nav__container {
   background-color: #00000026;
 }
@@ -6430,7 +6420,41 @@ footer .logo-container {
     margin-left: 25%;
   }
 }
+@media (max-width: 960px) and (min-width: 481px) {
+  .section-wrap {
+    padding-bottom: 0;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  .testimonial__text {
+    font-size: 17px;
+  }
+}
 @media (max-width: 480px) {
+  .nav__container--side-padding {
+    background: #007777;
+  }
+
+  .nav__wrap {
+    margin-top: 10px;
+  }
+
+  .logo {
+    margin-right: 0;
+    margin-left: 20px;
+  }
+
+  .logo-container {
+    text-align: left;
+  }
+
+  .section-wrap {
+    padding-bottom: 0;
+  }
+
   .tp-caption.hero-text {
     font-size: 25px !important;
     line-height: 25px !important;
@@ -6438,6 +6462,35 @@ footer .logo-container {
 
   .call-us__phone-number {
     font-size: 25px;
+  }
+
+  .hermes.tparrows {
+    height: 50px;
+    top: 80% !important;
+  }
+
+  .hermes.tparrows:before {
+    line-height: 52px;
+    font-size: 34px;
+  }
+
+  .testimonial__text {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 0px;
+    display: inline-block;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .testimonial {
+    padding-top: 0;
+  }
+
+  .slick-next {
+    right: 0;
   }
 }
 @media (max-width: 320px) {

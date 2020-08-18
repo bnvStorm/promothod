@@ -11,7 +11,8 @@
 
 	<!-- Google Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Barlow:400,600%7COpen+Sans:400,400i,700&display=swap' rel='stylesheet'>
-
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 	<!-- Css -->
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/css/font-icons.css" />

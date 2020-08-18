@@ -176,7 +176,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900,900, 700, 400, 300]"
+								data-width="[900, 700, 400, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -221,7 +221,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900,900, 700, 400, 300]"
+								data-width="[900, 700, 400, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -395,7 +395,7 @@
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
-									<p class="subtitle">Текст</p>
+								<!-- 	<p class="subtitle">Текст</p> -->
 									<h2 class="section-title">Текст</h2>
 									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Не правилами коварных подзаголовок, знаках пустился большого свое семь, предупреждал вершину себя, оксмокс великий. Речью рукописи, назад рот! Сбить, коварных.</p>
 								</div>
