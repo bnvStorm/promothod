@@ -1,3 +1,9 @@
+<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Call-center:</span> +7 (7212) 41 00 29</p>
+<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Департамент закупок:</span><a href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a></p>
+<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Юридический департамент:</span><a href="tel:+7 708 439 70 69">+7 708 439 70 69</a></p>
+<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Департамент финансов:</span><a href="tel:+7 (7212) 99 60 17">+7 (7212) 99 60 17</a></p>
+<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Центральный офис:</span>100000, Республика Казахстан, город Караганда, проспект Бухар Жырау, дом 47, 1 этаж</p>
+
 
 			<p>
 	Центральный офис и промышленная площадка по утилизации отходов нашей компании расположены в Караганде. 
@@ -132,7 +138,14 @@
 		</tr>
 	</tbody>
 </table>
-			
+		<div class="sliderkit-panels" style="margin-bottom:10px;"> 						
+	<div class="sliderkit-panel sliderkit-panel-active" style="display: block;"> 							
+		<img src="/img/map-new.png" width="640" height="480" alt="Офис"> 					
+	</div>                          					
+	<div class="sliderkit-panel" style="display: none;">                    	    
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20569.01857465241!2d73.06188045495148!3d49.877635514358474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4243444bf4b74905%3A0xf7c6893f0e49a7cd!2z0KLQntCeINCf0KDQntCc0J7QotCl0J7QlCDQmtCQ0JfQkNCl0KHQotCQ0J0!5e0!3m2!1sru!2skz!4v1501668774338" width="640" height="460" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+	</div>   
+</div>   	
 <p style="margin-top:20px;">
 	Корпоративный e-mail компании: <a href="mailto:info@promothod.kz ">info@promothod.kz </a>
 </p> 
@@ -144,4 +157,4 @@
 </p>
 <p>
 	График работы: с 09.00 до 18.00 (по времени Астаны), обед с 13.00 до 14.00, выходной – суббота, воскресение.
-</p>		
+</p>		  		                   

@@ -336,38 +336,38 @@ switch ($cat) {
 	</div> <!-- end navigation -->
 	";
 	break;
-	case 'kontakty':
-	echo "
-	<div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
-	<div class='nav__holder'>
-	<div class='nav__container container'>
+	// case 'kontakty':
+	// echo "
+	// <div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
+	// <div class='nav__holder'>
+	// <div class='nav__container container'>
 
-	<div class='flex-parent'>
-	<!-- Navbar -->
-	<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
-	<ul class='nav__menu'>
-	<li class='nav__dropdown'>
-	<a href='/kontakty/predstavitelstva/' >Представительства</a>
-	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
-	<ul class='nav__dropdown-menu'>
-	<li><a href='/kontakty/predstavitelstva/astana.php' >АСТАНА</a></li>
-	<li><a href='/kontakty/predstavitelstva/almaty.php' >АЛМАТЫ</a></li>
-	</ul>-->
-	</li>
-	<li class='nav__dropdown'>
-	<a href='/kontakty/'>Контакты</a>
-	</li>
+	// <div class='flex-parent'>
+	// <!-- Navbar -->
+	// <nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+	// <ul class='nav__menu'>
+	// <li class='nav__dropdown'>
+	// <a href='/kontakty/predstavitelstva/' >Представительства</a>
+	// <!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	// <ul class='nav__dropdown-menu'>
+	// <li><a href='/kontakty/predstavitelstva/astana.php' >АСТАНА</a></li>
+	// <li><a href='/kontakty/predstavitelstva/almaty.php' >АЛМАТЫ</a></li>
+	// </ul>-->
+	// </li>
+	// <li class='nav__dropdown'>
+	// <a href='/kontakty/'>Контакты</a>
+	// </li>
 	
-	</ul> <!-- end menu -->
-	</nav> <!-- end nav-wrap -->	
+	// </ul> <!-- end menu -->
+	// </nav> <!-- end nav-wrap -->	
 
-	</div> <!-- end flex-parent -->
-	</div> <!-- end container -->
+	// </div> <!-- end flex-parent -->
+	// </div> <!-- end container -->
 
-	</div>
-	</div> <!-- end navigation -->
-	";
-	break;
+	// </div>
+	// </div> <!-- end navigation -->
+	// ";
+	// break;
 	
 	default:
 	echo "
