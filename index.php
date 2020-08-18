@@ -35,7 +35,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900,900, 700, 400, 300]"
+								data-width="[900, 700, 600, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -50,7 +50,7 @@
 									"frame":"999",
 									"to":"opacity:0;","ease":"Power3.easeOut"
 								}]'
-								data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов опасных отходов<span class="hero-dot">.</span>
+								data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов <br> опасных отходов<span class="hero-dot">.</span>
 							</div>
 
 							<!-- HERO SUBTITLE -->
@@ -130,7 +130,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 400, 300]"
+								data-width="[900, 700, 500, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -176,7 +176,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 400, 300]"
+								data-width="[900, 700, 600, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -221,7 +221,7 @@
 								data-voffset="[-50,0,50,80]"
 								data-fontsize="[40,35,28,23,20]"
 								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 400, 300]"
+								data-width="[900, 700, 600, 300]"
 								data-whitespace="[normal, normal, normal, normal]"
 								data-frames='[{
 									"delay":1000,
@@ -480,32 +480,32 @@
 					<div class="row">
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/1.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/2.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/3.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/4.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/5.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 						<div class="col-sm-2">
 							<a href="#">
-								<img class="lazyload" data-src="img/partners/6.png" alt="">
+								<img class="lazyload" data-src="img/new/nimage.png" alt="">
 							</a>
 						</div>
 					</div>
