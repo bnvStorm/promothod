@@ -102,7 +102,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="/info/" aria-haspopup="true">Закон</a>
+									<a href="/zakon/" aria-haspopup="true">Закон</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="icons.html">Icons</a></li>

@@ -305,37 +305,37 @@ switch ($cat) {
 	
 	";
 	break;
-	case 'info':
-	echo "
-	<div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
-	<div class='nav__holder'>
-	<div class='nav__container container'>
+	// case 'zakon':
+	// echo "
+	// <div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
+	// <div class='nav__holder'>
+	// <div class='nav__container container'>
 
-	<div class='flex-parent'>
-	<!-- Navbar -->
-	<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
-	<ul class='nav__menu'>
-	<li class='nav__dropdown'>
-	<a href='/info/' aria-haspopup='true'>Закон</a>
-	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
-	<ul class='nav__dropdown-menu'>
-	<li><a href='/info/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс РК, Кодекс РК от 9 января 2007 года N 212</a></li>
-	</ul>-->
-	</li>
-	<!--<li class='nav__dropdown'>
-	<a href='/info/vtorichnoe-syrye/' aria-haspopup='true'>Вторичное сырьё</a>
-	</li>-->
+	// <div class='flex-parent'>
+	// <!-- Navbar -->
+	// <nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
+	// <ul class='nav__menu'>
+	// <li class='nav__dropdown'>
+	// <a href='/zakon/' aria-haspopup='true'>Закон</a>
+	// <!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	// <ul class='nav__dropdown-menu'>
+	// <li><a href='/zakon/kodeksy-i-zakony-respubliki-kazakhstan/ekologicheskiy-kodeks-respubliki-kazakhstan-kodeks-respubliki-kazakhstan-ot-9-yanvarya-2007-goda-n-2/'>Экологический кодекс РК, Кодекс РК от 9 января 2007 года N 212</a></li>
+	// </ul>-->
+	// </li>
+	// <!--<li class='nav__dropdown'>
+	// <a href='/zakon/vtorichnoe-syrye/' aria-haspopup='true'>Вторичное сырьё</a>
+	// </li>-->
 	
-	</ul> <!-- end menu -->
-	</nav> <!-- end nav-wrap -->	
+	// </ul> <!-- end menu -->
+	// </nav> <!-- end nav-wrap -->	
 
-	</div> <!-- end flex-parent -->
-	</div> <!-- end container -->
+	// </div> <!-- end flex-parent -->
+	// </div> <!-- end container -->
 
-	</div>
-	</div> <!-- end navigation -->
-	";
-	break;
+	// </div>
+	// </div> <!-- end navigation -->
+	// ";
+	// break;
 	// case 'kontakty':
 	// echo "
 	// <div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
