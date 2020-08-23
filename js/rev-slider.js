@@ -7,7 +7,7 @@
 		$('#slider-1').revolution({
 			sliderLayout:"fullscreen",
 			delay:12000,
-			responsiveLevels:[4096,1024,778,420],
+			responsiveLevels:[1200,1024,778,420],
 			gridwidth:[1200,1024,778,410],
 			gridheight:600,
 			hideThumbs:10,

@@ -6144,6 +6144,10 @@ footer .logo {
   border: 1px solid #000;
 }
 
+.tp-caption.hero-text {
+  padding: 20px 20px 20px 120px !important;
+}
+
 @media (min-width: 1000px) {
   .content {
     flex-wrap: nowrap;
@@ -6152,14 +6156,6 @@ footer .logo {
 @media (max-width: 1360px) and (min-width: 1020px) {
   .nav__wrap {
     padding-left: 0px;
-  }
-
-  .tp-caption.hero-text {
-    font-size: 40px !important;
-    line-height: 40px !important;
-    max-width: 800px !important;
-    min-width: 0 !important;
-    width: 800px !important;
   }
 }
 @media (max-width: 1360px) {
@@ -6314,11 +6310,27 @@ footer .logo-container {
 .tp-caption.hero-text {
   padding: 20px;
   background: url("../img/new/slider/bgs.png"), #00000045;
+  background-size: cover;
   background-position-x: 100%;
 }
 
 .bg-dark-overlay:before {
   background-color: rgba(0, 0, 0, 0.04);
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+}
+.box-container .box-item a {
+  display: flex;
+}
+.box-container .box-item a:hover:before {
+  content: "";
+  width: 100px;
+  height: 100px;
+  background: url("../img/new/box/box-hover.png");
+  position: absolute;
 }
 
 @media only screen and (min-width: 992px) {
@@ -6453,11 +6465,6 @@ footer .logo-container {
 
   .section-wrap {
     padding-bottom: 0;
-  }
-
-  .tp-caption.hero-text {
-    font-size: 25px !important;
-    line-height: 25px !important;
   }
 
   .call-us__phone-number {

@@ -29,12 +29,12 @@
 				>
 
 				<!-- HERO TITLE -->
-				<div class="tp-caption hero-text"
+				<div  class="tp-caption hero-text"
 				data-x="center"
 				data-y="center"
 				data-voffset="[-50,0,50,80]"
-				data-fontsize="[40,35,28,23,20]"
-				data-lineheight="[40,35,28,23,20]"
+				data-fontsize="[30,30,28,23,20]"
+				data-lineheight="[30,30,28,23,20]"
 				data-width="[900, 700, 600, 300]"
 				data-whitespace="[normal, normal, normal, normal]"
 				data-frames='[{
@@ -103,7 +103,6 @@
 
 							</li>
 							<!-- end slide 1 -->
-
 							<!-- SLIDE 2 -->
 							<li data-fstransition="fade"
 							data-transition="fade"
@@ -128,8 +127,8 @@
 							data-x="center"
 							data-y="center"
 							data-voffset="[-50,0,50,80]"
-							data-fontsize="[40,35,28,23,20]"
-							data-lineheight="[40,35,28,23,20]"
+							data-fontsize="[30,30,28,23,20]"
+							data-lineheight="[30,30,28,23,20]"
 							data-width="[900, 700, 500, 300]"
 							data-whitespace="[normal, normal, normal, normal]"
 							data-frames='[{
@@ -149,7 +148,7 @@
 				</div>
 
 			</li> 
-			<!-- end slide 2 -->
+<!-- end slide 2 -->
 			<!-- SLIDE 3 -->
 			<li data-fstransition="fade"
 			data-transition="fade"
@@ -174,8 +173,8 @@
 			data-x="center"
 			data-y="center"
 			data-voffset="[-50,0,50,80]"
-			data-fontsize="[40,35,28,23,20]"
-			data-lineheight="[40,35,28,23,20]"
+			data-fontsize="[30,30,28,23,20]"
+			data-lineheight="[30,30,28,23,20]"
 			data-width="[900, 700, 600, 300]"
 			data-whitespace="[normal, normal, normal, normal]"
 			data-frames='[{
@@ -195,6 +194,9 @@
 </div>
 
 </li> <!-- end slide 2 -->
+
+							
+			
 <!-- SLIDE 3 -->
 <li data-fstransition="fade"
 data-transition="fade"
@@ -219,8 +221,8 @@ class="rev-slidebg"
 data-x="center"
 data-y="center"
 data-voffset="[-50,0,50,80]"
-data-fontsize="[40,35,28,23,20]"
-data-lineheight="[40,35,28,23,20]"
+data-fontsize="[30,30,28,23,20]"
+data-lineheight="[30,30,28,23,20]"
 data-width="[900, 700, 600, 300]"
 data-whitespace="[normal, normal, normal, normal]"
 data-frames='[{
@@ -240,7 +242,6 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 </div>
 
 </li> <!-- end slide 1 -->
-
 </ul>
 </div>
 </div>
@@ -427,10 +428,6 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Финансовый департамент: <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;">8 (7212) 39 65 29</a></p>
 									<p>Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 361561</a></p>
 								</div>
-
-
-
-
 							</div>							
 						</div>						
 
@@ -504,36 +501,74 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 					<div class="title-row">
 						<h2 class="section-title">Пакет готовых решений для утилизации любых видов отходов</h2>
 					</div>	
-					<div class="row">
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+					<div class="row box-container">
+												<div class="box-item">
+							<a href="#"><img src="img/new/box/1.jpg" alt="иконка"></a>
 						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/2.jpg" alt="иконка"></a>
 						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/3.jpg" alt="иконка"></a>
 						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/4.jpg" alt="иконка"></a>
 						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/5.jpg" alt="иконка"></a>
 						</div>
-						<div class="col-sm-2">
-							<a href="#">
-								<img class="lazyload" data-src="img/new/nimage.png" alt="">
-							</a>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/6.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/7.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/8.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/9.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/10.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/11.jpg" alt="иконка"></a>
+						</div>
+					</div>
+					<div class="row box-container">
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/12.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/13.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/14.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/15.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/16.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/17.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/18.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/19.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/20.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/21.jpg" alt="иконка"></a>
+						</div>
+						<div class="box-item">
+							<a href="#"><img src="img/new/box/22.jpg" alt="иконка"></a>
 						</div>
 					</div>
 				</div>
