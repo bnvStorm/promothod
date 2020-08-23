@@ -1,59 +1,59 @@
 <?php include 'header.php' ?>
 <script src="js/lazy.js"></script>
 
-		<div class="content-wrapper content-wrapper--boxed oh">
+<div class="content-wrapper content-wrapper--boxed oh">
 
-			<div class="rev-offset"></div>
+	<div class="rev-offset"></div>
 
-			<!-- Revolution Slider -->
-			<div class="rev_slider_wrapper">
-				<div class="rev_slider" id="slider-1" data-version="5.0">
-					<ul>
-						<!-- SLIDE 1 -->
-						<li data-fstransition="fade"
-							data-transition="fade"
-							data-easein="default"
-							data-easeout="default"
-							data-slotamount="1"
-							data-masterspeed="1200"
-							data-delay="8000"
-							data-title="Инженерно-технические решения..."
-							>
-							<!-- MAIN IMAGE -->
-							<img src="img/new/slider/1.jpg"
-								alt=""
-								data-bgrepeat="no-repeat"
-								data-bgfit="cover"
-								data-bgparallax="7"
-								class="rev-slidebg"
-								>
+	<!-- Revolution Slider -->
+	<div class="rev_slider_wrapper">
+		<div class="rev_slider" id="slider-1" data-version="5.0">
+			<ul>
+				<!-- SLIDE 1 -->
+				<li data-fstransition="fade"
+				data-transition="fade"
+				data-easein="default"
+				data-easeout="default"
+				data-slotamount="1"
+				data-masterspeed="1200"
+				data-delay="8000"
+				data-title="Инженерно-технические решения..."
+				>
+				<!-- MAIN IMAGE -->
+				<img src="img/new/slider/1.jpg"
+				alt=""
+				data-bgrepeat="no-repeat"
+				data-bgfit="cover"
+				data-bgparallax="7"
+				class="rev-slidebg"
+				>
 
-							<!-- HERO TITLE -->
-							<div class="tp-caption hero-text"
-								data-x="center"
-								data-y="center"
-								data-voffset="[-50,0,50,80]"
-								data-fontsize="[40,35,28,23,20]"
-								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 600, 300]"
-								data-whitespace="[normal, normal, normal, normal]"
-								data-frames='[{
-									"delay":1000,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов <br> опасных отходов<span class="hero-dot">.</span>
-							</div>
+				<!-- HERO TITLE -->
+				<div class="tp-caption hero-text"
+				data-x="center"
+				data-y="center"
+				data-voffset="[-50,0,50,80]"
+				data-fontsize="[40,35,28,23,20]"
+				data-lineheight="[40,35,28,23,20]"
+				data-width="[900, 700, 600, 300]"
+				data-whitespace="[normal, normal, normal, normal]"
+				data-frames='[{
+				"delay":1000,
+				"speed":900,
+				"frame":"0",
+				"from":"y:150px;opacity:0;",
+				"ease":"Power3.easeOut",
+				"to":"o:1;"
+			},{
+			"delay":"wait",
+			"speed":1000,
+			"frame":"999",
+			"to":"opacity:0;","ease":"Power3.easeOut"
+		}]'
+		data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов <br> опасных отходов<span class="hero-dot">.</span>
+	</div>
 
-							<!-- HERO SUBTITLE -->
+	<!-- HERO SUBTITLE -->
 <!-- 							<div class="tp-caption small-text"
 								data-x="30"
 								data-y="center"
@@ -99,13 +99,13 @@
 										"to":"opacity:0;","ease":"Power3.easeOut"
 									}]'
 									><a href='#' class='btn btn--lg btn--color'>Подробнее</a>
-							</div> -->
+								</div> -->
 
-						</li>
-						<!-- end slide 1 -->
+							</li>
+							<!-- end slide 1 -->
 
-						<!-- SLIDE 2 -->
-						<li data-fstransition="fade"
+							<!-- SLIDE 2 -->
+							<li data-fstransition="fade"
 							data-transition="fade"
 							data-easein="default"
 							data-easeout="default"
@@ -116,238 +116,253 @@
 							>
 							<!-- MAIN IMAGE -->
 							<img src="img/new/slider/2.jpg"
-								alt=""
-								data-bgrepeat="no-repeat"
-								data-bgfit="cover"
-								data-bgparallax="7"
-								class="rev-slidebg"
-								>
-
-							<!-- HERO TITLE -->
-							<div class="tp-caption hero-text"
-								data-x="center"
-								data-y="center"
-								data-voffset="[-50,0,50,80]"
-								data-fontsize="[40,35,28,23,20]"
-								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 500, 300]"
-								data-whitespace="[normal, normal, normal, normal]"
-								data-frames='[{
-									"delay":1000,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								data-splitout="none">Большой практический опыт обращения с особо опасными ПХД-отходами<span class="hero-dot">.</span>
-							</div>
-
-						</li> 
-						<!-- end slide 2 -->
-						<!-- SLIDE 3 -->
-						<li data-fstransition="fade"
-							data-transition="fade"
-							data-easein="default"
-							data-easeout="default"
-							data-slotamount="1"
-							data-masterspeed="1200"
-							data-delay="8000"
-							data-title="Сбор, транспортировка, временное хранение... "
+							alt=""
+							data-bgrepeat="no-repeat"
+							data-bgfit="cover"
+							data-bgparallax="7"
+							class="rev-slidebg"
 							>
-							<!-- MAIN IMAGE -->
-							<img src="img/new/slider/3.jpg"
-								alt=""
-								data-bgrepeat="no-repeat"
-								data-bgfit="cover"
-								data-bgparallax="7"
-								class="rev-slidebg"
-								>
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-								data-x="center"
-								data-y="center"
-								data-voffset="[-50,0,50,80]"
-								data-fontsize="[40,35,28,23,20]"
-								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 600, 300]"
-								data-whitespace="[normal, normal, normal, normal]"
-								data-frames='[{
-									"delay":1000,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								data-splitout="none">Сбор, транспортировка, временное хранение  ПХД-отходов на собственных площадях<span class="hero-dot">.</span>
-							</div>
-
-						</li> <!-- end slide 2 -->
-							<!-- SLIDE 3 -->
-						<li data-fstransition="fade"
-							data-transition="fade"
-							data-easein="default"
-							data-easeout="default"
-							data-slotamount="1"
-							data-masterspeed="1200"
-							data-delay="8000"
-							data-title="Трансграничная перевозка ПХД..."
-							>
-							<!-- MAIN IMAGE -->
-							<img src="img/new/slider/1.jpg"
-								alt=""
-								data-bgrepeat="no-repeat"
-								data-bgfit="cover"
-								data-bgparallax="7"
-								class="rev-slidebg"
-								>
-
-							<!-- HERO TITLE -->
-							<div class="tp-caption hero-text"
-								data-x="center"
-								data-y="center"
-								data-voffset="[-50,0,50,80]"
-								data-fontsize="[40,35,28,23,20]"
-								data-lineheight="[40,35,28,23,20]"
-								data-width="[900, 700, 600, 300]"
-								data-whitespace="[normal, normal, normal, normal]"
-								data-frames='[{
-									"delay":1000,
-									"speed":900,
-									"frame":"0",
-									"from":"y:150px;opacity:0;",
-									"ease":"Power3.easeOut",
-									"to":"o:1;"
-									},{
-									"delay":"wait",
-									"speed":1000,
-									"frame":"999",
-									"to":"opacity:0;","ease":"Power3.easeOut"
-								}]'
-								data-splitout="none">Трансграничная перевозка ПХД-отходов для утилизации<span class="hero-dot">.</span>
-							</div>
-
-				    	</li> <!-- end slide 1 -->
-
-					</ul>
+							data-x="center"
+							data-y="center"
+							data-voffset="[-50,0,50,80]"
+							data-fontsize="[40,35,28,23,20]"
+							data-lineheight="[40,35,28,23,20]"
+							data-width="[900, 700, 500, 300]"
+							data-whitespace="[normal, normal, normal, normal]"
+							data-frames='[{
+							"delay":1000,
+							"speed":900,
+							"frame":"0",
+							"from":"y:150px;opacity:0;",
+							"ease":"Power3.easeOut",
+							"to":"o:1;"
+						},{
+						"delay":"wait",
+						"speed":1000,
+						"frame":"999",
+						"to":"opacity:0;","ease":"Power3.easeOut"
+					}]'
+					data-splitout="none">Большой практический опыт обращения с особо опасными ПХД-отходами<span class="hero-dot">.</span>
 				</div>
-			</div>
 
-            </div>
-			<!-- Portfolio -->
-			<section class="section-wrap pt-72 pb-72 pb-lg-40">
-				<div class="container">
-					<div class="title-row">
-						<h2 class="section-title">Галерея</h2>
-					</div>					
+			</li> 
+			<!-- end slide 2 -->
+			<!-- SLIDE 3 -->
+			<li data-fstransition="fade"
+			data-transition="fade"
+			data-easein="default"
+			data-easeout="default"
+			data-slotamount="1"
+			data-masterspeed="1200"
+			data-delay="8000"
+			data-title="Сбор, транспортировка, временное хранение... "
+			>
+			<!-- MAIN IMAGE -->
+			<img src="img/new/slider/3.jpg"
+			alt=""
+			data-bgrepeat="no-repeat"
+			data-bgfit="cover"
+			data-bgparallax="7"
+			class="rev-slidebg"
+			>
 
-					<!-- Filter -->
-					<div class="masonry-filter">
-						<a href="#" class="filter active" data-filter="*">Все</a>
-						<a href="#" class="filter" data-filter=".residential">Один</a>
-						<a href="#" class="filter" data-filter=".commercial">Два</a>
-						<a href="#" class="filter" data-filter=".interior">Три</a>
-						<a href="#" class="filter" data-filter=".landscape">Четыре</a>
-					</div> <!-- end filter -->
+			<!-- HERO TITLE -->
+			<div class="tp-caption hero-text"
+			data-x="center"
+			data-y="center"
+			data-voffset="[-50,0,50,80]"
+			data-fontsize="[40,35,28,23,20]"
+			data-lineheight="[40,35,28,23,20]"
+			data-width="[900, 700, 600, 300]"
+			data-whitespace="[normal, normal, normal, normal]"
+			data-frames='[{
+			"delay":1000,
+			"speed":900,
+			"frame":"0",
+			"from":"y:150px;opacity:0;",
+			"ease":"Power3.easeOut",
+			"to":"o:1;"
+		},{
+		"delay":"wait",
+		"speed":1000,
+		"frame":"999",
+		"to":"opacity:0;","ease":"Power3.easeOut"
+	}]'
+	data-splitout="none">Сбор, транспортировка, временное хранение  ПХД-отходов на собственных площадях<span class="hero-dot">.</span>
+</div>
 
-					<div class="row masonry-grid">
-							
-						<div class="masonry-item col-lg-4 project hover-trigger residential">
-							<div class="project__container">
-								<div class="project__img-holder">
-									<a href="portfolio-single.html">
-										<img class="lazyload" data-src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
-										<div class="hover-overlay">
-											<div class="project__description">
-												<h3 class="project__title">Текст</h3>
-												<span class="project__date">2018</span>
-											</div>
-										</div>
-									</a>              
-								</div>                  
-							</div> 
-						</div> <!-- end project -->
+</li> <!-- end slide 2 -->
+<!-- SLIDE 3 -->
+<li data-fstransition="fade"
+data-transition="fade"
+data-easein="default"
+data-easeout="default"
+data-slotamount="1"
+data-masterspeed="1200"
+data-delay="8000"
+data-title="Трансграничная перевозка ПХД..."
+>
+<!-- MAIN IMAGE -->
+<img src="img/new/slider/1.jpg"
+alt=""
+data-bgrepeat="no-repeat"
+data-bgfit="cover"
+data-bgparallax="7"
+class="rev-slidebg"
+>
 
-						<div class="masonry-item col-lg-4 project hover-trigger commercial">
-							<div class="project__container">
-								<div class="project__img-holder">
-									<a href="portfolio-single.html">
-										<img class="lazyload" data-src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
-										<div class="hover-overlay">
-											<div class="project__description">
-												<h3 class="project__title">Текст</h3>
-												<span class="project__date">2018</span>
-											</div>
-										</div>
-									</a>              
-								</div>                  
-							</div> 
-						</div> <!-- end project -->
+<!-- HERO TITLE -->
+<div class="tp-caption hero-text"
+data-x="center"
+data-y="center"
+data-voffset="[-50,0,50,80]"
+data-fontsize="[40,35,28,23,20]"
+data-lineheight="[40,35,28,23,20]"
+data-width="[900, 700, 600, 300]"
+data-whitespace="[normal, normal, normal, normal]"
+data-frames='[{
+"delay":1000,
+"speed":900,
+"frame":"0",
+"from":"y:150px;opacity:0;",
+"ease":"Power3.easeOut",
+"to":"o:1;"
+},{
+"delay":"wait",
+"speed":1000,
+"frame":"999",
+"to":"opacity:0;","ease":"Power3.easeOut"
+}]'
+data-splitout="none">Трансграничная перевозка ПХД-отходов для утилизации<span class="hero-dot">.</span>
+</div>
 
-						<div class="masonry-item col-lg-4 project hover-trigger interior">
-							<div class="project__container">
-								<div class="project__img-holder">
-									<a href="portfolio-single.html">
-										<img class="lazyload" data-src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
-										<div class="hover-overlay">
-											<div class="project__description">
-												<h3 class="project__title">Текст</h3>
-												<span class="project__date">2018</span>
-											</div>
-										</div>
-									</a>              
-								</div>                  
-							</div> 
-						</div> <!-- end project -->
+</li> <!-- end slide 1 -->
 
-						<div class="masonry-item col-lg-4 project hover-trigger landscape">
-							<div class="project__container">
-								<div class="project__img-holder">
-									<a href="portfolio-single.html">
-										<img class="lazyload" data-src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
-										<div class="hover-overlay">
-											<div class="project__description">
-												<h3 class="project__title">Текст</h3>
-												<span class="project__date">2018</span>
-											</div>
-										</div>
-									</a>              
-								</div>                  
-							</div> 
-						</div> <!-- end project -->
-
-					</div>
-				</div>
-			</section> <!-- end portfolio -->
+</ul>
+</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<h2>Заголовок текста</h2>
+			<p>
+				ТОО «Промотход Казахстан» - научно-экспериментальная производственная компания по обращению с опасными отходами всех видов на территории Казахстана.
 
 
-			<!-- Testimonials -->
-			<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/new/tslider.jpg">
-				<div class="container">
-					<div class="title-row text-center">
-				<!-- 		<p class="subtitle">Текст</p> -->
-						<h2 class="section-title">Пакет услуг по обращению с опасными отходами полного цикла:</h2>
-						<!-- <i class="quote">“</i> -->
-					</div>					
+			</p>
+			<p>
+				Уникальные технологии, большой практический опыт, устойчивые деловые связи с сотнями  компаний, международные контакты и совместные проекты, опыт в разработке уникальных решений, - все это характеризует нашу компанию как надежного партнера в решении одной из самых острых проблем в стране – обеспечение экологической безопасности граждан республики!
+			</p>
+		</div>
+	</div>
+</div>
 
-					<div class="slick-slider slick-testimonials">
+</div>
+<!-- Portfolio -->
+<section class="section-wrap pt-72 pb-72 pb-lg-40">
+	<div class="container">
+		<div class="title-row">
+			<h2 class="section-title">Галерея</h2>
+		</div>					
 
-						<div class="testimonial clearfix">
-							<div class="testimonial__body">
-								<p class="testimonial__text">Сопровождение корпоративных социальных экологических программ</p>
+		<!-- Filter -->
+		<div class="masonry-filter">
+			<a href="#" class="filter active" data-filter="*">Все</a>
+			<a href="#" class="filter" data-filter=".residential">Один</a>
+			<a href="#" class="filter" data-filter=".commercial">Два</a>
+			<a href="#" class="filter" data-filter=".interior">Три</a>
+			<a href="#" class="filter" data-filter=".landscape">Четыре</a>
+		</div> <!-- end filter -->
+
+		<div class="row masonry-grid">
+
+			<div class="masonry-item col-lg-4 project hover-trigger residential">
+				<div class="project__container">
+					<div class="project__img-holder">
+						<a href="portfolio-single.html">
+							<img class="lazyload" data-src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
+							<div class="hover-overlay">
+								<div class="project__description">
+									<h3 class="project__title">Текст</h3>
+									<span class="project__date">2018</span>
+								</div>
 							</div>
+						</a>              
+					</div>                  
+				</div> 
+			</div> <!-- end project -->
+
+			<div class="masonry-item col-lg-4 project hover-trigger commercial">
+				<div class="project__container">
+					<div class="project__img-holder">
+						<a href="portfolio-single.html">
+							<img class="lazyload" data-src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
+							<div class="hover-overlay">
+								<div class="project__description">
+									<h3 class="project__title">Текст</h3>
+									<span class="project__date">2018</span>
+								</div>
+							</div>
+						</a>              
+					</div>                  
+				</div> 
+			</div> <!-- end project -->
+
+			<div class="masonry-item col-lg-4 project hover-trigger interior">
+				<div class="project__container">
+					<div class="project__img-holder">
+						<a href="portfolio-single.html">
+							<img class="lazyload" data-src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
+							<div class="hover-overlay">
+								<div class="project__description">
+									<h3 class="project__title">Текст</h3>
+									<span class="project__date">2018</span>
+								</div>
+							</div>
+						</a>              
+					</div>                  
+				</div> 
+			</div> <!-- end project -->
+
+			<div class="masonry-item col-lg-4 project hover-trigger landscape">
+				<div class="project__container">
+					<div class="project__img-holder">
+						<a href="portfolio-single.html">
+							<img class="lazyload" data-src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
+							<div class="hover-overlay">
+								<div class="project__description">
+									<h3 class="project__title">Текст</h3>
+									<span class="project__date">2018</span>
+								</div>
+							</div>
+						</a>              
+					</div>                  
+				</div> 
+			</div> <!-- end project -->
+
+		</div>
+	</div>
+</section> <!-- end portfolio -->
+
+
+<!-- Testimonials -->
+<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/new/tslider.jpg">
+	<div class="container">
+		<div class="title-row text-center">
+			<!-- 		<p class="subtitle">Текст</p> -->
+			<h2 class="section-title">Пакет услуг по обращению с опасными отходами полного цикла:</h2>
+			<!-- <i class="quote">“</i> -->
+		</div>					
+
+		<div class="slick-slider slick-testimonials">
+
+			<div class="testimonial clearfix">
+				<div class="testimonial__body">
+					<p class="testimonial__text">Сопровождение корпоративных социальных экологических программ</p>
+				</div>
 	<!-- 						<div class="testimonial__info">
 								<span class="testimonial__author">Текст</span>
 								<span class="testimonial__company">Текст</span>
@@ -358,7 +373,7 @@
 								<p class="testimonial__text">Проектирование и организация контейнерных площадок любого типа</p>
 							</div>
 						</div>
-												<div class="testimonial clearfix">
+						<div class="testimonial clearfix">
 							<div class="testimonial__body">
 								<p class="testimonial__text">Сбор, транспортировка и утилизация отходов с использованием новейших технологий</p>
 							</div>
@@ -386,7 +401,7 @@
 				</div>
 			</section> <!-- end testimonials -->
 
-	
+
 
 			<!-- From Blog -->
 			<section class="section-wrap blog-grid">
@@ -395,15 +410,27 @@
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
-								<!-- 	<p class="subtitle">Текст</p> -->
-									<h2 class="section-title">Текст</h2>
-									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Не правилами коварных подзаголовок, знаках пустился большого свое семь, предупреждал вершину себя, оксмокс великий. Речью рукописи, назад рот! Сбить, коварных.</p>
+									<!-- 	<p class="subtitle">Текст</p> -->
+									<h2 class="section-title">Заголовок</h2>
+									<p>Наберите телефон Call-center компании и получите ответы на все вопросы, либо закажите услугу по утилизации отходов на вашем предприятии:</p>
 								</div>
 								<div class="call-us mt-auto">
 									<i class="icon-Dispacher-2 call-us__icon"></i>
 									<span class="call-us__title">Call-center:</span>
 									<a href="tel:+77212410029" class="call-us__phone-number">+7 (7212) 41 00 29</a>
+								</div>	
+								<div class="title-row">
+									<!-- 	<p class="subtitle">Текст</p> -->
+									<h2 class="section-title" style="font-size:18px;margin-top:15px;">Вы можете связаться со специалистами по прямым телефонам:</h2>
+									<p>Департамент закупок: <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;">8 (7212) 42 42 11</a></p>
+									<p>Юридический департамент: <a href="tel:8 (7212) 39 70 69" style="font-weight:bold;">8 (7212) 39 70 69</a></p>
+									<p>Финансовый департамент: <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;">8 (7212) 39 65 29</a></p>
+									<p>Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 361561</a></p>
 								</div>
+
+
+
+
 							</div>							
 						</div>						
 
@@ -471,11 +498,11 @@
 					</div>
 				</div>
 			</section> <!-- end from blog -->
-					<!-- Partners -->
+			<!-- Partners -->
 			<div class="partners bg-light text-center">
 				<div class="container">
-							<div class="title-row">
-						<h2 class="section-title">Технологии обращения с опасными отходами</h2>
+					<div class="title-row">
+						<h2 class="section-title">Пакет готовых решений для утилизации любых видов отходов</h2>
 					</div>	
 					<div class="row">
 						<div class="col-sm-2">
@@ -530,29 +557,29 @@
 								<div class="widget widget_nav_menu">
 									<ul class="footer-list">
 
-											<li><a href="/o-nas/">О нас</a></li>								
+										<li><a href="/o-nas/">О нас</a></li>								
 
-											<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
+										<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
 
-											<li><a href="/uslugi/">Услуги</a></li>									
+										<li><a href="/uslugi/">Услуги</a></li>									
 
-											<li><a href="/otkhody/">Отходы</a></li>									
+										<li><a href="/otkhody/">Отходы</a></li>									
 
-											<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
-											
-											<li><a href="/o-nas/novosti/">Новости</a></li>							
+										<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
 
-											<li><a href="/tseny/">Цены</a></li>										
+										<li><a href="/o-nas/novosti/">Новости</a></li>							
 
-											<li><a href="/resheniya/">Решения</a></li>								
+										<li><a href="/tseny/">Цены</a></li>										
 
-											<li><a href="/sitemap/">Карта сайта</a></li>
-						
+										<li><a href="/resheniya/">Решения</a></li>								
+
+										<li><a href="/sitemap/">Карта сайта</a></li>
+
 
 									</ul>
 								</div>
 							</div>
-							</div>
+						</div>
 <!-- 
 							<div class="col-lg-3 offset-lg-2 col-md-3">
 								<div class="widget">
@@ -572,31 +599,31 @@
 				<div class="footer__bottom">
 					<div class="container-fluid text-right text-md-center">
 						<span class="copyright">
-							&copy; 2020 Караганда, Казпромотход</a>
-						</span>
-					</div>
-				</div> <!-- end footer bottom -->
-			</footer> <!-- end footer -->
+						&copy; 2020 Караганда, Казпромотход</a>
+					</span>
+				</div>
+			</div> <!-- end footer bottom -->
+		</footer> <!-- end footer -->
 
-			<div id="back-to-top">
-				<a href="#top"><i class="ui-arrow-up"></i></a>
-			</div>
+		<div id="back-to-top">
+			<a href="#top"><i class="ui-arrow-up"></i></a>
+		</div>
 
-		</div> <!-- end content wrapper -->
-	</main> <!-- end main wrapper -->
-
-
-	<!-- jQuery Scripts -->
-	<script src="/js/jquery.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<script src="/js/plugins.js"></script>
-	<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
-	<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
-	<script src="/js/rev-slider.js"></script>
-	<script src="/js/scripts.js"></script>
+	</div> <!-- end content wrapper -->
+</main> <!-- end main wrapper -->
 
 
-	<!-- Rev Slider Offline Scripts -->
+<!-- jQuery Scripts -->
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="/js/rev-slider.js"></script>
+<script src="/js/scripts.js"></script>
+
+
+<!-- Rev Slider Offline Scripts -->
 <!-- 	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
