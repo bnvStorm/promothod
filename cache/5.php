@@ -1,8 +1,8 @@
-<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Call-center:</span> +7 (7212) 41 00 29</p>
-<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Департамент закупок:</span><a href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a></p>
-<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Юридический департамент:</span><a href="tel:+7 708 439 70 69">+7 708 439 70 69</a></p>
-<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Департамент финансов:</span><a href="tel:+7 (7212) 99 60 17">+7 (7212) 99 60 17</a></p>
-<p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Центральный офис:</span>100000, Республика Казахстан, город Караганда, проспект Бухар Жырау, дом 47, 1 этаж</p>
+<p><span class="contact-head" style="font-weight: bold;">Call-center:</span> +7 (7212) 41 00 29</p>
+<p><span class="contact-head" style="font-weight: bold;">Департамент закупок:</span><a href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a></p>
+<p><span class="contact-head" style="font-weight: bold;">Юридический департамент:</span><a href="tel:+7 708 439 70 69">+7 708 439 70 69</a></p>
+<p><span class="contact-head" style="font-weight: bold;">Департамент финансов:</span><a href="tel:+7 (7212) 99 60 17">+7 (7212) 99 60 17</a></p>
+<p><span class="contact-head" style="font-weight: bold;">Центральный офис:</span>100000, Республика Казахстан, город Караганда, проспект Бухар Жырау, дом 47, 1 этаж</p>
 
 
 <p>
