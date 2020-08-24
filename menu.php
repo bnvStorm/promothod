@@ -158,8 +158,8 @@ switch ($cat) {
 	<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>
-	<a href='/o-nas/nasha-komanda/' >
-	Наша команда						</a>
+	<a href='/o-nas/sovet_specialistov/' >
+	Совет специалистов						</a>
 	
 	</li>												
 	<li class='nav__dropdown'>
@@ -380,7 +380,7 @@ switch ($cat) {
 	<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>
-	<a href='/o-nas/nasha-komanda/' >
+	<a href='/o-nas/sovet_specialistov/' >
 	Совет специалистов						</a>
 	
 	</li>												
