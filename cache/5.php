@@ -5,7 +5,7 @@
 <p><span class="contact-head" style="font-weight: bold;font-size: 20px;">Центральный офис:</span>100000, Республика Казахстан, город Караганда, проспект Бухар Жырау, дом 47, 1 этаж</p>
 
 
-			<p>
+<p>
 	Центральный офис и промышленная площадка по утилизации отходов нашей компании расположены в Караганде. 
 </p>
 <p>
@@ -109,7 +109,7 @@
 		<tr>
 			<td>Кызылорда</td>
 			<td><a href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
-			<td><a href="mailto:rkk@qwmo.net">rkk@qwmo.net</a></td>
+			<td><a href="mailto:rkk@qwmo.net">rkz@qwmo.net</a></td>
 		</tr>
 		<tr>
 			<td>Усть-Каменогорск</td>
@@ -129,16 +129,11 @@
 		<tr>
 			<td>Балхаш </td>
 			<td><a href="tel:8 771 817 99 27">8 771 817 99 27	</a></td>
-			<td><a href="mailto:rkk@qwmo.net">rkk@qwmo.net</a></td>
-		</tr>
-		<tr>
-			<td>Кокшетау</td>
-			<td><a href="tel:8 777 050 39 15">8 777 050 39 15</a></td>
-			<td><a href="mailto:rbb@qwmo.net">rbb@qwmo.net</a></td>
+			<td><a href="mailto:rkk@qwmo.net">rbb@qwmo.net</a></td>
 		</tr>
 	</tbody>
 </table>
-		<div class="sliderkit-panels" style="margin-bottom:10px;"> 						
+<div class="sliderkit-panels" style="margin-bottom:10px;margin-top:20px;"> 						
 	<div class="sliderkit-panel sliderkit-panel-active" style="display: block;"> 							
 		<img src="/img/map-new.png" width="640" height="480" alt="Офис"> 					
 	</div>                          					

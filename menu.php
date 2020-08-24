@@ -188,7 +188,7 @@ switch ($cat) {
 	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/interesnye-proekty/' >
-	Интересные проекты						</a>		</li>	
+	Уникальные проекты						</a>		</li>	
 	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/otzyvy/' >
@@ -381,7 +381,7 @@ switch ($cat) {
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>
 	<a href='/o-nas/nasha-komanda/' >
-	Наша команда						</a>
+	Совет специалистов						</a>
 	
 	</li>												
 	<li class='nav__dropdown'>
@@ -410,7 +410,7 @@ switch ($cat) {
 	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/interesnye-proekty/' >
-	Интересные проекты						</a>		</li>	
+	Уникальные проекты						</a>		</li>	
 	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/otzyvy/' >

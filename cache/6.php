@@ -123,12 +123,7 @@
 		<tr>
 			<td>Балхаш </td>
 			<td><a href="tel:8 771 817 99 27">8 771 817 99 27	</a></td>
-			<td><a href="mailto:rkk@qwmo.net">rkk@qwmo.net</a></td>
-		</tr>
-		<tr>
-			<td>Кокшетау</td>
-			<td><a href="tel:8 777 050 39 15">8 777 050 39 15</a></td>
-			<td><a href="mailto:rbb@qwmo.net">rbb@qwmo.net</a></td>
+			<td><a href="mailto:rkk@qwmo.net">rbb@qwmo.net</a></td>
 		</tr>
 	</tbody>
 </table>
