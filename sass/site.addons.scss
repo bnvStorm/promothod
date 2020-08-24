@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6{
 	// background: url('../img/new/hlogo.png') 50% 50% no-repeat;
 	background-size:cover;
 }
+
 header .flex-parent{
 	padding-bottom: 25px;
 	padding-top: 20px;
@@ -267,6 +268,25 @@ a.square:hover{
     // top: 100px !important;
     // left: 40% !important;
 }
+.img_block{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	.item{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		max-width: 300px;
+		width: 100%;
+		margin-bottom: 10px;
+		.txt{
+			font-weight: bold;
+			text-align: center;
+		}
+	}
+}
 // CONTENT
 // FOOTER
 .bg-dark-overlay:before {
@@ -312,7 +332,7 @@ footer .logo{
 .people{
 	display: flex;
 	justify-content: center;
-    align-items: center;
+	align-items: center;
 	flex-wrap: wrap;
 	.people_item{
 		display: flex;
@@ -485,7 +505,19 @@ footer .logo-container{
 .tp-bgimg.defaultimg:before{
 	background-color: unset;
 }
-
+.call-back{
+	margin-top: 10px;
+	background:url('../img/new/tmbtn.jpg') no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-transform: uppercase;
+	border:none;
+	padding: 10px 15px;
+}
+.call-back:hover{
+	background:url('../img/new/tmbtn-act.jpg') no-repeat;
+	background-size: cover;
+}
 // SLIDER
 .tp-caption.hero-text{
 	padding: 20px;
@@ -642,6 +674,7 @@ footer .logo-container{
 	.call-us__phone-number{
 		font-size: 25px;
 	}
+
 	.hermes.tparrows{
 		height: 50px;
 		top: 80% !important;

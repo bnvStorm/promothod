@@ -6113,6 +6113,26 @@ a.square:hover img {
   left: 0;
 }
 
+.img_block {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.img_block .item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 300px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.img_block .item .txt {
+  font-weight: bold;
+  text-align: center;
+}
+
 .footer {
   background: url("../img/new/footer.jpg");
 }
@@ -6345,6 +6365,21 @@ footer .logo-container {
 
 .tp-bgimg.defaultimg:before {
   background-color: unset;
+}
+
+.call-back {
+  margin-top: 10px;
+  background: url("../img/new/tmbtn.jpg") no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  padding: 10px 15px;
+}
+
+.call-back:hover {
+  background: url("../img/new/tmbtn-act.jpg") no-repeat;
+  background-size: cover;
 }
 
 .tp-caption.hero-text {

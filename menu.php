@@ -23,10 +23,10 @@ switch ($cat) {
 	<a href='/otkhody/akkumulyatory/' >
 	Аккумуляторы						</a>
 	</li>	
-	<li class='nav__dropdown'>		
+	<!--<li class='nav__dropdown'>		
 	<a href='/otkhody/arkhivy-na-bumazhnykh-nositelyakh/' >
 	Архивы на бумажных носителях						</a>
-	</li>	
+	</li>	-->
 	<li class='nav__dropdown'>
 	<a href='/otkhody/ballony-atsetilenovye-gazovye-kislorodnye-i-dr/' >
 	Баллоны ацетиленовые, газовые, кислородные и др.)						</a>

@@ -1,4 +1,9 @@
 <?php include 'header.php' ?>
+<style>
+	ul{
+		list-style-type: none;
+	}
+</style>
 	<div class=' content content-wrapper content-wrapper--boxed oh'>
 		<?php include 'menu.php' ?>
 		<div class='content_text'>
