@@ -421,7 +421,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<a href="tel:+77212410029" class="call-us__phone-number">+7 (7212) 41 00 29</a>
 								</div>	
 								<div class="title-row">
-									<button class="btn-b24-form call-back">Заказать услугу прямо сейчас</button>
+									<button class="b24-web-form-popup-btn-24 call-back">Заказать услугу прямо сейчас</button>
 									<!-- 	<p class="subtitle">Текст</p> -->
 									<h2 class="section-title" style="font-size:18px;margin-top:15px;">Вы можете связаться со специалистами по прямым телефонам:</h2>
 									<p>Департамент закупок: <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;">8 (7212) 42 42 11</a></p>
@@ -657,22 +657,16 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 <script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
 <script src="/js/rev-slider.js"></script>
 <script src="/js/scripts.js"></script>
-	<script>
-		(function(w,d,u){
-			var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
-			var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-		})(window,document,'https://cdn-ru.bitrix24.kz/b3194113/crm/site_button/loader_12_nsv9zg.js');
+<script id="bx24_form_button" data-skip-moving="true">
+        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                if(w[b]['forms']) return;
+                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
 
-  $('.btn-b24-form').click(function(e){ //открытие формы по клику на вашу кнопку   
-     e.preventDefault();
-    $('.b24-widget-button-crmform .b24-widget-button-social-tooltip').trigger("click");
-  });
-  $('.btn-b24-chat').click(function(e){ //открытие чата по клику на вашу кнопку
-     e.preventDefault();
-    $('.b24-widget-button-openline_livechat .b24-widget-button-social-tooltip').trigger("click");
-  });
+        b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
 </script>
-
 <!-- Rev Slider Offline Scripts -->
 <!-- 	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
