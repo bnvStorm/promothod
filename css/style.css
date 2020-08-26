@@ -5863,6 +5863,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Nunito", sans-serif;
 }
 
+.mini-slider h2 {
+  font-size: 32px;
+}
+
+.main-text {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.call-center .title-row {
+  margin-bottom: 10px;
+}
+
 .warning {
   font-size: 20px;
   color: red;
@@ -6170,7 +6183,7 @@ footer .logo {
 }
 
 .tp-caption.hero-text {
-  padding: 20px 20px 20px 120px !important;
+  padding: 30px 30px 30px 120px !important;
 }
 
 .people {
@@ -6387,6 +6400,10 @@ footer .logo-container {
 
 .bg-dark-overlay:before {
   background-color: rgba(0, 0, 0, 0.04);
+}
+
+.icon-box h2 {
+  font-size: 37px;
 }
 
 .box-container {

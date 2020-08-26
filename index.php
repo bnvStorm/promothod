@@ -30,8 +30,8 @@
 
 				<!-- HERO TITLE -->
 				<div  class="tp-caption hero-text"
-				data-x="center"
-				data-y="center"
+				data-x="left"
+				data-y="bottom"
 				data-voffset="[-50,0,50,80]"
 				data-fontsize="[30,30,28,23,20]"
 				data-lineheight="[30,30,28,23,20]"
@@ -50,7 +50,7 @@
 			"frame":"999",
 			"to":"opacity:0;","ease":"Power3.easeOut"
 		}]'
-		data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов <br> опасных отходов<span class="hero-dot">.</span>
+		data-splitout="none">Инженерно-технические решения любой сложности по обращению всех видов <br> опасных отходов<!-- <span class="hero-dot">.</span> -->
 	</div>
 
 	<!-- HERO SUBTITLE -->
@@ -124,8 +124,8 @@
 
 							<!-- HERO TITLE -->
 							<div class="tp-caption hero-text"
-							data-x="center"
-							data-y="center"
+							data-x="right"
+							data-y="top"
 							data-voffset="[-50,0,50,80]"
 							data-fontsize="[30,30,28,23,20]"
 							data-lineheight="[30,30,28,23,20]"
@@ -144,11 +144,11 @@
 						"frame":"999",
 						"to":"opacity:0;","ease":"Power3.easeOut"
 					}]'
-					data-splitout="none">Большой практический опыт обращения с особо опасными ПХД-отходами<span class="hero-dot">.</span>
+					data-splitout="none">Большой практический опыт обращения с особо опасными ПХД-отходами<!-- <span class="hero-dot">.</span> -->
 				</div>
 
 			</li> 
-<!-- end slide 2 -->
+			<!-- end slide 2 -->
 			<!-- SLIDE 3 -->
 			<li data-fstransition="fade"
 			data-transition="fade"
@@ -170,8 +170,8 @@
 
 			<!-- HERO TITLE -->
 			<div class="tp-caption hero-text"
-			data-x="center"
-			data-y="center"
+			data-x="left"
+			data-y="top"
 			data-voffset="[-50,0,50,80]"
 			data-fontsize="[30,30,28,23,20]"
 			data-lineheight="[30,30,28,23,20]"
@@ -190,13 +190,13 @@
 		"frame":"999",
 		"to":"opacity:0;","ease":"Power3.easeOut"
 	}]'
-	data-splitout="none">Сбор, транспортировка, временное хранение  ПХД-отходов на собственных площадях<span class="hero-dot">.</span>
+	data-splitout="none">Сбор, транспортировка, временное хранение  ПХД-отходов на собственных площадях<!-- <span class="hero-dot">.</span> -->
 </div>
 
 </li> <!-- end slide 2 -->
 
-							
-			
+
+
 <!-- SLIDE 3 -->
 <li data-fstransition="fade"
 data-transition="fade"
@@ -218,8 +218,8 @@ class="rev-slidebg"
 
 <!-- HERO TITLE -->
 <div class="tp-caption hero-text"
-data-x="center"
-data-y="center"
+data-x="right"
+data-y="bottom"
 data-voffset="[-50,0,50,80]"
 data-fontsize="[30,30,28,23,20]"
 data-lineheight="[30,30,28,23,20]"
@@ -238,17 +238,17 @@ data-frames='[{
 "frame":"999",
 "to":"opacity:0;","ease":"Power3.easeOut"
 }]'
-data-splitout="none">Трансграничная перевозка ПХД-отходов для утилизации<span class="hero-dot">.</span>
+data-splitout="none">Трансграничная перевозка ПХД-отходов для утилизации<!-- <span class="hero-dot">.</span> -->
 </div>
 
 </li> <!-- end slide 1 -->
 </ul>
 </div>
 </div>
-<div class="container">
+<div class="container main-text">
 	<div class="row">
 		<div class="col-lg-12">
-			<h2>Заголовок текста</h2>
+			<!-- 	<h2>Заголовок текста</h2> -->
 			<p>
 				ТОО «Промотход Казахстан» - научно-экспериментальная производственная компания по обращению с опасными отходами всех видов на территории Казахстана.
 
@@ -350,7 +350,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 
 <!-- Testimonials -->
-<section class="section-wrap bg-dark-overlay lazyload" data-bg="img/new/tslider.jpg">
+<section class="section-wrap bg-dark-overlay lazyload mini-slider" data-bg="img/new/tslider.jpg">
 	<div class="container">
 		<div class="title-row text-center">
 			<!-- 		<p class="subtitle">Текст</p> -->
@@ -405,14 +405,14 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 
 			<!-- From Blog -->
-			<section class="section-wrap blog-grid">
+			<section class="section-wrap blog-grid call-center">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
 									<!-- 	<p class="subtitle">Текст</p> -->
-									<h2 class="section-title">Заголовок</h2>
+									<!-- 	<h2 class="section-title">Заголовок</h2> -->
 									<p>Наберите телефон Call-center компании и получите ответы на все вопросы, либо закажите услугу по утилизации отходов на вашем предприятии:</p>
 								</div>
 								<div class="call-us mt-auto">
@@ -427,7 +427,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Департамент закупок: <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;">8 (7212) 42 42 11</a></p>
 									<p>Юридический департамент: <a href="tel:8 (7212) 39 70 69" style="font-weight:bold;">8 (7212) 39 70 69</a></p>
 									<p>Финансовый департамент: <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;">8 (7212) 39 65 29</a></p>
-									<p>Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 361561</a></p>
+									<p>Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 36 15 61</a></p>
 								</div>
 							</div>							
 						</div>						
@@ -497,13 +497,13 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 				</div>
 			</section> <!-- end from blog -->
 			<!-- Partners -->
-			<div class="partners bg-light text-center">
+			<div class="partners bg-light text-center icon-box">
 				<div class="container">
 					<div class="title-row">
 						<h2 class="section-title">Пакет готовых решений для утилизации любых видов отходов</h2>
 					</div>	
 					<div class="row box-container">
-												<div class="box-item">
+						<div class="box-item">
 							<a href="#"><img src="img/new/box/1.jpg" alt="иконка"></a>
 						</div>
 						<div class="box-item">
@@ -575,7 +575,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 				</div>
 			</div>
 			<!-- Footer -->
-			<footer class="footer bg-dark-overlay lazyload" data-bg="/img/new/footer.jpg">
+			<footer class="footer bg-dark-overlay">
 				<div class="container-fluid">
 					<div class="footer__widgets">
 						<div class="row">
@@ -583,39 +583,113 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 							<div class="col-lg-3 col-md-3">
 								<div class="widget widget-about-us">
 									<!-- Logo -->
-							<!-- 		<a href="/" class="logo-container flex-child">
-										<img class="logo lazyload" data-src="/img/logo.png" srcset="/img/logo.png 1x, img/logo_white@2x.png 2x" alt="logo">
+					<!-- 				<a href="/" class="logo-container flex-child">
+										<img class="logo" src="../../../img/logo.png" srcset="../../../img/logo.png 1x, ../../../img/logo_white@2x.png 2x" alt="logo">
 									</a> -->
 								</div>
 							</div> <!-- end logo -->
 
 							<div class="col-lg-9 col-md-9 fmenu">
 								<div class="widget widget_nav_menu">
-									<ul class="footer-list">
+								<!-- 	<ul class="footer-list">
 
-										<li><a href="/o-nas/">О нас</a></li>								
+											<li><a href="/o-nas/">О нас</a></li>								
 
-										<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
+											<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
 
-										<li><a href="/uslugi/">Услуги</a></li>									
+											<li><a href="/uslugi/">Услуги</a></li>									
 
-										<li><a href="/otkhody/">Отходы</a></li>									
+											<li><a href="/otkhody/">Отходы</a></li>									
 
-										<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
+											<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
+											
+											<li><a href="/o-nas/novosti/">Новости</a></li>							
 
-										<li><a href="/o-nas/novosti/">Новости</a></li>							
+											<li><a href="/tseny/">Цены</a></li>										
 
-										<li><a href="/tseny/">Цены</a></li>										
+											<li><a href="/resheniya/">Решения</a></li>								
 
-										<li><a href="/resheniya/">Решения</a></li>								
+											<li><a href="/sitemap/">Карта сайта</a></li>
+						
 
-										<li><a href="/sitemap/">Карта сайта</a></li>
+										</ul> -->
+										<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse nav_top">
+											<ul class="nav__menu">
+												<li class="nav__dropdown">
+													<a href="/" aria-haspopup="true">Главная</a>
+													<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+									<!-- <ul class="nav__dropdown-menu">
+										<li><a href="index.html">О нас</a></li>
+										<li><a href="index-2.html">Home 2</a></li>
+										<li><a href="index-3.html">Home 3</a></li>
+										<li><a href="index-4.html">Home 4</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/o-nas/" aria-haspopup="true">О нас</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+									<!-- <ul class="nav__dropdown-menu">
+										<li><a href="index.html">О нас</a></li>
+										<li><a href="index-2.html">Home 2</a></li>
+										<li><a href="index-3.html">Home 3</a></li>
+										<li><a href="index-4.html">Home 4</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/uslugi/" aria-haspopup="true">Услуги</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+						<!-- 			<ul class="nav__dropdown-menu">
+										<li><a href="about.html">About</a></li>
+										<li><a href="services.html">Services</a></li>
+										<li><a href="single-service.html">Single Service</a></li>
+										<li><a href="contact.html">Contact</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/otkhody/" aria-haspopup="true">Отходы</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+								<!-- 	<ul class="nav__dropdown-menu">
+										<li><a href="portfolio.html">Portfolio</a></li>
+										<li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
+										<li><a href="portfolio-single.html">Portfolio Single</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/zakon/" aria-haspopup="true">Закон</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+								<!-- 	<ul class="nav__dropdown-menu">
+										<li><a href="icons.html">Icons</a></li>
+										<li><a href="elements.html">Elements</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/kontakty/" aria-haspopup="true">Контакты</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+								<!-- 	<ul class="nav__dropdown-menu">
+										<li><a href="blog-masonry.html">Blog Masonry</a></li>
+										<li><a href="blog.html">Blog Standard</a></li>
+										<li><a href="single-post.html">Single Post</a></li>
+									</ul> -->
+								</li>
+							</ul> <!-- end menu -->
+							<div class="nav__phone nav__phone--mobile d-lg-none">
+								<span class="nav__phone-text">Позвоните нам:</span>
+								<a href="tel: 8 (7212) 41-00-29" class="nav__phone-number"> 8 (7212) 41-00-29</a>
+							</div>
 
-
-									</ul>
+							<div class="nav__socials nav__socials--mobile d-lg-none">
+								<div class="socials">
+									<!-- <a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a> -->
+									<a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
+									<!-- <a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a> -->
+									<a href="#" class="social social-instagram" aria-label="instagram" title="instagram" target="_blank"><i class="ui-instagram"></i></a>
 								</div>
 							</div>
-						</div>
+
+						</nav> <!-- end nav-wrap -->
+					</div>
+				</div>
+			</div>
 <!-- 
 							<div class="col-lg-3 offset-lg-2 col-md-3">
 								<div class="widget">
@@ -635,11 +709,11 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 				<div class="footer__bottom">
 					<div class="container-fluid text-right text-md-center">
 						<span class="copyright">
-						&copy; 2020 Караганда, Казпромотход</a>
-					</span>
-				</div>
-			</div> <!-- end footer bottom -->
-		</footer> <!-- end footer -->
+							<!-- &copy; 2020 Караганда, Казпромотход</a> -->
+						</span>
+					</div>
+				</div> <!-- end footer bottom -->
+			</footer> <!-- end footer -->
 
 		<div id="back-to-top">
 			<a href="#top"><i class="ui-arrow-up"></i></a>
@@ -658,14 +732,14 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 <script src="/js/rev-slider.js"></script>
 <script src="/js/scripts.js"></script>
 <script id="bx24_form_button" data-skip-moving="true">
-        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-                (w[b].forms=w[b].forms||[]).push(arguments[0])};
-                if(w[b]['forms']) return;
-                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-        })(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
+	(function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+		(w[b].forms=w[b].forms||[]).push(arguments[0])};
+		if(w[b]['forms']) return;
+		var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
 
-        b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
+	b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
 </script>
 <!-- Rev Slider Offline Scripts -->
 <!-- 	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>

@@ -5,6 +5,17 @@ h1, h2, h3, h4, h5, h6{
 	color:$bg-dark;
 	font-family: 'Nunito', sans-serif;
 }
+.mini-slider h2{
+	font-size: 32px;
+}
+.main-text{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.call-center .title-row{
+	margin-bottom: 10px;
+}
+
 .warning{
 	font-size: 20px;
 	color: red;
@@ -326,7 +337,7 @@ footer .logo{
 	border:1px solid #000;
 }
 .tp-caption.hero-text{
-	padding: 20px 20px 20px 120px !important; 
+	padding: 30px 30px 30px 120px !important; 
 }
 // PEOPLE
 .people{
@@ -527,6 +538,11 @@ footer .logo-container{
 }
 .bg-dark-overlay:before{
 	background-color: rgb(0 0 0 / 4%);
+}
+.icon-box{
+	h2{
+		font-size: 37px;
+	}
 }
 .box-container{
 	display: flex;
