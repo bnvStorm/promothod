@@ -6376,19 +6376,35 @@ footer .logo-container {
   background-color: unset;
 }
 
+.call-us {
+  background-color: unset;
+  background: url("../img/new/call.jpg");
+  padding-left: 125px;
+  padding-right: 10px;
+  padding-bottom: 55px;
+}
+
+.call-us__phone-number {
+  font-size: 19px;
+}
+
 .call-back {
   margin-top: 10px;
-  background: url("../img/new/tmbtn.jpg") no-repeat;
+  background: url("../img/new/now.jpg") no-repeat;
   background-size: cover;
-  color: #fff;
+  color: #868686;
+  font-weight: bold;
   text-transform: uppercase;
   border: none;
   padding: 10px 15px;
+  padding-left: 25px;
+  padding-right: 10px;
 }
 
 .call-back:hover {
   background: url("../img/new/tmbtn-act.jpg") no-repeat;
   background-size: cover;
+  color: #fff;
 }
 
 .tp-caption.hero-text {

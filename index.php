@@ -416,10 +416,13 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Наберите телефон Call-center компании и получите ответы на все вопросы, либо закажите услугу по утилизации отходов на вашем предприятии:</p>
 								</div>
 								<div class="call-us mt-auto">
-									<i class="icon-Dispacher-2 call-us__icon"></i>
+									<!-- <i class="icon-Dispacher-2 call-us__icon"></i> -->
 									<span class="call-us__title">Call-center:</span>
 									<a href="tel:+77212410029" class="call-us__phone-number">+7 (7212) 41 00 29</a>
 								</div>	
+						<!-- 		<div class="call-block">
+									<img src="img/new/call.jpg" alt="">
+								</div> -->
 								<div class="title-row">
 									<button class="b24-web-form-popup-btn-24 call-back">Заказать услугу прямо сейчас</button>
 									<!-- 	<p class="subtitle">Текст</p> -->
@@ -427,7 +430,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Департамент закупок: <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;">8 (7212) 42 42 11</a></p>
 									<p>Юридический департамент: <a href="tel:8 (7212) 39 70 69" style="font-weight:bold;">8 (7212) 39 70 69</a></p>
 									<p>Финансовый департамент: <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;">8 (7212) 39 65 29</a></p>
-									<p>Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 36 15 61</a></p>
+									<p style="font-size:15px;">Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 36 15 61</a></p>
 								</div>
 							</div>							
 						</div>						
