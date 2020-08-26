@@ -504,72 +504,72 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 					</div>	
 					<div class="row box-container">
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/1.jpg" alt="иконка"></a>
+							<a href="http://test.promothod.kz/otkhody/akkumulyatory/"><img src="img/new/box/1.jpg" alt="акамуляторы"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/2.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/"><img src="img/new/box/2.jpg" alt="грунт"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/3.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/lakokrasochnye-materialy/"><img src="img/new/box/3.jpg" alt="краски"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/4.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/bumaga-karton/"><img src="img/new/box/4.jpg" alt="бумага,картон"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/5.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/5.jpg" alt="оборудование"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/6.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/6.jpg" alt="лекарства"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/7.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/otkhody-soderzhashchie-pkhd-i-soz/"><img src="img/new/box/7.jpg" alt="хим.соед."></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/8.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/8.jpg" alt="рад.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/9.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/9.jpg" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/10.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/10.jpg" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/11.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/11.jpg" alt="иконка"></a>
 						</div>
 					</div>
 					<div class="row box-container">
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/12.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/rtutsoderzhashchie-otkhody/"><img src="img/new/box/12.jpg" alt="ртуть"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/13.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/"><img src="img/new/box/13.jpg" alt="фильтры"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/14.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/"><img src="img/new/box/14.jpg" alt="нефтепродукты"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/15.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/15.jpg" alt="кабель"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/16.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/bytovaya-tekhnika-i-mebel/"><img src="img/new/box/16.jpg" alt="оргтехника"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/17.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/17.jpg" alt="текстиль"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/18.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/18.jpg" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/19.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/tamozhennye-otkhody/"><img src="img/new/box/19.jpg" alt="тамож.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/20.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/20.jpg" alt="лом"></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/21.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/medotkhody/"><img src="img/new/box/21.jpg" alt="мед.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="#"><img src="img/new/box/22.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/tara-i-upakovka/"><img src="img/new/box/22.jpg" alt="тара"></a>
 						</div>
 					</div>
 				</div>
