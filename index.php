@@ -507,7 +507,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 					</div>	
 					<div class="row box-container">
 						<div class="box-item">
-							<a href="http://test.promothod.kz/otkhody/akkumulyatory/"><img src="img/new/box/1.jpg" alt="акамуляторы"></a>
+							<a href="http://www.promothod.kz/otkhody/akkumulyatory/"><img src="img/new/box/1.jpg" alt="акамуляторы"></a>
 						</div>
 						<div class="box-item">
 							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/"><img src="img/new/box/2.jpg" alt="грунт"></a>

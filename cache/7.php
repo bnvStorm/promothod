@@ -6,7 +6,7 @@
 <p align="justify" class="MsoNormal"><font size="2" face="Arial">Наша компания предлагает полный&nbsp;</font><a href="/uslugi/" title="ПЕРЕЙТИ К УСЛУГАМ">перечень услуг</a><font size="2" face="Arial">&nbsp;по обращению с отходами:</font></p>
  
 <p> </p>
-  <img class="about_img" src="http://test.promothod.kz/img/vyvoz_ewaste.jpg" alt="Kazpromothod">
+  <img class="about_img" src="http://www.promothod.kz/img/vyvoz_ewaste.jpg" alt="Kazpromothod">
 <ul> 
   <li><font size="2" face="Arial">Документирование отходов;</font></li>
  
