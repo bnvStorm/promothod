@@ -509,25 +509,25 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 							<a href="http://www.promothod.kz/otkhody/bumaga-karton/"><img class="lazyload" data-src="img/new/box/4.png" alt="бумага,картон"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/5.png" alt="оборудование"></a>
+							<a href="https://www.promothod.kz/otkhody/bytovaya-tekhnika-i-mebel/"><img class="lazyload" data-src="img/new/box/5.png" alt="оборудование"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/6.png" alt="лекарства"></a>
+							<a href="https://www.promothod.kz/otkhody/medotkhody/"><img class="lazyload" data-src="img/new/box/6.png" alt="лекарства"></a>
 						</div>
 						<div class="box-item">
 							<a href="http://www.promothod.kz/otkhody/otkhody-soderzhashchie-pkhd-i-soz/"><img class="lazyload" data-src="img/new/box/7.png" alt="хим.соед."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/8.png" alt="рад.отх."></a>
+							<a href="https://www.promothod.kz/otkhody/rtutsoderzhashchie-otkhody/"><img class="lazyload" data-src="img/new/box/8.png" alt="рад.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/9.png" alt="иконка"></a>
+							<a href="https://www.promothod.kz/otkhody/khimicheskie-otkhody/"><img class="lazyload" data-src="img/new/box/9.png" alt="khimicheskie-otkhody"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/10.png" alt="иконка"></a>
+							<a href="https://www.promothod.kz/otkhody/sredstva-individualnoy-zashchity/"><img class="lazyload" data-src="img/new/box/10.png" alt="sredstva-individualnoy-zashchit"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/11.png" alt="иконка"></a>
+							<a href="https://www.promothod.kz/otkhody/tara-i-upakovka/"><img class="lazyload" data-src="img/new/box/11.png" alt="tara-i-upakovka"></a>
 						</div>
 					</div>
 					<div class="row box-container">
@@ -541,22 +541,22 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/"><img class="lazyload" data-src="img/new/box/14.png" alt="нефтепродукты"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/15.png" alt="кабель"></a>
+							<a href="https://www.promothod.kz/otkhody/lom-i-pyl-abrazivnykh-materialov/"><img class="lazyload" data-src="img/new/box/15.png" alt="кабель"></a>
 						</div>
 						<div class="box-item">
 							<a href="http://www.promothod.kz/otkhody/bytovaya-tekhnika-i-mebel/"><img class="lazyload" data-src="img/new/box/16.png" alt="оргтехника"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/17.png" alt="текстиль"></a>
+							<a href="https://www.promothod.kz/otkhody/bumaga-karton/"><img class="lazyload" data-src="img/new/box/17.png" alt="bumaga-karton"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/18.png" alt="иконка"></a>
+							<a href="https://www.promothod.kz/otkhody/lom-i-pyl-abrazivnykh-materialov/"><img class="lazyload" data-src="img/new/box/18.png" alt="lom-i-pyl-abrazivnykh-materialov"></a>
 						</div>
 						<div class="box-item">
 							<a href="http://www.promothod.kz/otkhody/tamozhennye-otkhody/"><img class="lazyload" data-src="img/new/box/19.png" alt="тамож.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/20.png" alt="лом"></a>
+							<a href="https://www.promothod.kz/otkhody/lom-i-pyl-abrazivnykh-materialov/"><img class="lazyload" data-src="img/new/box/20.png" alt="лом"></a>
 						</div>
 						<div class="box-item">
 							<a href="http://www.promothod.kz/otkhody/medotkhody/"><img class="lazyload" data-src="img/new/box/21.png" alt="мед.отх."></a>
