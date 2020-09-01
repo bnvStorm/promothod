@@ -401,9 +401,6 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 				</div>
 			</section> <!-- end testimonials -->
-
-
-
 			<!-- From Blog -->
 			<section class="section-wrap blog-grid call-center">
 				<div class="container">
@@ -411,18 +408,12 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
-									<!-- 	<p class="subtitle">Текст</p> -->
-									<!-- 	<h2 class="section-title">Заголовок</h2> -->
 									<p>Наберите телефон Call-center компании и получите ответы на все вопросы, либо закажите услугу по утилизации отходов на вашем предприятии:</p>
 								</div>
-								<div class="call-us mt-auto">
-									<!-- <i class="icon-Dispacher-2 call-us__icon"></i> -->
-									<span class="call-us__title">Call-center:</span>
-									<a href="tel:+77212410029" class="call-us__phone-number">+7 (7212) 41 00 29</a>
-								</div>	
-						<!-- 		<div class="call-block">
-									<img src="img/new/call.jpg" alt="">
-								</div> -->
+								<a href="tel:+77212410029" class="call-us mt-auto">
+									<span class="call-us__title">Call-center:<br>+7 (7212) 41 00 29</span>
+									<!-- <a href="tel:+77212410029" class="call-us__phone-number"></a> -->
+								</a>	
 								<div class="title-row">
 									<button class="b24-web-form-popup-btn-24 call-back">Заказать услугу прямо сейчас</button>
 									<!-- 	<p class="subtitle">Текст</p> -->
@@ -495,7 +486,6 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 								</div>								 
 							</div>
 						</div>
-
 					</div>
 				</div>
 			</section> <!-- end from blog -->
@@ -507,72 +497,72 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 					</div>	
 					<div class="row box-container">
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/akkumulyatory/"><img src="img/new/box/1.jpg" alt="акамуляторы"></a>
+							<a href="http://www.promothod.kz/otkhody/akkumulyatory/"><img class="lazyload" data-src="img/new/box/1.png" alt="акамуляторы"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/"><img src="img/new/box/2.jpg" alt="грунт"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/"><img class="lazyload" data-src="img/new/box/2.png" alt="грунт"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/lakokrasochnye-materialy/"><img src="img/new/box/3.jpg" alt="краски"></a>
+							<a href="http://www.promothod.kz/otkhody/lakokrasochnye-materialy/"><img class="lazyload" data-src="img/new/box/3.png" alt="краски"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/bumaga-karton/"><img src="img/new/box/4.jpg" alt="бумага,картон"></a>
+							<a href="http://www.promothod.kz/otkhody/bumaga-karton/"><img class="lazyload" data-src="img/new/box/4.png" alt="бумага,картон"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/5.jpg" alt="оборудование"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/5.png" alt="оборудование"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/6.jpg" alt="лекарства"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/6.png" alt="лекарства"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/otkhody-soderzhashchie-pkhd-i-soz/"><img src="img/new/box/7.jpg" alt="хим.соед."></a>
+							<a href="http://www.promothod.kz/otkhody/otkhody-soderzhashchie-pkhd-i-soz/"><img class="lazyload" data-src="img/new/box/7.png" alt="хим.соед."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/8.jpg" alt="рад.отх."></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/8.png" alt="рад.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/9.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/9.png" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/10.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/10.png" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/11.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/11.png" alt="иконка"></a>
 						</div>
 					</div>
 					<div class="row box-container">
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/rtutsoderzhashchie-otkhody/"><img src="img/new/box/12.jpg" alt="ртуть"></a>
+							<a href="http://www.promothod.kz/otkhody/rtutsoderzhashchie-otkhody/"><img class="lazyload" data-src="img/new/box/12.png" alt="ртуть"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/"><img src="img/new/box/13.jpg" alt="фильтры"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/filtry-avtomobilnye/"><img class="lazyload" data-src="img/new/box/13.png" alt="фильтры"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/"><img src="img/new/box/14.jpg" alt="нефтепродукты"></a>
+							<a href="http://www.promothod.kz/otkhody/neftesoderzhashchie-otkhody/"><img class="lazyload" data-src="img/new/box/14.png" alt="нефтепродукты"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/15.jpg" alt="кабель"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/15.png" alt="кабель"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/bytovaya-tekhnika-i-mebel/"><img src="img/new/box/16.jpg" alt="оргтехника"></a>
+							<a href="http://www.promothod.kz/otkhody/bytovaya-tekhnika-i-mebel/"><img class="lazyload" data-src="img/new/box/16.png" alt="оргтехника"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/17.jpg" alt="текстиль"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/17.png" alt="текстиль"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/18.jpg" alt="иконка"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/18.png" alt="иконка"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/tamozhennye-otkhody/"><img src="img/new/box/19.jpg" alt="тамож.отх."></a>
+							<a href="http://www.promothod.kz/otkhody/tamozhennye-otkhody/"><img class="lazyload" data-src="img/new/box/19.png" alt="тамож.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/"><img src="img/new/box/20.jpg" alt="лом"></a>
+							<a href="http://www.promothod.kz/otkhody/"><img class="lazyload" data-src="img/new/box/20.png" alt="лом"></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/medotkhody/"><img src="img/new/box/21.jpg" alt="мед.отх."></a>
+							<a href="http://www.promothod.kz/otkhody/medotkhody/"><img class="lazyload" data-src="img/new/box/21.png" alt="мед.отх."></a>
 						</div>
 						<div class="box-item">
-							<a href="http://www.promothod.kz/otkhody/tara-i-upakovka/"><img src="img/new/box/22.jpg" alt="тара"></a>
+							<a href="http://www.promothod.kz/otkhody/tara-i-upakovka/"><img class="lazyload" data-src="img/new/box/22.png" alt="тара"></a>
 						</div>
 					</div>
 				</div>
@@ -594,105 +584,17 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 							<div class="col-lg-9 col-md-9 fmenu">
 								<div class="widget widget_nav_menu">
-								<!-- 	<ul class="footer-list">
-
-											<li><a href="/o-nas/">О нас</a></li>								
-
-											<li><a href="/o-nas/otzyvy/">Отзывы</a></li>						
-
-											<li><a href="/uslugi/">Услуги</a></li>									
-
-											<li><a href="/otkhody/">Отходы</a></li>									
-
-											<li><a href="/info/">Инфо (обращение с отходами)</a></li>				
-											
-											<li><a href="/o-nas/novosti/">Новости</a></li>							
-
-											<li><a href="/tseny/">Цены</a></li>										
-
-											<li><a href="/resheniya/">Решения</a></li>								
-
-											<li><a href="/sitemap/">Карта сайта</a></li>
-						
-
-										</ul> -->
-										<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse nav_top">
-											<ul class="nav__menu">
-												<li class="nav__dropdown">
-													<a href="/" aria-haspopup="true">Главная</a>
-													<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<!-- <ul class="nav__dropdown-menu">
-										<li><a href="index.html">О нас</a></li>
-										<li><a href="index-2.html">Home 2</a></li>
-										<li><a href="index-3.html">Home 3</a></li>
-										<li><a href="index-4.html">Home 4</a></li>
-									</ul> -->
-								</li>
-								<li class="nav__dropdown">
-									<a href="/o-nas/" aria-haspopup="true">О нас</a>
-									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-									<!-- <ul class="nav__dropdown-menu">
-										<li><a href="index.html">О нас</a></li>
-										<li><a href="index-2.html">Home 2</a></li>
-										<li><a href="index-3.html">Home 3</a></li>
-										<li><a href="index-4.html">Home 4</a></li>
-									</ul> -->
-								</li>
-								<li class="nav__dropdown">
-									<a href="/uslugi/" aria-haspopup="true">Услуги</a>
-									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-						<!-- 			<ul class="nav__dropdown-menu">
-										<li><a href="about.html">About</a></li>
-										<li><a href="services.html">Services</a></li>
-										<li><a href="single-service.html">Single Service</a></li>
-										<li><a href="contact.html">Contact</a></li>
-									</ul> -->
-								</li>
-								<li class="nav__dropdown">
-									<a href="/otkhody/" aria-haspopup="true">Отходы</a>
-									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-								<!-- 	<ul class="nav__dropdown-menu">
-										<li><a href="portfolio.html">Portfolio</a></li>
-										<li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
-										<li><a href="portfolio-single.html">Portfolio Single</a></li>
-									</ul> -->
-								</li>
-								<li class="nav__dropdown">
-									<a href="/zakon/" aria-haspopup="true">Закон</a>
-									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-								<!-- 	<ul class="nav__dropdown-menu">
-										<li><a href="icons.html">Icons</a></li>
-										<li><a href="elements.html">Elements</a></li>
-									</ul> -->
-								</li>
-								<li class="nav__dropdown">
-									<a href="/kontakty/" aria-haspopup="true">Контакты</a>
-									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
-								<!-- 	<ul class="nav__dropdown-menu">
-										<li><a href="blog-masonry.html">Blog Masonry</a></li>
-										<li><a href="blog.html">Blog Standard</a></li>
-										<li><a href="single-post.html">Single Post</a></li>
-									</ul> -->
-								</li>
-							</ul> <!-- end menu -->
-							<div class="nav__phone nav__phone--mobile d-lg-none">
-								<span class="nav__phone-text">Позвоните нам:</span>
-								<a href="tel: 8 (7212) 41-00-29" class="nav__phone-number"> 8 (7212) 41-00-29</a>
-							</div>
-
-							<div class="nav__socials nav__socials--mobile d-lg-none">
-								<div class="socials">
-									<!-- <a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a> -->
-									<a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
-									<!-- <a href="#" class="social social-youtube" aria-label="youtube" title="google plus" target="_blank"><i class="ui-youtube"></i></a> -->
-									<a href="#" class="social social-instagram" aria-label="instagram" title="instagram" target="_blank"><i class="ui-instagram"></i></a>
+									<ul class="footer-list">
+										<li><a href="/" aria-haspopup="true">Главная</a></li>
+										<li><a href="/o-nas/" aria-haspopup="true">О нас</a></li>
+										<li><a href="/uslugi/" aria-haspopup="true">Услуги</a></li>
+										<li><a href="/otkhody/" aria-haspopup="true">Отходы</a></li>
+										<li><a href="/zakon/" aria-haspopup="true">Закон</a></li>
+										<li><a href="/kontakty/" aria-haspopup="true">Контакты</a></li>
+									</ul>
 								</div>
 							</div>
-
-						</nav> <!-- end nav-wrap -->
-					</div>
-				</div>
-			</div>
+						</div>
 <!-- 
 							<div class="col-lg-3 offset-lg-2 col-md-3">
 								<div class="widget">
@@ -718,33 +620,33 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 				</div> <!-- end footer bottom -->
 			</footer> <!-- end footer -->
 
-		<div id="back-to-top">
-			<a href="#top"><i class="ui-arrow-up"></i></a>
-		</div>
+			<div id="back-to-top">
+				<a href="#top"><i class="ui-arrow-up"></i></a>
+			</div>
 
-	</div> <!-- end content wrapper -->
-</main> <!-- end main wrapper -->
+		</div> <!-- end content wrapper -->
+	</main> <!-- end main wrapper -->
 
 
-<!-- jQuery Scripts -->
-<script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/plugins.js"></script>
-<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="/js/rev-slider.js"></script>
-<script src="/js/scripts.js"></script>
-<script id="bx24_form_button" data-skip-moving="true">
-	(function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-		(w[b].forms=w[b].forms||[]).push(arguments[0])};
-		if(w[b]['forms']) return;
-		var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-	})(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
+	<!-- jQuery Scripts -->
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/plugins.js"></script>
+	<script src="/revolution/js/jquery.themepunch.tools.min.js"></script>
+	<script src="/revolution/js/jquery.themepunch.revolution.min.js"></script>
+	<script src="/js/rev-slider.js"></script>
+	<script src="/js/scripts.js"></script>
+	<script id="bx24_form_button" data-skip-moving="true">
+		(function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+			(w[b].forms=w[b].forms||[]).push(arguments[0])};
+			if(w[b]['forms']) return;
+			var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+			var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+		})(window,document,'https://qwmo.bitrix24.kz/bitrix/js/crm/form_loader.js','b24form');
 
-	b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
-</script>
-<!-- Rev Slider Offline Scripts -->
+		b24form({"id":"24","lang":"ru","sec":"p14kcq","type":"button","click":""});
+	</script>
+	<!-- Rev Slider Offline Scripts -->
 <!-- 	<script src="/revolution/js/extensions/revolution.extension.video.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
 	<script src="/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
