@@ -30,11 +30,11 @@
 <body>
 
 	<!-- Preloader -->
-	<div class="loader-mask">
+<!-- 	<div class="loader-mask">
 		<div class="loader">
 			"Загрузка..."
 		</div>
-	</div>
+	</div> -->
 
 	<main class="main-wrapper">
 

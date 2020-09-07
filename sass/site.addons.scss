@@ -352,8 +352,8 @@ a.square:hover{
 	background: url('../img/new/call.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding-left: 125px;
-	padding-right: 10px;
+	padding-left: 0px;
+	padding-right: 135px;
 	padding-bottom: 55px;
 	color: #C5C6C6;
 	a{
@@ -377,9 +377,7 @@ a.square:hover{
 	font-weight: bold;
 	text-transform: uppercase;
 	border:none;
-	padding: 10px 15px;
-	padding-left: 25px;
-	padding-right: 10px;
+	padding: 10px;
 }
 .call-back:hover{
 	background:url('../img/new/tmbtn-act.jpg') no-repeat;

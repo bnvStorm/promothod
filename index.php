@@ -283,7 +283,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 			<div class="masonry-item col-lg-4 project hover-trigger residential">
 				<div class="project__container">
 					<div class="project__img-holder">
-						<a href="portfolio-single.html">
+						<a href="#">
 							<img class="lazyload" data-src="img/portfolio/masonry/1.jpg" alt="" class="project__img">
 							<div class="hover-overlay">
 								<div class="project__description">
@@ -299,7 +299,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 			<div class="masonry-item col-lg-4 project hover-trigger commercial">
 				<div class="project__container">
 					<div class="project__img-holder">
-						<a href="portfolio-single.html">
+						<a href="#">
 							<img class="lazyload" data-src="img/portfolio/masonry/2.jpg" alt="" class="project__img">
 							<div class="hover-overlay">
 								<div class="project__description">
@@ -315,7 +315,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 			<div class="masonry-item col-lg-4 project hover-trigger interior">
 				<div class="project__container">
 					<div class="project__img-holder">
-						<a href="portfolio-single.html">
+						<a href="#">
 							<img class="lazyload" data-src="img/portfolio/masonry/3.jpg" alt="" class="project__img">
 							<div class="hover-overlay">
 								<div class="project__description">
@@ -331,7 +331,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 			<div class="masonry-item col-lg-4 project hover-trigger landscape">
 				<div class="project__container">
 					<div class="project__img-holder">
-						<a href="portfolio-single.html">
+						<a href="#">
 							<img class="lazyload" data-src="img/portfolio/masonry/4.jpg" alt="" class="project__img">
 							<div class="hover-overlay">
 								<div class="project__description">
@@ -432,7 +432,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<div class="col-lg-6">
 										<article class="entry">
 											<div class="entry__img-holder">
-												<a href="single-post.html">
+												<a>
 													<img data-src="img/blog/from_blog_1.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
@@ -443,7 +443,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 													</li>
 												</ul>
 												<h4 class="entry__title">
-													<a href="single-post.html">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Знаках грустный заголовок реторический, пояс ведущими моей себя, имени гор выйти, алфавит страну собрал. Страна щеке назад маленький за точках.</a>
+													<a>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Знаках грустный заголовок реторический, пояс ведущими моей себя, имени гор выйти, алфавит страну собрал. Страна щеке назад маленький за точках.</a>
 												</h4>
 											</div>
 										</article>
@@ -451,7 +451,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<div class="col-lg-6">
 										<article class="entry">
 											<div class="entry__img-holder">
-												<a href="single-post.html">
+												<a>
 													<img data-src="img/blog/from_blog_2.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
@@ -462,7 +462,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 													</li>
 												</ul>
 												<h4 class="entry__title">
-													<a href="single-post.html">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушавшись раз, он силуэт.</a>
+													<a>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушавшись раз, он силуэт.</a>
 												</h4>
 											</div>
 										</article>
@@ -472,15 +472,15 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<ul class="from-blog__recent-posts-list">
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">1</span>
-											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
+											<a class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">2</span>
-											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
+											<a class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 										<li class="from-blog__recent-posts-item">
 											<span class="from-blog__post-number">3</span>
-											<a href="single-post.html" class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
+											<a class="from-blog__post-url">ут рыбные тексты. Одна выйти дал над строчка за, там снова от всех предложения переулка лучше, рукопись заголовок курсивных родного послушав</a>
 										</li>
 									</ul>
 								</div>								 

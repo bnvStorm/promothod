@@ -162,17 +162,17 @@ switch ($cat) {
 	Совет специалистов						</a>
 	
 	</li>												
-	<li class='nav__dropdown'>
+	<!--<li class='nav__dropdown'>
 	<a href='/o-nas/novosti/' >
 	Новости						</a>
 	
-	</li>													
+	</li>			-->
+											
 	<li class='nav__dropdown'>
 	<a href='/o-nas/multimedia/'>Мультимедиа</a>
 	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
-	<li><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a></li>
 	<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
 	</ul>
 	</li>						
@@ -190,13 +190,13 @@ switch ($cat) {
 	<a href='/o-nas/interesnye-proekty/' >
 	Уникальные проекты						</a>		</li>	
 	
-	<li class='nav__dropdown'>
+	<!-- <li class='nav__dropdown'>
 	<a href='/o-nas/otzyvy/' >
 	Отзывы						</a>		</li>	
 	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/vakansii/' >
-	Вакансии						</a>		</li>	
+	Вакансии						</a>		</li>-->	
 	
 
 	</ul> <!-- end menu -->
@@ -384,17 +384,17 @@ switch ($cat) {
 	Совет специалистов						</a>
 	
 	</li>												
-	<li class='nav__dropdown'>
+	<!--<li class='nav__dropdown'>
 	<a href='/o-nas/novosti/' >
 	Новости						</a>
 	
-	</li>													
+	</li>		-->
+												
 	<li class='nav__dropdown'>
 	<a href='/o-nas/multimedia/'>Мультимедиа</a>
 	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
-	<li><a href='/o-nas/multimedia/materialy-smi/' >Материалы СМИ</a></li>
 	<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
 	</ul>
 	</li>						
@@ -412,13 +412,13 @@ switch ($cat) {
 	<a href='/o-nas/interesnye-proekty/' >
 	Уникальные проекты						</a>		</li>	
 	
-	<li class='nav__dropdown'>
+	<!-- <li class='nav__dropdown'>
 	<a href='/o-nas/otzyvy/' >
 	Отзывы						</a>		</li>	
-	
 	<li class='nav__dropdown'>
 	<a href='/o-nas/vakansii/' >
-	Вакансии						</a>		</li>	
+	Вакансии						</a>		</li>	-->
+	
 	
 
 	</ul> <!-- end menu -->
