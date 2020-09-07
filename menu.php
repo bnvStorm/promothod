@@ -289,7 +289,7 @@ switch ($cat) {
 	Устранение разливов <br> опасных отходов</a></li>
 	</li>		
 	<li class='nav__dropdown'>											
-	<a href='http://www.promothod.kz/likvidacia_protechek_phd.php' >
+	<a href='http://www.promothod.kz/o-nas/likvidacia_protechek_phd/' >
 	Ликвидация утечек и проливов ПХД</a></li>
 	</li>	
 	
