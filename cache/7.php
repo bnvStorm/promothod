@@ -27,14 +27,14 @@
       </p>
     </div>
     <div class="about_firm_img">
-      <img src="../img/new/partners/qwmo.png" alt="qwmo" style="width: 200px;">
+      <img src="../img/new/partners/1.jpg" alt="qwmo" style="width: 200px;">
       <a href="http://qwmo.net">Ссылка на сайт</a>
       <a href="http://zavod.qwmo.kz">Ссылка на сайт завода</a>
     </div>
   </div>  
   <div class="about_firm">
     <div class="about_firm_img" style="margin-right:10px;">
-      <img src="../img/new/partners/kzsr.png" alt="qwmo" >
+      <img src="../img/new/partners/4.jpg" alt="qwmo" >
       <a href="http://kzsr.kz">Ссылка на сайт</a>
     </div>
     <div class="about_firm_text">
@@ -47,37 +47,55 @@
       ТОО «Промотход Сервис» - компания по проектированию контейнерных площадок, изготовлению и установке контейнеров для раздельного сбора отходов, официальный дилер на территории РК российских и зарубежных компаний – поставщиков контейнеров.
     </div>
     <div class="about_firm_img"  style="margin-left:10px;">
-      <img src="../img/new/partners/rpo.png" alt="qwmo">
+      <img src="../img/new/partners/8.jpg" alt="qwmo">
       <a href="http://rpo.kz">Ссылка на сайт</a>
     </div>
 
   </div>  
   <div class="about_firm">
     <div class="about_firm_img" style="margin-right:10px;">
-      <img src="../img/new/partners/trrr.png" alt="qwmo" >
+      <img src="../img/new/partners/3.jpg" alt="qwmo" >
       <a href="http://trrr.kz">Ссылка на сайт</a>
     </div>
     <div class="about_firm_text">
       ТОО «RRR technology» - компания по сбору вторичного сырья у населения и компаний малого и среднего бизнеса.
     </div>
-  </div>  
+  </div>   
+  <div class="about_firm">
+    <div class="about_firm_text">
+      ТОО «ЭкоИмпульс» - компания по глубокой переработке электронного и электрического оборудования.
+    </div>
+    <div class="about_firm_img" style="margin-дуае:10px;">
+      <img src="../img/new/partners/6.jpg" alt="qwmo" >
+      <a href="http://trrr.kz">Ссылка на сайт</a>
+    </div>
 
+  </div>  
+  <div class="about_firm">
+    <div class="about_firm_img" style="margin-right:10px;">
+      <img src="../img/new/partners/9.jpg" alt="qwmo">
+      <a href="../reconstruction.php">Ссылка на сайт</a>
+    </div>
+    <div class="about_firm_text">
+      ТОО «Smart Waste» - компания по управлению всех видов опасных отходов в северных регионах Казахстана.
+    </div>
+  </div>
   <div class="about_firm">
     <div class="about_firm_text">
      ТОО «Electronic Waste Recycling» - компания по работе с учреждениями с госучастием по надлежащему списанию и утилизации компьютерной и оргтехники.
    </div>
    <div class="about_firm_img" style="margin-left:10px;">
-    <img src="../img/new/partners/4.png" alt="qwmo" >
+    <img src="../img/new/partners/5.jpg" alt="qwmo" >
     <a href="../reconstruction.php">Ссылка на сайт</a>
   </div>
 </div>
 <div class="about_firm">
   <div class="about_firm_img" style="margin-right:10px;">
-    <img src="../img/new/partners/6.png" alt="qwmo">
+    <img src="../img/new/partners/2.jpg" alt="qwmo" >
     <a href="../reconstruction.php">Ссылка на сайт</a>
   </div>
   <div class="about_firm_text">
-    ТОО «Smart Waste» - компания по управлению всех видов опасных отходов в северных регионах Казахстана.
+    ТОО «Waste Logistic» - транспортно-логистическая компания, осуществляющая свою деятельность на постсоветском пространстве. В парке компании есть специализированная техника для перевозки опасных отходов, рефрижераторы, техника для перевозки грузов на большие расстояния и т.д.
   </div>
 
 </div>
@@ -87,18 +105,9 @@
     ТОО «Polymer Waste» - компания по переработке пластиковой тары, реализации продуктов переработки.
   </div>
   <div class="about_firm_img" style="margin-left:10px;">
-    <img src="../img/new/partners/5.png" alt="qwmo" >
+    <img src="../img/new/partners/7.jpg" alt="qwmo" >
     <a href="../reconstruction.php">Ссылка на сайт</a>
   </div>
 </div>
-<div class="about_firm">
-  <div class="about_firm_img" style="margin-right:10px;">
-    <img src="../img/new/partners/9.png" alt="qwmo" >
-    <a href="../reconstruction.php">Ссылка на сайт</a>
-  </div>
-  <div class="about_firm_text">
-    ТОО «Waste Logistic» - транспортно-логистическая компания, осуществляющая свою деятельность на постсоветском пространстве. В парке компании есть специализированная техника для перевозки опасных отходов, рефрижераторы, техника для перевозки грузов на большие расстояния и т.д.
-  </div>
 
-</div>
 </div>

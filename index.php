@@ -408,12 +408,16 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Наберите телефон Call-center компании и получите ответы на все вопросы:</p>
 								</div>
 								<a href="tel:+77212410029" class="call-us mt-auto">
+									<img src="../img/new/call.png" alt="">
 									<span class="call-us__title">Call-center:<br>+7 (7212) 41 00 29</span>
 									<!-- <a href="tel:+77212410029" class="call-us__phone-number"></a> -->
 								</a>	
 								<div class="title-row">
 									<p style="margin-top: 10px;margin-bottom: 10px;">Либо закажите услугу по утилизации отходов на вашем предприятии прямо сейчас:</p>
-									<button class="b24-web-form-popup-btn-24 call-back">Заказать услугу прямо сейчас</button>
+									
+									<a class="b24-web-form-popup-btn-24 call-back">
+										<img src="../img/new/now.png" alt="">Заказать услугу прямо сейчас
+									</a>
 									<!-- 	<p class="subtitle">Текст</p> -->
 									<h2 class="section-title" style="font-size:18px;margin-top:15px;">Вы можете связаться со специалистами по прямым телефонам:</h2>
 									<p>Департамент закупок: <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;">8 (7212) 42 42 11</a></p>
