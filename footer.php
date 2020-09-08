@@ -13,7 +13,7 @@
 								</div>
 							</div> <!-- end logo -->
 
-								<div class="col-lg-9 col-md-9 fmenu">
+							<div class="col-lg-9 col-md-9 fmenu">
 								<div class="widget widget_nav_menu">
 									<ul class="footer-list">
 										<li><a href="/" aria-haspopup="true">Главная</a></li>
@@ -25,7 +25,7 @@
 									</ul>
 								</div>
 							</div>
-			</div>
+						</div>
 <!-- 
 							<div class="col-lg-3 offset-lg-2 col-md-3">
 								<div class="widget">
@@ -45,7 +45,9 @@
 				<div class="footer__bottom">
 					<div class="container-fluid text-right text-md-center">
 						<span class="copyright">
-							<!-- &copy; 2020 Караганда, Казпромотход</a> -->
+							ТОО «Промотход Казахстан» <br>
+							2012-2020 <br>
+							&copy; Медиа-центр компании
 						</span>
 					</div>
 				</div> <!-- end footer bottom -->

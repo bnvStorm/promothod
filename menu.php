@@ -73,7 +73,7 @@ switch ($cat) {
 	<li class='nav__dropdown'>	
 	<a href='/otkhody/neftesoderzhashchie-otkhody/' >
 	Нефтесодержащие отходы		</a>	
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/otkhody/neftesoderzhashchie-otkhody/otrabotannye-masla/'>Отработанные масла</a></li>
 	<li><a href='/otkhody/neftesoderzhashchie-otkhody/promaslennaya-vetosh/'>Промасленная ветошь</a></li>
@@ -82,7 +82,7 @@ switch ($cat) {
 	<li><a href='/otkhody/neftesoderzhashchie-otkhody/zamazuchennyy-grunt/'>Замазученный грунт</a></li>
 	<li><a href='/otkhody/neftesoderzhashchie-otkhody/vodomaslyanye-emulsii/'>Водомасляные эмульсии</a></li>
 	<li><a href='/otkhody/neftesoderzhashchie-otkhody/otkhody-nefteuloviteley/'>Отходы нефтеуловителей<li></a></li>
-	</ul>
+	</ul>-->
 	</li>
 	<li class='nav__dropdown'><a href='/otkhody/sredstva-individualnoy-zashchity/' >
 	Средства индивидуальной защиты</a></li>
@@ -219,19 +219,19 @@ switch ($cat) {
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>							
 	<a href='/uslugi/priem-otkhodov/' >Прием отходов</a>
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
-	<ul class='nav__dropdown-menu'>
-	<li>
-	<a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' >Прием пластика ПЭТ и ПВД</a>
-	</li>	
-	</ul>	
+	<!--// <i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	// <ul class='nav__dropdown-menu'>
+	// <li>
+	// <a href='/uslugi/priem-otkhodov/priem-plastika-pet-i-pvd.php' >Прием пластика ПЭТ и ПВД</a>
+	// </li>	
+	// </ul>-->	
 	</li>	
 	<li class='nav__dropdown'>										
 	<a href='/uslugi/vremennoe-khranenie-otkhodov/' >Временное хранение <br> отходов</a>
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/uslugi/vremennoe-khranenie-otkhodov/konteynernye-ploshchadki/' >Контейнерные площадки</a>	</li>
-	</ul>
+	</ul>-->
 	</li>
 	<li class='nav__dropdown'>												
 	<a href='/uslugi/dokumentirovanie-otkhodov/' >
@@ -255,12 +255,12 @@ switch ($cat) {
 	</li>
 	<li class='nav__dropdown'>	
 	<a href='/uslugi/pererabotka-otkhodov/' >Переработка опасных отходов</a>
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/uslugi/pererabotka-otkhodov/sortirovka/' >Сортировка</a></li>
 	<li><a href='/uslugi/pererabotka-otkhodov/droblenie/' >Дробление</a></li>
 	<li><a href='/uslugi/pererabotka-otkhodov/pressovanie/' >Прессование</a></li>
-	</ul>
+	</ul>-->
 	</li>
 	
 	<!--<li class='nav__dropdown'>	

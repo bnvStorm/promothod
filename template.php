@@ -3,6 +3,9 @@
 	ul{
 		list-style-type: none;
 	}
+	a{
+		color: #000;
+	}
 </style>
 	<div class=' content content-wrapper content-wrapper--boxed oh'>
 		<?php include 'menu.php' ?>

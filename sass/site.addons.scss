@@ -46,11 +46,35 @@
 .intro__title {
 	max-width: 350px;
 }
+
 .about_img{
 	display: block;
 	float: right;
 	width: 100%;
 	max-width: 400px;
+	margin-left: 10px;
+}
+.about_firm{
+	display: flex;
+	align-items: center;
+	// float:right;
+}
+.about_firm_img{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	max-width: 210px;
+	width: 100%;
+	border:1px solid #000;
+	border-radius: 8px;
+	padding: 10px;
+}
+.about_firm_img img{
+	margin-bottom: 10px;
+	max-width: 200px;
+	width: 100%;
+
 }
 .content{
 	background:transparent url('../img/new/bg.jpg') repeat-x;
@@ -331,6 +355,11 @@ a.square:hover{
 			&:hover{
 				box-shadow: 0 0 10px rgba(0,0,0,0.5);
 			}
+			img{
+				width: 100%;
+				max-width: 190px;
+				max-height: 240px;
+			}
 		}
 	}
 }
@@ -417,4 +446,16 @@ a.square:hover{
 			position: absolute;
 		}
 	}
+}
+.from-blog__recent-posts{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-around;
+	img{
+		max-width: 150px;
+	}
+}
+.entry__title {
+	font-size: 16px;
 }
