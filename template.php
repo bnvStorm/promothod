@@ -1,7 +1,7 @@
 <?php include 'header.php' ?>
 <style>
 	ul{
-		list-style-type: none;
+		list-style-type: disc;
 	}
 	a{
 		color: #000;

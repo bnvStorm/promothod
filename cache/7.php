@@ -27,7 +27,7 @@
       </p>
     </div>
     <div class="about_firm_img">
-      <img src="../img/new/partners/qwmo.png" alt="qwmo" style="width: 200px;margin-left:10px;">
+      <img src="../img/new/partners/qwmo.png" alt="qwmo" style="width: 200px;">
       <a href="http://qwmo.net">Ссылка на сайт</a>
       <a href="http://zavod.qwmo.kz">Ссылка на сайт завода</a>
     </div>
@@ -93,7 +93,7 @@
 </div>
 <div class="about_firm">
   <div class="about_firm_img" style="margin-right:10px;">
-    <img src="../img/new/partners/5.png" alt="qwmo" >
+    <img src="../img/new/partners/9.png" alt="qwmo" >
     <a href="../reconstruction.php">Ссылка на сайт</a>
   </div>
   <div class="about_firm_text">

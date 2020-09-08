@@ -6326,8 +6326,20 @@ a.square:hover img {
   max-width: 150px;
 }
 
+.entry:last-child {
+  margin-bottom: 0;
+}
+
 .entry__title {
   font-size: 16px;
+}
+
+.entry__img {
+  max-height: 150px;
+}
+
+.auto_margin {
+  margin: 0 auto;
 }
 
 @media (max-width: 5000px) and (min-width: 2300px) {

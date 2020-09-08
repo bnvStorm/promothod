@@ -421,44 +421,46 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>Финансовый департамент: <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;">8 (7212) 39 65 29</a></p>
 									<p style="font-size:15px;">Экологический департамент: <a href="tel:8 (7212) 361561" style="font-weight:bold;">8 (7212) 36 15 61</a></p>
 								</div>
-							</div>							
+
+							</div>	
+
 						</div>						
 
 						<div class="col-lg-7 offset-lg-1">
 							<div class="from-blog">
 								<div class="row row-60">
-									<div class="col-lg-6">
+									<div class="col-lg-12">
 										<article class="entry">
 											<div class="entry__img-holder">
 												<a>
-													<img data-src="img/blog/from_blog_1.jpg" class="entry__img lazyload" alt="">
+													<img data-src="img/new/news1.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
 											<div class="entry__body">
-												<ul class="entry__meta">
+											<!-- 	<ul class="entry__meta">
 													<li class="entry__meta-date">
 														<span>15 нбр 2020</span>
 													</li>
-												</ul>
+												</ul> -->
 												<h4 class="entry__title">
 													<a>С 2020 года ТОО «Промотход Казахстан» работает в тесном сотрудничестве с группой сертифицированных компаний, что позволяет обеспечить высочайший уровень исполнения договоров: от раздельного сбора опасных отходов непосредственно на территории заказчика до транспортировки, переработки, временного хранения, утилизации и захоронения отходов на специальном полигоне. Подробнее об этом читайте на странице О Нас.</a>
 												</h4>
 											</div>
 										</article>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-12">
 										<article class="entry">
 											<div class="entry__img-holder">
 												<a>
-													<img data-src="img/blog/from_blog_2.jpg" class="entry__img lazyload" alt="">
+													<img data-src="img/new/news2.jpg" class="entry__img lazyload" alt="">
 												</a>
 											</div>
 											<div class="entry__body">
-												<ul class="entry__meta">
+											<!-- 	<ul class="entry__meta">
 													<li class="entry__meta-date">
 														<span>15 дек 2020</span>
 													</li>
-												</ul>
+												</ul> -->
 												<h4 class="entry__title">
 													<a>На специальном складе для хранения ПХД-отходов в настоящее время формируется новая партия особо опасных отходов для отправки в Бельгию. К сожалению, на территории Казахстана нет технологических линий для обезвреживания и утилизации такого вида опасных отходов. Поэтому ТОО «Промотход Казахстан» выступает надежным партнером для предприятий по утилизации ПХД-отходов и зарегистрирован в качестве экспортера за №KZ000036 с правом трансграничной перевозки.</a>
 												</h4>
@@ -466,17 +468,33 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 										</article>
 									</div>
 								</div>
-								<div class="from-blog__recent-posts">
-									<img src="../img/new/partners/kzsr.png" alt="qwmo" >
-									<img src="../img/new/partners/qwmo.png" alt="qwmo" >
-									<img src="../img/new/partners/rpo.png" alt="qwmo" >
-									<img src="../img/new/partners/trrr.png" alt="qwmo" >
-									<img src="../img/new/partners/4.png" alt="qwmo" >
-									<img src="../img/new/partners/5.png" alt="qwmo" >
-									<img src="../img/new/partners/6.png" alt="qwmo" >
-									<img src="../img/new/partners/6.png" alt="qwmo" >
-								</div>								 
+
 							</div>
+						</div>
+					</div><div class="col-lg-8 auto_margin">
+						<div class="from-blog__recent-posts">
+							<a href="https://kzsr.kz">
+								<img src="../img/new/partners/4.jpg" alt="qwmo" >
+							</a>
+							<a href="https://qwmo.kz">
+								<img src="../img/new/partners/1.jpg" alt="qwmo" >
+							</a>
+							<img src="../img/new/partners/8.jpg" alt="qwmo" >
+							<a href="https://rpo.kz/">
+								<img src="../img/new/partners/3.jpg" alt="qwmo" >
+							</a>
+							<a href="https://trr.kz">
+								<img src="../img/new/partners/2.jpg" alt="qwmo" >
+							</a>
+							<a href="../reconstruction.php">
+								<img src="../img/new/partners/5.jpg" alt="qwmo" >
+							</a>
+							<a href="https://empls.biz">
+								<img src="../img/new/partners/6.jpg" alt="qwmo" >
+							</a>
+							<a href="../reconstruction.php">
+								<img src="../img/new/partners/7.jpg" alt="qwmo" >
+							</a>
 						</div>
 					</div>
 				</div>
