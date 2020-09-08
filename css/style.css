@@ -6295,7 +6295,7 @@ a.square:hover img {
 
 .tp-caption.hero-text {
   padding: 20px;
-  background: url("../img/new/slider/bgs.png"), #00000045;
+  background: url("../img/new/slider/bgs.jpg"), #00000045;
   background-size: cover;
   background-position-x: 100%;
 }
@@ -6327,10 +6327,10 @@ a.square:hover img {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .from-blog__recent-posts img {
-  max-width: 150px;
+  max-width: 135px;
 }
 
 .entry:last-child {

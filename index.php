@@ -475,7 +475,10 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 							</div>
 						</div>
-					</div><div class="col-lg-8 auto_margin">
+					</div>
+
+<div class="row">
+						<div class="col-lg-12 auto_margin">
 						<div class="from-blog__recent-posts">
 							<a href="https://kzsr.kz">
 								<img src="../img/new/partners/4.jpg" alt="qwmo" >
@@ -483,11 +486,13 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 							<a href="https://qwmo.kz">
 								<img src="../img/new/partners/1.jpg" alt="qwmo" >
 							</a>
-							<img src="../img/new/partners/8.jpg" alt="qwmo" >
 							<a href="https://rpo.kz/">
+								<img src="../img/new/partners/8.jpg" alt="qwmo" >
+							</a>
+							<a href="https://trrr.kz/">
 								<img src="../img/new/partners/3.jpg" alt="qwmo" >
 							</a>
-							<a href="https://trr.kz">
+							<a href="../reconstruction.php">
 								<img src="../img/new/partners/2.jpg" alt="qwmo" >
 							</a>
 							<a href="../reconstruction.php">
@@ -501,6 +506,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 							</a>
 						</div>
 					</div>
+</div>
 				</div>
 			</section> <!-- end from blog -->
 			<!-- Partners -->
