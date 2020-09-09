@@ -159,7 +159,7 @@ switch ($cat) {
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>
 	<a href='/o-nas/sovet-specialistov/' >
-	Совет специалистов						</a>
+	Группа специалистов						</a>
 	
 	</li>												
 	<!--<li class='nav__dropdown'>
@@ -169,12 +169,12 @@ switch ($cat) {
 	</li>			-->
 											
 	<li class='nav__dropdown'>
-	<a href='/o-nas/multimedia/'>Мультимедиа</a>
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	<a href='/o-nas/multimedia/'>Видео</a>
+	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
 	<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
-	</ul>
+	</ul>-->
 	</li>						
 	<li class='nav__dropdown'>
 	
@@ -381,7 +381,7 @@ switch ($cat) {
 	<ul class='nav__menu'>
 	<li class='nav__dropdown'>
 	<a href='/o-nas/sovet-specialistov/' >
-	Совет специалистов						</a>
+	Группа специалистов						</a>
 	
 	</li>												
 	<!--<li class='nav__dropdown'>
@@ -391,12 +391,12 @@ switch ($cat) {
 	</li>		-->
 												
 	<li class='nav__dropdown'>
-	<a href='/o-nas/multimedia/'>Мультимедиа</a>
-	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
+	<a href='/o-nas/multimedia/'>Видео</a>
+	<!--<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
 	<li><a href='/o-nas/multimedia/video/' >Видеоматериалы</a></li>
 	<li><a href='/o-nas/multimedia/fotomaterialy/' >Фотоматериалы</a></li>
-	</ul>
+	</ul>-->
 	</li>						
 	<li class='nav__dropdown'>
 	

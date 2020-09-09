@@ -25,6 +25,10 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 </head>
 
 <body>
@@ -73,7 +77,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="/o-nas/" aria-haspopup="true">О нас</a>
+									<a href="/o-nas/gruppa-specialistov/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">
 										<li><a href="index.html">О нас</a></li>

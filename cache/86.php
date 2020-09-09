@@ -53,7 +53,7 @@
 	</div>
 	<div class="people_item">
 		<div class="people_img">
-			<img src="../../img/new/nimage.png" alt="">
+			<img src="../../img/new/nimage.jpg" alt="">
 		</div>
 		<div class="people_text">
 			<div class="people_text-bold">Илья ЯРЦЕВ
@@ -64,7 +64,7 @@
 	</div>		
 	<div class="people_item">
 		<div class="people_img">
-			<img src="../../img/new/nimage.png" alt="">
+			<img src="../../img/new/nimage.jpg" alt="">
 		</div>
 		<div class="people_text">
 			<div class="people_text-bold">Наталья Иванова
@@ -75,7 +75,7 @@
 	</div>	
 	<div class="people_item">
 		<div class="people_img">
-			<img src="../../img/new/nimage.png" alt="">
+			<img src="../../img/new/nimage.jpg" alt="">
 		</div>
 		<div class="people_text">
 			<div class="people_text-bold">Тимур СУЛУБЕКОВ
@@ -97,7 +97,7 @@
 	</div>	
 	<div class="people_item">
 		<div class="people_img">
-			<img src="../../img/new/nimage.png" alt="">
+			<img src="../../img/new/nimage.jpg" alt="">
 		</div>
 		<div class="people_text">
 			<div class="people_text-bold">Ерболат КУМАРОВ
@@ -119,7 +119,7 @@
 	</div>		
 	<div class="people_item">
 		<div class="people_img">
-			<img src="../../img/new/nimage.png" alt="">
+			<img src="../../img/new/nimage.jpg" alt="">
 		</div>
 		<div class="people_text">
 			<div class="people_text-bold">Кайрат Мукиев
