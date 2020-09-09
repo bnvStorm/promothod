@@ -51,7 +51,7 @@ function save_to_file($page_id)
 	    $uri = $row['url'];
 	    $filename = 'cache/' . $id . '.php';
 	    file_put_contents( $filename, $content);	
-	    echo "Страница <a href='$uri'>$uri</a> успешно сохранена в кеш. </br>";	
+	    echo "Страница <a href='$uri'>$uri</a>  с id $page_id успешно сохранена в кеш. </br>";	
 	    echo "<a href='/dev.php?func=view_from_cache&page_id=$page_id'>Посмотреть из кеша </a>";	
 	    }
 	}  

@@ -113,7 +113,7 @@ switch ($cat) {
 	Отходы содержащие <br> ПХД и СОЗ</a>
 	<i class='ui-arrow-down nav__dropdown-trigger' role='button' aria-haspopup='true' aria-expanded='false'></i>
 	<ul class='nav__dropdown-menu'>
-	<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-soderzhashchee-maslo/' >ПХД-содержащее масло</a></li>
+	<!--<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-soderzhashchee-maslo/' >ПХД-содержащее масло</a></li>-->
 	<li><a href='/otkhody/otkhody-soderzhashchie-pkhd-i-soz/pkhd-zagryaznennoe-oborudovanie/' >ПХД-загрязненное оборудование</a>	</li>								
 	</ul> 
 	</li>
