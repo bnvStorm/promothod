@@ -6354,7 +6354,15 @@ a.square:hover img {
   color: #fff;
 }
 
+.weatherInformer21 .weatherInformer21-cont .weatherInformer21-cont-line {
+  height: 21px !important;
+}
+
 @media (max-width: 480px) {
+  .wwidget {
+    display: none;
+  }
+
   .call-back {
     margin-left: 70px;
   }
