@@ -59,7 +59,7 @@
 	</li>
 
 	<li style="margin-top: 10px;">
-		<img src="../../img/new/nimage.jpg" alt="" style="min-width: 190px;">
+		<img src="../../img/new/nimage2.jpg" alt="" style="min-width: 190px;">
 		<p>ТОО «КазРемШина» - переработка отработанных резинотехнических изделий, ремонт крупногабаритных шин.</p>
 	</li>
 
@@ -75,16 +75,16 @@
 		</p>
 	</li>
 
-	<li style="margin-top: 10px;"><img src="../../img/new/nimage.jpg" alt="" style="min-width: 190px;">
+	<li style="margin-top: 10px;"><img src="../../img/new/nimage2.jpg" alt="" style="min-width: 190px;">
 		<p>ИП Байжуманов - очистка резервуаров для хранения нефтепродуктов.</p>
 	</li>
 
-	<li style="margin-top: 10px;"><img src="../../img/new/nimage.jpg" alt="" style="min-width: 190px;">
+	<li style="margin-top: 10px;"><img src="../../img/new/nimage2.jpg" alt="" style="min-width: 190px;">
 		<p>ТОО «SMIT Ltd» - производство изделий из отходов свинца, образующихся у ТОО ПРОМОТХОД КАЗАХСТАН.</p>
 	</li>
 
 	<li style="margin-top: 10px;">
-		<img src="../../img/new/nimage.jpg" alt="" style="min-width: 190px;">
+		<img src="../../img/new/nimage2.jpg" alt="" style="min-width: 190px;">
 		<p>ТОО «ИзотопТрансСервис» – компания оказывает услуги по захоронению отработанных источников ионизирующего излучения, а также радиоактивных отходов.</p>
 	</li>
 
