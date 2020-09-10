@@ -3,8 +3,8 @@
 
 <div class="content-wrapper content-wrapper--boxed oh">
 <div class="alpha">
-	Проблем с отходами не будет! <br>
-	Просто позвоните  нам!
+	<b>Проблем с отходами не будет!</b> <br>
+	<b>Просто позвоните  нам!</b>
 </div>
 	<div class="rev-offset"></div>
 
@@ -564,13 +564,13 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 								<a target="_blank"href="../reconstruction.php">
 									<img src="../img/new/partners/2.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="../reconstruction.php">
+								<a target="_blank"href="../reconstruction2.php">
 									<img src="../img/new/partners/5.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank"href="https://empls.biz">
 									<img src="../img/new/partners/6.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="../reconstruction.php">
+								<a target="_blank"href="../reconstruction3.php">
 									<img src="../img/new/partners/7.jpg" alt="qwmo" >
 								</a>
 							</div>

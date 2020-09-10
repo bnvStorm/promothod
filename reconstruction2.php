@@ -27,7 +27,7 @@
 			top: 0; bottom: 0; /* Вся высота */
 			z-index: -1; /* Фон ниже текста */
 			/* Параметры фона */
-			background: url('img/new/rbg.jpg') center / cover no-repeat;
+			background: url('img/new/rbg2.jpg') center / cover no-repeat;
 			filter: blur(5px); /* Размытие */
 		}
 		footer{
@@ -62,7 +62,7 @@
 	<main>
 		<div class="logo">
 			<div class="logo-img">
-				<img src="img/new/partners/2.jpg" alt="">
+				<img src="img/new/partners/5.jpg" alt="">
 			</div>
 			<div class="logo-txt">
 				Сайт на реконструкции
