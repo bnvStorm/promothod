@@ -1,3 +1,13 @@
+.download_doc{
+	display: inline-block;
+	padding: 10px;
+	border-radius: 8px;
+	color:#fff;
+	background: #009EE0;
+	&:hover{
+		background: #0278a9;
+	}
+}
 .alpha{
 	background: url('../img/new/main-text.jpg');
 	background-repeat: no-repeat;
@@ -496,9 +506,9 @@ a.square:hover{
 	height: 21px !important;
 }
 @media (max-width: 480px) {
-.wwidget{
-	display: none;
-}
+	.wwidget{
+		display: none;
+	}
 	.call-back{margin-left: 70px;}
 	.entry__title p,.main-text,.aboutcopy p{text-align: justify;}
 }
