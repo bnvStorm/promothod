@@ -73,7 +73,6 @@
 	<!-- Footer -->
 	<footer class="footer bg-dark-overlay">
 
-		ТОО «Промотход Казахстан» <br>
 		2012-2020 <br>
 		&copy; Медиа-центр компании
 		
