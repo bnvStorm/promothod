@@ -37,7 +37,11 @@
 	color: #128968;
 }
 .mini-slider h2{
-	font-size: 32px;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.testimonial__text,.section-title{
+	font-size: 20px;
 }
 .main-text{
 	margin-top: 20px;
@@ -356,6 +360,27 @@ a.square:hover{
 .contact-head-content ul{
 	padding-left: 0;
 }
+.contact_block{
+	color:#138869;
+	a{
+		color:#138869;
+		text-decoration: underline;
+	}
+}
+.contact_table{
+	tr{
+		background: #01A0E1;
+		color: #fff;
+
+	}
+	td{
+		padding: 5px;
+		text-align: center;
+	}
+	a{
+		color:#fff;
+	}
+}
 #back-to-top a{
 	border:1px solid #000;
 }
@@ -427,10 +452,10 @@ a.square:hover{
 	box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.5);
 	img{
 		position: absolute;
-		width: 90px;
+		width: 110px;
 		margin-right: 15px;
-		left: -60px;
-		top: -5px;
+		left: -70px;
+		top: -7px;
 	}
 	// background-color: unset;
 	// background: url('../img/new/call.png');
@@ -481,10 +506,10 @@ a.square:hover{
 	box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.5);
 	img{
 		position: absolute;
-		width: 90px;
+		width: 110px;
 		margin-right: 15px;
-		left: -60px;
-		top: -5px;
+		left: -70px;
+		top: -7px;
 	}
 	// background-color: unset;
 	// background: url('../img/new/call.png');
@@ -525,7 +550,8 @@ a.square:hover{
 }
 .icon-box{
 	h2{
-		font-size: 36px;
+		font-size: 24px;
+		text-transform: uppercase;
 	}
 }
 .box-container{
@@ -568,4 +594,10 @@ a.square:hover{
 }
 .auto_margin{
 	margin: 0 auto;
+}
+#gcw_siteFSp6rojDI{
+	display: none !important;
+}
+.gcw_mainFSp6rojDI{
+	background-color: #128968 !important;
 }

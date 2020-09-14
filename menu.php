@@ -145,6 +145,14 @@ switch ($cat) {
 	</div> <!-- end container -->
 
 	</div>
+	<div id='8f5983801733c5a9908c0bac42ca7f43' class=' wwidget ww-informers-box-854753'><p class='ww-informers-box-854754'><a href='https://world-weather.ru/pogoda/kazakhstan/karaganda/'>world-weather.ru</a><br><a href='https://world-weather.ru/pogoda/russia/lipetsk/'>https://world-weather.ru/pogoda/russia/lipetsk/</a></p></div><script async type='text/javascript' charset='utf-8' src='https://world-weather.ru/wwinformer.php?userid=8f5983801733c5a9908c0bac42ca7f43'></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+		<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFSp6rojDI' class='gcw_mainFSp6rojDI'></div>
+<a id='gcw_siteFSp6rojDI' href='https://freecurrencyrates.com/ru/'>FreeCurrencyRates.com</a>
+<script>function reloadFSp6rojDI(){ var sc = document.getElementById('scFSp6rojDI');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFSp6rojDI';sc.src = 'https://freecurrencyrates.com/ru/widget-horizontal?iso=USD-KZT-EUR-KZT&df=2&p=FSp6rojDI&v=i&source=nbk&width=280&width_title=110&firstrowvalue=1&thm=128968,128968,128968,128968,FFFFFF,128968,128968,ffffff,ffffff&title=%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82&tzo=-360';var div = document.getElementById('gcw_mainFSp6rojDI');div.parentNode.insertBefore(sc, div);} reloadFSp6rojDI(); </script>
+<!-- put custom styles here: .gcw_mainFSp6rojDI{}, .gcw_headerFSp6rojDI{}, .gcw_ratesFSp6rojDI{}, .gcw_sourceFSp6rojDI{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
 	</div> <!-- end navigation -->							
 	";
 	break;
@@ -207,7 +215,15 @@ switch ($cat) {
 
 	</div>
 		<div id='8f5983801733c5a9908c0bac42ca7f43' class=' wwidget ww-informers-box-854753'><p class='ww-informers-box-854754'><a href='https://world-weather.ru/pogoda/kazakhstan/karaganda/'>world-weather.ru</a><br><a href='https://world-weather.ru/pogoda/russia/lipetsk/'>https://world-weather.ru/pogoda/russia/lipetsk/</a></p></div><script async type='text/javascript' charset='utf-8' src='https://world-weather.ru/wwinformer.php?userid=8f5983801733c5a9908c0bac42ca7f43'></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
-	</div> ";
+		<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFSp6rojDI' class='gcw_mainFSp6rojDI'></div>
+<a id='gcw_siteFSp6rojDI' href='https://freecurrencyrates.com/ru/'>FreeCurrencyRates.com</a>
+<script>function reloadFSp6rojDI(){ var sc = document.getElementById('scFSp6rojDI');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFSp6rojDI';sc.src = 'https://freecurrencyrates.com/ru/widget-horizontal?iso=USD-KZT-EUR-KZT&df=2&p=FSp6rojDI&v=i&source=nbk&width=280&width_title=110&firstrowvalue=1&thm=128968,128968,128968,128968,FFFFFF,128968,128968,ffffff,ffffff&title=%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82&tzo=-360';var div = document.getElementById('gcw_mainFSp6rojDI');div.parentNode.insertBefore(sc, div);} reloadFSp6rojDI(); </script>
+<!-- put custom styles here: .gcw_mainFSp6rojDI{}, .gcw_headerFSp6rojDI{}, .gcw_ratesFSp6rojDI{}, .gcw_sourceFSp6rojDI{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
+	</div> 
+	";
 	break;
 	case 'uslugi':
 	echo "	<div class='nav nav--side nav--side-sticky-left leftMenu lnav'>
@@ -302,6 +318,14 @@ switch ($cat) {
 	</div> <!-- end container -->
 
 	</div>
+	<div id='8f5983801733c5a9908c0bac42ca7f43' class=' wwidget ww-informers-box-854753'><p class='ww-informers-box-854754'><a href='https://world-weather.ru/pogoda/kazakhstan/karaganda/'>world-weather.ru</a><br><a href='https://world-weather.ru/pogoda/russia/lipetsk/'>https://world-weather.ru/pogoda/russia/lipetsk/</a></p></div><script async type='text/javascript' charset='utf-8' src='https://world-weather.ru/wwinformer.php?userid=8f5983801733c5a9908c0bac42ca7f43'></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+		<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFSp6rojDI' class='gcw_mainFSp6rojDI'></div>
+<a id='gcw_siteFSp6rojDI' href='https://freecurrencyrates.com/ru/'>FreeCurrencyRates.com</a>
+<script>function reloadFSp6rojDI(){ var sc = document.getElementById('scFSp6rojDI');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFSp6rojDI';sc.src = 'https://freecurrencyrates.com/ru/widget-horizontal?iso=USD-KZT-EUR-KZT&df=2&p=FSp6rojDI&v=i&source=nbk&width=280&width_title=110&firstrowvalue=1&thm=128968,128968,128968,128968,FFFFFF,128968,128968,ffffff,ffffff&title=%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82&tzo=-360';var div = document.getElementById('gcw_mainFSp6rojDI');div.parentNode.insertBefore(sc, div);} reloadFSp6rojDI(); </script>
+<!-- put custom styles here: .gcw_mainFSp6rojDI{}, .gcw_headerFSp6rojDI{}, .gcw_ratesFSp6rojDI{}, .gcw_sourceFSp6rojDI{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
 	</div>
 	
 	";
@@ -429,7 +453,14 @@ switch ($cat) {
 	</div> <!-- end container -->
 
 	</div>
+<div id='8f5983801733c5a9908c0bac42ca7f43' class=' wwidget ww-informers-box-854753'><p class='ww-informers-box-854754'><a href='https://world-weather.ru/pogoda/kazakhstan/karaganda/'>world-weather.ru</a><br><a href='https://world-weather.ru/pogoda/russia/lipetsk/'>https://world-weather.ru/pogoda/russia/lipetsk/</a></p></div><script async type='text/javascript' charset='utf-8' src='https://world-weather.ru/wwinformer.php?userid=8f5983801733c5a9908c0bac42ca7f43'></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+		<!--Currency Converter widget by FreeCurrencyRates.com -->
 
+<div id='gcw_mainFSp6rojDI' class='gcw_mainFSp6rojDI'></div>
+<a id='gcw_siteFSp6rojDI' href='https://freecurrencyrates.com/ru/'>FreeCurrencyRates.com</a>
+<script>function reloadFSp6rojDI(){ var sc = document.getElementById('scFSp6rojDI');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFSp6rojDI';sc.src = 'https://freecurrencyrates.com/ru/widget-horizontal?iso=USD-KZT-EUR-KZT&df=2&p=FSp6rojDI&v=i&source=nbk&width=280&width_title=110&firstrowvalue=1&thm=128968,128968,128968,128968,FFFFFF,128968,128968,ffffff,ffffff&title=%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82&tzo=-360';var div = document.getElementById('gcw_mainFSp6rojDI');div.parentNode.insertBefore(sc, div);} reloadFSp6rojDI(); </script>
+<!-- put custom styles here: .gcw_mainFSp6rojDI{}, .gcw_headerFSp6rojDI{}, .gcw_ratesFSp6rojDI{}, .gcw_sourceFSp6rojDI{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
 	</div>  
 
 	";

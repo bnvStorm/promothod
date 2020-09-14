@@ -5,11 +5,14 @@
 
 		// Home 1
 		$('#slider-1').revolution({
-			sliderLayout:"fullscreen",
+			sliderLayout:"auto",
 			delay:12000,
+			// stopLoop: on, 
+			stopAfterLoops: 0, 
+			stopAtSlide: 1,
 			responsiveLevels:[1200,1024,778,420],
 			gridwidth:[1200,1024,778,410],
-			gridheight:400,
+			gridheight:500,
 			hideThumbs:10,
 			fullScreenAutoWidth: "on",
 			fullScreenOffsetContainer: ".nav, .rev-offset",

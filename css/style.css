@@ -5918,7 +5918,12 @@ dd {
 }
 
 .mini-slider h2 {
-  font-size: 32px;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.testimonial__text, .section-title {
+  font-size: 20px;
 }
 
 .main-text {
@@ -6227,6 +6232,26 @@ a.square:hover img {
   padding-left: 0;
 }
 
+.contact_block {
+  color: #138869;
+}
+.contact_block a {
+  color: #138869;
+  text-decoration: underline;
+}
+
+.contact_table tr {
+  background: #01A0E1;
+  color: #fff;
+}
+.contact_table td {
+  padding: 5px;
+  text-align: center;
+}
+.contact_table a {
+  color: #fff;
+}
+
 #back-to-top a {
   border: 1px solid #000;
 }
@@ -6302,10 +6327,10 @@ a.square:hover img {
 }
 .call-us img {
   position: absolute;
-  width: 90px;
+  width: 110px;
   margin-right: 15px;
-  left: -60px;
-  top: -5px;
+  left: -70px;
+  top: -7px;
 }
 .call-us:hover {
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
@@ -6353,10 +6378,10 @@ a.square:hover img {
 }
 .call-back img {
   position: absolute;
-  width: 90px;
+  width: 110px;
   margin-right: 15px;
-  left: -60px;
-  top: -5px;
+  left: -70px;
+  top: -7px;
 }
 .call-back:hover {
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
@@ -6394,7 +6419,8 @@ a.square:hover img {
 }
 
 .icon-box h2 {
-  font-size: 36px;
+  font-size: 24px;
+  text-transform: uppercase;
 }
 
 .box-container {
@@ -6437,6 +6463,14 @@ a.square:hover img {
 
 .auto_margin {
   margin: 0 auto;
+}
+
+#gcw_siteFSp6rojDI {
+  display: none !important;
+}
+
+.gcw_mainFSp6rojDI {
+  background-color: #128968 !important;
 }
 
 @media (max-width: 5000px) and (min-width: 2300px) {

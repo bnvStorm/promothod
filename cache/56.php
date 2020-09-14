@@ -23,6 +23,7 @@
 	<span style="color: black;"><img width="480" alt="112 UN ПромОтход2015ph-rYudinK.jpg" src="/upload/medialibrary/660/660ea3a165e0624988d58a731992c177.jpg" height="360" title="112 UN ПромОтход2015ph-rYudinK.jpg"><br>
 	</span>
 </p>
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -53,3 +54,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>

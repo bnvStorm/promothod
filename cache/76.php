@@ -37,6 +37,7 @@
 </p>
 
 <!-- <img style="width:100%;max-width:400px;margin-bottom:20px;" src="/upload/uslugi/unichtozhenie-otkhodov/1.png" alt="Уничтожение опасных отходов" title="Уничтожение опасных отходов"> -->
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -67,3 +68,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>

@@ -1,4 +1,4 @@
-<h2>Утилизация люминесцентных ламп</h2>
+w<h2>Утилизация люминесцентных ламп</h2>
 <p align="justify" class="MsoNoSpacing">
  <span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: #061d2c;">Линейные </span><a title="описание люминесцентных ртутьсодержащих ламп на Wikipedia" href="http://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BC%D0%B8%D0%BD%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0"><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">люминесцентные (флуоресцентные) лампы</span></a><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: #061d2c;"> нашли широкое применение в освещении, начиная с конца 60-х годов XX века. </span>
 </p>
@@ -31,6 +31,7 @@
 <p align="center" style="text-align: center;" class="MsoNormal">
  <span style="font-size: 10pt; line-height: 107%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">&nbsp;</span>
 </p>
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -61,3 +62,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>

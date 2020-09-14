@@ -21,6 +21,7 @@
  
 <img style="width:70%" src="/upload/uslugi/upakovka-otkhodov/2.png" alt="Упаковка отходов в Караганде и Казахстане" title="Упаковка отходов в Караганде и Казахстане">
 
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -51,3 +52,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>

@@ -15,6 +15,7 @@
 <img src="/upload/uslugi/vremennoe-khranenie-otkhodov/1.png" alt="Временное хранение опасных отходов" title="Временное хранение опасных отходов">
 <img style="max-height:300px;" src="/upload/uslugi/vremennoe-khranenie-otkhodov/2.png" alt="Временное хранение отходов в Караганде и Казахстане" title="Временное хранение отходов в Караганде и Казахстане">
 </div>
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -45,3 +46,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>

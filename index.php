@@ -39,6 +39,7 @@
 				data-fontsize="[30,30,28,23,20]"
 				data-lineheight="[30,30,28,23,20]"
 				data-width="[900, 700, 600, 300]"
+				style="top:-65px"
 				data-whitespace="[normal, normal, normal, normal]"
 				data-frames='[{
 				"delay":1000,
@@ -133,6 +134,7 @@
 							data-fontsize="[30,30,28,23,20]"
 							data-lineheight="[30,30,28,23,20]"
 							data-width="[900, 700, 500, 300]"
+							style="top:65px"
 							data-whitespace="[normal, normal, normal, normal]"
 							data-frames='[{
 							"delay":1000,
@@ -178,6 +180,7 @@
 			data-voffset="[-50,0,50,80]"
 			data-fontsize="[30,30,28,23,20]"
 			data-lineheight="[30,30,28,23,20]"
+			style="top:65px"
 			data-width="[900, 700, 600, 300]"
 			data-whitespace="[normal, normal, normal, normal]"
 			data-frames='[{
@@ -227,6 +230,7 @@ data-voffset="[-50,0,50,80]"
 data-fontsize="[30,30,28,23,20]"
 data-lineheight="[30,30,28,23,20]"
 data-width="[900, 700, 600, 300]"
+style="top:-65px"
 data-whitespace="[normal, normal, normal, normal]"
 data-frames='[{
 "delay":1000,
@@ -251,10 +255,10 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 <div class="container main-text">
 	<div class="row">
 		<div class="col-lg-12" >
-			<p style="font-size:24px;">
+			<p style="font-size:20px;">
 				ТОО «Промотход Казахстан» - научно-экспериментальная производственная компания по обращению с опасными отходами всех видов на территории Казахстана.
 			</p>
-			<p style="font-size:24px;">
+			<p style="font-size:20px;">
 				Уникальные технологии, большой практический опыт, устойчивые деловые связи с сотнями компаний, международные контакты и совместные проекты, опыт в разработке уникальных решений, - все это характеризует нашу компанию как надежного партнера в решении одной из самых острых проблем в стране – обеспечение экологической безопасности граждан республики!
 			</p>
 		</div>
@@ -452,7 +456,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 													</li>
 												</ul> -->
 												<h4 class="entry__title">
-													<p style="text-indent: 20px;">С 2020 года <b>ТОО «Промотход Казахстан»</b> работает в тесном сотрудничестве с группой сертифицированных компаний, что позволяет обеспечить высочайший уровень исполнения договоров: от раздельного сбора опасных отходов непосредственно на территории заказчика до транспортировки, переработки, временного хранения, утилизации и захоронения отходов на специальном полигоне.
+													<p style="text-indent: 20px;"><b>С 2020 года</b> ТОО «Промотход Казахстан» работает в тесном сотрудничестве с группой сертифицированных компаний, что позволяет обеспечить высочайший уровень исполнения договоров: от раздельного сбора опасных отходов непосредственно на территории заказчика до транспортировки, переработки, временного хранения, утилизации и захоронения отходов на специальном полигоне.
 													</p>
 												</h4>
 											</div>
@@ -472,7 +476,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 													</li>
 												</ul> -->
 												<h4 class="entry__title">
-													<p style="text-indent: 20px;">На <b>специальном</b> складе для хранения ПХД-отходов в настоящее время формируется новая партия особо опасных отходов для отправки в Бельгию. К сожалению, на территории Казахстана нет технологических линий для обезвреживания и утилизации такого вида опасных отходов. Поэтому ТОО «Промотход Казахстан» выступает надежным партнером для предприятий по утилизации ПХД-отходов и зарегистрирован в качестве экспортера за №KZ000036 с правом трансграничной перевозки.</p>
+													<p style="text-indent: 20px;"><b>На специальном</b> складе для хранения ПХД-отходов в настоящее время формируется новая партия особо опасных отходов для отправки в Бельгию. К сожалению, на территории Казахстана нет технологических линий для обезвреживания и утилизации такого вида опасных отходов. Поэтому ТОО «Промотход Казахстан» выступает надежным партнером для предприятий по утилизации ПХД-отходов и зарегистрирован в качестве экспортера за №KZ000036 с правом трансграничной перевозки.</p>
 												</h4>
 											</div>
 										</article>
@@ -549,28 +553,28 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 					<div class="row">
 						<div class="col-lg-12 auto_margin">
 							<div class="from-blog__recent-posts">
-								<a href="https://kzsr.kz">
+								<a target="_blank" href="https://kzsr.kz">
 									<img src="../img/new/partners/4.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="https://qwmo.kz">
+								<a target="_blank" href="https://qwmo.net">
 									<img src="../img/new/partners/1.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="https://rpo.kz/">
+								<a target="_blank" href="https://rpo.kz/">
 									<img src="../img/new/partners/8.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="https://trrr.kz/">
+								<a target="_blank" href="https://trrr.kz/">
 									<img src="../img/new/partners/3.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="../reconstruction.php">
+								<a target="_blank" href="../reconstruction.php">
 									<img src="../img/new/partners/2.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="../reconstruction2.php">
+								<a target="_blank" href="../reconstruction2.php">
 									<img src="../img/new/partners/5.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="https://empls.biz">
+								<a target="_blank" href="https://empls.biz">
 									<img src="../img/new/partners/6.jpg" alt="qwmo" >
 								</a>
-								<a target="_blank"href="../reconstruction3.php">
+								<a target="_blank" href="../reconstruction3.php">
 									<img src="../img/new/partners/7.jpg" alt="qwmo" >
 								</a>
 							</div>

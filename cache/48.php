@@ -83,6 +83,7 @@
  </ul>
  <blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><b>	Гидравлическое оборудование, использующее трансформаторные масла в качестве гидравлической жидкости</b></blockquote><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><b>	Системы теплопереноса (подогрева), использующие ПХД в качестве теплоносителя.</b></blockquote> </blockquote> 
 
+<div class="contact_block">
 <p>
     <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
   </p>
@@ -113,3 +114,5 @@
   <p>
     <b>Заранее благодарим вас за понимание.</b>
   </p>
+</div>
+  </div>
