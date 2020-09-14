@@ -531,6 +531,9 @@ a.square:hover{
 	height: 21px !important;
 }
 @media (max-width: 480px) {
+	.widget_weather{
+		display: none !important;
+	}
 	.wwidget{
 		display: none;
 	}
