@@ -6240,8 +6240,12 @@ a.square:hover img {
   text-decoration: underline;
 }
 
-.contact_table tr {
+.contact_table tr:nth-of-type(odd) {
   background: #01A0E1;
+  color: #fff;
+}
+.contact_table tr:nth-of-type(even) {
+  background: #007678;
   color: #fff;
 }
 .contact_table td {
@@ -6469,11 +6473,15 @@ a.square:hover img {
   margin: 0 auto;
 }
 
-#gcw_siteFSp6rojDI {
+#gcw_siteF0aijgzMt {
   display: none !important;
 }
 
-.gcw_mainFSp6rojDI {
+.gcw_mainF0aijgzMt * {
+  color: #FFFFFF !important;
+}
+
+.gcw_siteF0aijgzMt {
   background-color: #128968 !important;
 }
 

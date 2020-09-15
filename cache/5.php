@@ -135,41 +135,9 @@
 </table>	
 <div class="sliderkit-panels" style="margin-bottom:10px;margin-top:20px;"> 							
 	<div class="sliderkit-panel sliderkit-panel-active" style="display: block;"> 								
-		<img src="/img/map-new.png" width="640" height="480" alt="Офис"> 						
+		<img src="/img/map-new.png" width="100%" height="480" alt="Офис"> 						
 	</div>                          						
 	<div class="sliderkit-panel" style="display: none;">                    	    	
 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20569.01857465241!2d73.06188045495148!3d49.877635514358474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4243444bf4b74905%3A0xf7c6893f0e49a7cd!2z0KLQntCeINCf0KDQntCc0J7QotCl0J7QlCDQmtCQ0JfQkNCl0KHQotCQ0J0!5e0!3m2!1sru!2skz!4v1501668774338" width="640" height="460" frameborder="0" style="border:0" allowfullscreen=""></iframe>	
 	</div>   	
 </div>   		
-<div class="contact_block">
-<p>
-    <b>Call-center компании: <a href="tel:8 708 439 53 00">8 708 439 53 00</a></b>
-  </p>
-  
-
-  <p>
-    <b>Департамент закупок компании: <a href="tel:+7 7212 42 42 11">+7 7212 42 42 11</a></b>
-  </p>
-  
-
-  <p>
-    <b>Корпоративный e-mail компании: <a href="mailto:info@promothod.kz">info@promothod.kz</a> </b>
-  </p>
-
-
-  <p>
-    <b>    Или закажите услугу прямо сейчас, воспользовавшись специальной кнопкой на главной странице сайта – так запрос будет обработан значительно быстрее.</b>
-  </p>
-
-
-  <p>
-    <b>
-      Внимание! Разработка индивидуального коммерческого предложения по вашей заявки может занять от трёх до пяти рабочих дней в связи с высокой загруженностью специалистов.
-    </b>
-  </p> 
-
-
-  <p>
-    <b>Заранее благодарим вас за понимание.</b>
-  </p>
-</div>	

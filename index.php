@@ -431,8 +431,8 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<h2 class="section-title" style="font-size:18px;margin-top:15px;">Вы можете связаться со специалистами по прямым телефонам:</h2>
 									<p style="display:flex;justify-content:space-between;font-size:14px;">Департамент закупок <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;font-size:14px;">8 (7212) 42 42 11</a></p>
 									<p style="display:flex;justify-content:space-between;font-size:14px;">Юридический департамент <a href="tel:8 (7212) 39 70 69" style="font-weight:bold;font-size:14px;">8 (7212) 39 70 69</a></p>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Финансовый департамент <a href="tel:8 (7212) 39 65 29" style="font-weight:bold;font-size:14px;">8 (7212) 39 65 29</a></p>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Экологический департамент <a href="tel:8 (7212) 361561" style="font-weight:bold;font-size:14px;">8 (7212) 36 15 61</a></p>
+									<p style="display:flex;justify-content:space-between;font-size:14px;">Финансовый департамент <a href="tel:8 (7212) 99 61 14" style="font-weight:bold;font-size:14px;">8 (7212) 99 61 14</a></p>
+									<p style="display:flex;justify-content:space-between;font-size:14px;">Экологический департамент <a href="tel:8 (7212) 99 68 17" style="font-weight:bold;font-size:14px;">8 (7212) 99 68 17</a></p>
 								</div>
 
 							</div>	
@@ -493,7 +493,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>
 										Компания «Промотход Казахстан» была создана группой энтузиастов – экологов, инженеров, химиков – в 2012 году и стала первой в республике компанией, основной задачей которой является утилизация опасных промышленных отходов.
 									</p>
-
+										<img class="about_img" src="img/vyvoz_ewaste.jpg" alt="Kazpromothod">
 									<p>
 										За восемь лет компания разрослась до размеров крупного предприятия, к услугам которого ежегодно прибегали тысячи компаний малого, среднего и крупного бизнеса.
 									</p>

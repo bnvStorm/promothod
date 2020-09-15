@@ -368,8 +368,13 @@ a.square:hover{
 	}
 }
 .contact_table{
-	tr{
+	tr:nth-of-type(odd){
 		background: #01A0E1;
+		color: #fff;
+
+	}
+	tr:nth-of-type(even){
+		background: #007678;
 		color: #fff;
 
 	}
@@ -598,9 +603,12 @@ a.square:hover{
 .auto_margin{
 	margin: 0 auto;
 }
-#gcw_siteFSp6rojDI{
+#gcw_siteF0aijgzMt{
 	display: none !important;
 }
-.gcw_mainFSp6rojDI{
+.gcw_mainF0aijgzMt *{
+	color: #FFFFFF !important;
+}
+.gcw_siteF0aijgzMt{
 	background-color: #128968 !important;
 }
