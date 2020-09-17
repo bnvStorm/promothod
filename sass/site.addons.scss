@@ -536,6 +536,11 @@ a.square:hover{
 	height: 21px !important;
 }
 @media (max-width: 480px) {
+	.hero-text{
+		max-width:100% !important;
+		width: 100% !important;
+		min-width:480px !important;
+	}
 	.widget_weather{
 		display: none !important;
 	}
@@ -544,6 +549,27 @@ a.square:hover{
 	}
 	.call-back{margin-left: 70px;}
 	.entry__title p,.main-text,.aboutcopy p{text-align: justify;}
+}
+@media (max-width: 425px) {
+		.hero-text{
+		max-width:100% !important;
+		width: 100% !important;
+		min-width:425px !important;
+	}
+}
+@media (max-width: 375px) {
+		.hero-text{
+		max-width:100% !important;
+		width: 100% !important;
+		min-width:375px !important;
+	}
+}
+@media (max-width: 325px) {
+		.hero-text{
+		max-width:100% !important;
+		width: 100% !important;
+		min-width:325px !important;
+	}
 }
 
 // SLIDER

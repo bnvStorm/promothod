@@ -6399,6 +6399,12 @@ a.square:hover img {
 }
 
 @media (max-width: 480px) {
+  .hero-text {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: 480px !important;
+  }
+
   .widget_weather {
     display: none !important;
   }
@@ -6413,6 +6419,27 @@ a.square:hover img {
 
   .entry__title p, .main-text, .aboutcopy p {
     text-align: justify;
+  }
+}
+@media (max-width: 425px) {
+  .hero-text {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: 425px !important;
+  }
+}
+@media (max-width: 375px) {
+  .hero-text {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: 375px !important;
+  }
+}
+@media (max-width: 325px) {
+  .hero-text {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: 325px !important;
   }
 }
 .tp-caption.hero-text {
