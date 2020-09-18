@@ -354,7 +354,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 
 
 <!-- Testimonials -->
-<section class="section-wrap bg-dark-overlay lazyload mini-slider" data-bg="img/new/tslider.jpg">
+<section class="section-wrap bg-dark-overlay lazyload mini-slider" data-bg="img/new/tslider.png">
 	<div class="container">
 		<div class="title-row text-center">
 			<!-- 		<p class="subtitle">Текст</p> -->
