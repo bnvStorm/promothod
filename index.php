@@ -1,5 +1,4 @@
 <?php include 'header.php' ?>
-<script src="js/lazy.js"></script>
 
 <div class="content-wrapper content-wrapper--boxed oh">
 <div class="alpha">
