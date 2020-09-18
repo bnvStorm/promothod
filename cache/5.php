@@ -134,10 +134,5 @@
 	</tbody>	
 </table>	
 <div class="sliderkit-panels" style="margin-bottom:10px;margin-top:20px;"> 							
-	<div class="sliderkit-panel sliderkit-panel-active" style="display: block;"> 								
-		<img src="/img/map-new.png" width="100%" height="480" alt="Офис"> 						
-	</div>                          						
-	<div class="sliderkit-panel" style="display: none;">                    	    	
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20569.01857465241!2d73.06188045495148!3d49.877635514358474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4243444bf4b74905%3A0xf7c6893f0e49a7cd!2z0KLQntCeINCf0KDQntCc0J7QotCl0J7QlCDQmtCQ0JfQkNCl0KHQotCQ0J0!5e0!3m2!1sru!2skz!4v1501668774338" width="640" height="460" frameborder="0" style="border:0" allowfullscreen=""></iframe>	
-	</div>   	
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Af4ef8294d65a575edf27a50295fd74760da3d7e5c67d96c2d860172dbb3e25ac&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>  	
 </div>   		
