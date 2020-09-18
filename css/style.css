@@ -3602,7 +3602,7 @@ header .flex-parent {
 /* Nav Sticky
 -------------------------------------------------------*/
 .nav__holder {
-  background: url("../img/new/navbg.jpg");
+  background: url("../img/new/navbg.png");
 }
 .nav__holder.offset {
   transform: translate3d(0, -100%, 0);
@@ -6010,7 +6010,7 @@ dd {
 }
 
 .content {
-  background: transparent url("../img/new/bg.jpg") repeat-x;
+  background: transparent url("../img/new/bg.png") repeat-x;
   justify-content: center;
 }
 
@@ -6155,7 +6155,7 @@ a.square:hover img {
 }
 
 .intro {
-  background: url("../img/new/bg.jpg") -320% 0% no-repeat;
+  background: url("../img/new/bg.png") -320% 0% no-repeat;
   background-size: cover;
 }
 
