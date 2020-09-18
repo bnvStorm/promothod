@@ -493,7 +493,7 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									<p>
 										Компания «Промотход Казахстан» была создана группой энтузиастов – экологов, инженеров, химиков – в 2012 году и стала первой в республике компанией, основной задачей которой является утилизация опасных промышленных отходов.
 									</p>
-										<img class="about_img" src="img/vyvoz_ewaste.jpg" alt="Kazpromothod">
+										<img class="about_img lazyload" data-src="img/vyvoz_ewaste.jpg" alt="Kazpromothod">
 									<p>
 										За восемь лет компания разрослась до размеров крупного предприятия, к услугам которого ежегодно прибегали тысячи компаний малого, среднего и крупного бизнеса.
 									</p>
@@ -554,28 +554,28 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 						<div class="col-lg-12 auto_margin">
 							<div class="from-blog__recent-posts">
 								<a target="_blank" href="https://kzsr.kz">
-									<img src="../img/new/partners/4.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/4.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="https://qwmo.net">
-									<img src="../img/new/partners/1.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/1.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="https://rpo.kz/">
-									<img src="../img/new/partners/8.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/8.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="https://trrr.kz/">
-									<img src="../img/new/partners/3.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/3.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="../reconstruction.php">
-									<img src="../img/new/partners/2.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/2.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="../reconstruction2.php">
-									<img src="../img/new/partners/5.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/5.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="https://empls.biz">
-									<img src="../img/new/partners/6.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/6.jpg" alt="qwmo" >
 								</a>
 								<a target="_blank" href="../reconstruction3.php">
-									<img src="../img/new/partners/7.jpg" alt="qwmo" >
+									<img class="lazyload" data-src="/img/new/partners/7.jpg" alt="qwmo" >
 								</a>
 							</div>
 						</div>
