@@ -28,13 +28,13 @@
 
 <div class="block_doc">
   <div class="item">
-    <a data-fancybox="gallery" href="../../files/doc/1.png"> <img class="lazyload" data-src="/files/doc/1.png" alt="">  </a>
+    <a data-fancybox="gallery" href="../../files/doc/1.png"> <img src="/files/doc/1.png" alt="">  </a>
 <div class="text">
    ЛИЦЕНЗИЯ НА ЭКСПОРТ ОТДЕЛЬНЫХ ВИДОВ ТОВАРОВ
  </div>
  </div>
 <div class="item">
-  <a data-fancybox="gallery" href="../../files/doc/2.png"> <img class="lazyload" data-src="/files/doc/2.png" alt="">   </a>
+  <a data-fancybox="gallery" href="../../files/doc/2.png"> <img src="/files/doc/2.png" alt="">   </a>
  <div class="text">
   Министерство экологии РК-заключение перевозка ПХД
 </div>
