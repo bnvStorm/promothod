@@ -139,7 +139,7 @@
 	width: 100%;
 	max-width: 269px;
 	height: 42px;
-	background: $meta-color;
+	// background: $meta-color;
 	position: relative;
 }
 .leftMenu-head span{ 
@@ -737,4 +737,12 @@ a.square:hover{
 }
 .gcw_siteF0aijgzMt{
 	background-color: #128968 !important;
+}
+.inlineBlock .col-data{
+	display: none !important;
+}
+table{
+	tr:last-child{
+		display: none !important;
+	}
 }

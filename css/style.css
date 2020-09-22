@@ -3602,7 +3602,7 @@ header .flex-parent {
 /* Nav Sticky
 -------------------------------------------------------*/
 .nav__holder {
-  background: url("../img/new/navbg.png");
+  background: url("../img/new/navbg.jpg");
 }
 .nav__holder.offset {
   transform: translate3d(0, -100%, 0);
@@ -6010,7 +6010,7 @@ dd {
 }
 
 .content {
-  background: transparent url("../img/new/bg.png") repeat-x;
+  background: transparent url("../img/new/bg.jpg") repeat-x;
   justify-content: center;
 }
 
@@ -6031,7 +6031,6 @@ dd {
   width: 100%;
   max-width: 269px;
   height: 42px;
-  background: #0F9696;
   position: relative;
 }
 
@@ -6155,7 +6154,7 @@ a.square:hover img {
 }
 
 .intro {
-  background: url("../img/new/bg.png") -320% 0% no-repeat;
+  background: url("../img/new/bg.jpg") -320% 0% no-repeat;
   background-size: cover;
 }
 
@@ -6590,6 +6589,14 @@ a.square:hover img {
 
 .gcw_siteF0aijgzMt {
   background-color: #128968 !important;
+}
+
+.inlineBlock .col-data {
+  display: none !important;
+}
+
+table tr:last-child {
+  display: none !important;
 }
 
 @media (max-width: 5000px) and (min-width: 2300px) {
