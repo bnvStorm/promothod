@@ -12,8 +12,7 @@
 	Склад временного хранения пестицидов и стойких органических загрязнителей (СОЗ), позволяющий сторонним организациям временно хранить ПХД-содержащие отходы до момента передачи на уничтожение, успешно функционирует с 2014 года.
 </p>
 <div style="display:flex;align-items:flex-start;flex-wrap:wrap;">
-<img src="/upload/uslugi/vremennoe-khranenie-otkhodov/1.png" alt="Временное хранение опасных отходов" title="Временное хранение опасных отходов">
-<img style="max-height:300px;" src="/upload/uslugi/vremennoe-khranenie-otkhodov/2.png" alt="Временное хранение отходов в Караганде и Казахстане" title="Временное хранение отходов в Караганде и Казахстане">
+<img src="img/vrem.jpg" alt="Временное хранение опасных отходов" title="Временное хранение опасных отходов">
 </div>
 <div class="contact_block">
 <p>
