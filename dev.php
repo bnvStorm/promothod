@@ -12,6 +12,9 @@ switch ($_GET['func']) {
 	case 'save_to_db':
 		save_to_db($_GET["page_id"]);
 		break;
+	case 'save_all_files_to_db':
+		save_all_files_to_db();
+		break;
 	default:
 		# code...
 		break;
@@ -22,7 +25,7 @@ function save_to_file($page_id)
 // выбираем контент из бд
 	require 'config.php';
 	// выражение запроса
-	$sql = "SELECT id,content FROM promothod_kz___promothod_kz WHERE id = '$page_id'";
+	$sql = "SELECT id,url,content FROM promothod_kz___promothod_kz WHERE id = '$page_id'";
 	// MySQLi Object-oriented
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
@@ -45,13 +48,29 @@ function save_to_file($page_id)
 	  while($row = $result->fetch_assoc()) {	
 	    $content = $row['content'];
 	    $id = $row['id'];
+	    $uri = $row['url'];
 	    $filename = 'cache/' . $id . '.php';
 	    file_put_contents( $filename, $content);	
-	    echo "Страница успешно создана. Хотите просмотреть ее на сайте?";	
+	    echo "Страница <a href='$uri'>$uri</a> успешно сохранена в кеш. </br>";	
+	    echo "<a href='/dev.php?func=view_from_cache&page_id=$page_id'>Посмотреть из кеша </a>";	
 	    }
 	}  
 	$conn->close();
 
+}
+
+// сохраняем все файлы из папки кеш в базу данных
+function save_all_files_to_db() {
+	// сканируем все файлы в папке кеш в массив
+	$files = scandir('cache');
+	
+	$files_count = count($files);
+	for ($i=2; $i < $files_count; $i++) { 
+		// убираем .php из названия файла и получаем $page_id
+		$page_id = (str_replace('.php', '', $files[$i]));
+		// пользуемся уже готовой функцией сохранения по id)))
+		save_to_db($page_id);
+	}
 }
 
 function save_to_db($page_id)
@@ -75,8 +94,7 @@ function save_to_db($page_id)
 	// выполнение запроса
 	$result = $conn->query($sql);
 	if ($result) {
-		echo "Страница успешно сохранена в базу данных. </br>";
-		echo "Страница успешно сохранена в базу данных.";
+		echo "Страница c id $page_id успешно сохранена в базу данных. </br>";
 	}
 
 	$conn->close();
@@ -85,6 +103,7 @@ function save_to_db($page_id)
 function view_from_cache($page_id)
 {
 	require 'config.php';
+	$id = $page_id;
 	$filename = 'cache/' . $page_id .'.php';
 	if (file_exists($filename)) {
 		if (!file_get_contents($filename)) {
