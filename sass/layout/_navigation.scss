@@ -164,6 +164,12 @@
       display: none;
     }
   }
+  .nav__container--side-padding{
+    padding: 0;
+    // background: #007777;
+    background: url('../img/new/header2.jpg');
+    background-size: cover;
+  }
 }
 
 .mobile body {
@@ -188,6 +194,10 @@
 -------------------------------------------------------*/
 header .flex-parent {
   align-items: center;
+  padding-bottom: 25px;
+  padding-top: 20px;
+  text-align: center;
+  justify-content: space-between;
 
   @include bp-lg-down {
     display: block;
@@ -291,7 +301,8 @@ header .flex-parent {
 /* Nav Sticky
 -------------------------------------------------------*/
 .nav__holder {
-background: #308585;
+  background:url('../img/new/navbg.jpg');
+
   &.offset {
     @include transform (translate3d(0, -100%, 0));
     @include transition ($all);
@@ -421,10 +432,14 @@ background: #308585;
       text-align: center;
       cursor: pointer;
       position: absolute;
-      right: 0;
+      // right: 0;
       font-size: 12px;
       top: 0;
-
+      background:url('../img/new/arrow.png') no-repeat;
+      background-position-y: 50%;
+      background-position-x: 15%;
+      right: -6px;
+      background-size: 35%;
       &:hover,
       &:focus {
         color: $main-color;

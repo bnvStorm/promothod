@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 	<title><?php echo $title; ?></title>
-
+	<script src="/js/lazy.js"></script>
 	<meta charset="utf-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -11,7 +11,8 @@
 
 	<!-- Google Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Barlow:400,600%7COpen+Sans:400,400i,700&display=swap' rel='stylesheet'>
-
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 	<!-- Css -->
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/css/font-icons.css" />
@@ -24,16 +25,20 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 </head>
 
 <body>
 
 	<!-- Preloader -->
-	<div class="loader-mask">
+<!-- 	<div class="loader-mask">
 		<div class="loader">
 			"Загрузка..."
 		</div>
-	</div>
+	</div> -->
 
 	<main class="main-wrapper">
 
@@ -59,10 +64,20 @@
 						</div>
 
 						<!-- Navbar -->
-						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
+						<nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse nav_top">
 							<ul class="nav__menu">
 								<li class="nav__dropdown">
-									<a href="/o-nas/" aria-haspopup="true">О нас</a>
+									<a href="/" aria-haspopup="true">Главная</a>
+									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
+									<!-- <ul class="nav__dropdown-menu">
+										<li><a href="index.html">О нас</a></li>
+										<li><a href="index-2.html">Home 2</a></li>
+										<li><a href="index-3.html">Home 3</a></li>
+										<li><a href="index-4.html">Home 4</a></li>
+									</ul> -->
+								</li>
+								<li class="nav__dropdown">
+									<a href="/o-nas/gruppa-specialistov/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">
 										<li><a href="index.html">О нас</a></li>
@@ -91,7 +106,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="/info/" aria-haspopup="true">Инфо</a>
+									<a href="/zakon/" aria-haspopup="true">Закон</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 								<!-- 	<ul class="nav__dropdown-menu">
 										<li><a href="icons.html">Icons</a></li>
@@ -124,7 +139,7 @@
 													
 						</nav> <!-- end nav-wrap -->
 
-						<div class="nav__phone nav--align-right d-none d-lg-block">
+						<div class="nav__phone nav--align-right d-none d-lg-block" style="display:none !important;">
 						<!-- 	<span class="nav__phone-text">Позвоните нам:</span> -->
 							<a href="tel:8 (7212) 41-00-29" class="nav__phone-number">8 (7212) 41-00-29</a>
 						</div>

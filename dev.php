@@ -1,5 +1,11 @@
 <?php 
-
+// защита от хацкеров
+require 'config.php';
+if (!$dev_mode) {
+	header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
+	include("404.php");
+  	exit;
+}
 
 // проверка гет запросов
 switch ($_GET['func']) {
@@ -51,8 +57,7 @@ function save_to_file($page_id)
 	    $uri = $row['url'];
 	    $filename = 'cache/' . $id . '.php';
 	    file_put_contents( $filename, $content);	
-	    echo "Страница <a href='$uri'>$uri</a> успешно сохранена в кеш. </br>";	
-	    echo "<a href='/dev.php?func=view_from_cache&page_id=$page_id'>Посмотреть из кеша </a>";	
+
 	    }
 	}  
 	$conn->close();

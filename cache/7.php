@@ -1,60 +1,113 @@
-
 <div class="about">
-  <p align="justify" class="MsoNormal"><font size="2" face="Arial">ТОО «ПРОМОТХОД КАЗАХСТАН» - это специализированная компания по обращению с отходами производства и потребления.</font></p>
- 
-<p> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">Наша компания предлагает полный&nbsp;</font><a href="/uslugi/" title="ПЕРЕЙТИ К УСЛУГАМ">перечень услуг</a><font size="2" face="Arial">&nbsp;по обращению с отходами:</font></p>
- 
-<p> </p>
-  <img class="about_img" src="../img/vyvoz_ewaste.JPG" alt="Kazpromothod">
-<ul> 
-  <li><font size="2" face="Arial">Документирование отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Упаковка отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Временное хранение отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Продажа и/или предоставление контейнеров для сбора;</font></li>
- 
-  <li><font size="2" face="Arial">Сбор отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Транспортировка отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Переработка отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Реализация продуктов переработки;</font></li>
- 
-  <li><font size="2" face="Arial">Уничтожение отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Захоронение отходов;</font></li>
- 
-  <li><font size="2" face="Arial">Устранение загрязнений, возникших в результате неправильного обращения с отходами;</font></li>
- 
-  <li><font size="2" face="Arial">Продажа оборудования и материалов для обращения с отходами. </font></li>
- </ul>
- 
-<p> </p>
+  <p>Компания «Промотход Казахстан» была создана группой энтузиастов – экологов, инженеров, химиков – в 2012 году и стала первой в республике компанией, основной задачей которой является утилизация опасных промышленных отходов.</p>
+  <img class="about_img" src="http://promothod.kz/img/vyvoz_ewaste.jpg" alt="Kazpromothod">
+  <p>
+    За восемь лет компания разрослась до размеров крупного предприятия, к услугам которого ежегодно прибегали тысячи компаний малого, среднего и крупного бизнеса.
+  </p>
+  <p>
+    В 2019 году, накопив большой практический опыт, переняв и освоив у ведущих мировых компаний в сфере обращения с опасными отходами десятки технологий, учредители компании пришли к единственно правильному стратегическому решению – преобразовать ТОО «Промотход Казахстан» в научно-производственную экспериментальную площадку, а для исполнения проектных решений и комплекса мер по договорам привлечь узко-специализированные молодые компании на конкурсной основе.
+  </p>
+  <p>
+    В течение года проводился отбор среди предприятий, работающих в сфере обращения с теми или иными видами отходов в сфере переработки и утилизации.
+  </p>
+  <p>
+    С 2020 года ТОО «Промотход Казахстан» приступил к своей работе в новом качестве, а проверенные на практике технологии передал группе компаний, которые вошли в условный консорциум.
+  </p>
+  <p>
+    Такое решение вновь стало первым инновационным и пока единственным не только на территории РК, но и на всем постсоветском пространстве. Это позволяет в кратчайшие сроки решать проблемы заказчиков по всему перечню услуг по обращению с опасными отходами во всех регионах страны, серьезно экономя время и деньги клиентов.
+  </p> 
+  <div class="about_firm">
+    <div class="about_firm_text">
+      <p>
+        ТОО «Казахстанский оператор по управлению отходами» - молодая амбициозная компания, в структуре которой есть промышленная площадка (завод по переработке и утилизации) с полным набором высококлассных профессионалов, прошедших специальное обучение, цеха, склады, технологические линии по утилизации тех или иных видов отходов.
+      </p>
 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">Основная промышленная площадка ТОО «ПРОМОТХОД КАЗАХСТАН» - «Завод по утилизации опасных промышленных отходов», расположен в г. Караганда. Наша компания оснащена современным оборудованием для переработки большого перечня&nbsp;</font><a href="/otkhody/">отходов</a><font size="2" face="Arial">&nbsp;производства и потребления. Все используемое оборудование соответствует нормативным требованиям Республики Казахстан.</font></p>
- 
-<p> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">Мы имеем развитую сеть филиалов и&nbsp;</font><a href="/o-nas/predstavitelstva/">представительств</a><font size="2" face="Arial">&nbsp;в крупнейших городах Республики Казахстан.</font></p>
- 
-<p align="justify"> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">Для транспортировки опасных промышленных отходов используется специализированный транспорт.</font></p>
- 
-<p> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">ТОО «ПРОМОТХОД КАЗАХСТАН» имеет все необходимые <a href="http://www.promothod.kz/o-nas/razreshitelnye-dokumenty/"><font color="#0000FF"><u><b>разрешительные документы</b></u></font></a> и лицензии для осуществления деятельности по обращению с отходами производства и потребления.</font></p>
- 
-<p align="justify"> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">В нашей компании работает квалифицированный персонал, прошедший специальное обучение по обращению с отходами производства и потребления.</font></p>
- 
-<p align="justify"> </p>
- 
-<p align="justify" class="MsoNormal"><font size="2" face="Arial">ТОО «ПРОМОТХОД КАЗАХСТАН» постоянно расширяет перечень оказываемых услуг и используемых технологий для более безопасного обращения с отходами производства и потребления.<span>&nbsp; </span></font></p>
+      <p>
+        Имеет ряд региональных представителей, что позволяет оперативно решать вопросы с заказчиками в той или иной области Казахстана.
+      </p>
+    </div>
+    <div class="about_firm_img">
+      <img src="../img/new/partners/1.jpg" alt="qwmo" style="width: 200px;">
+      <a href="http://qwmo.net">Ссылка на сайт</a>
+      <a href="http://zavod.qwmo.kz">Ссылка на сайт завода</a>
+    </div>
+  </div>  
+  <div class="about_firm">
+    <div class="about_firm_img" style="margin-right:10px;">
+      <img src="../img/new/partners/4.jpg" alt="qwmo" >
+      <a href="http://kzsr.kz">Ссылка на сайт</a>
+    </div>
+    <div class="about_firm_text">
+      ТОО «КазВторРесурс» - компания по обороту продуктов переработки отходов.
+    </div>
+
+  </div>
+  <div class="about_firm">
+    <div class="about_firm_text">
+      ТОО «Промотход Сервис» - компания по проектированию контейнерных площадок, изготовлению и установке контейнеров для раздельного сбора отходов, официальный дилер на территории РК российских и зарубежных компаний – поставщиков контейнеров.
+    </div>
+    <div class="about_firm_img"  style="margin-left:10px;">
+      <img src="../img/new/partners/8.jpg" alt="qwmo">
+      <a href="http://rpo.kz">Ссылка на сайт</a>
+    </div>
+
+  </div>  
+  <div class="about_firm">
+    <div class="about_firm_img" style="margin-right:10px;">
+      <img src="../img/new/partners/3.jpg" alt="qwmo" >
+      <a href="http://trrr.kz">Ссылка на сайт</a>
+    </div>
+    <div class="about_firm_text">
+      ТОО «RRR technology» - компания по сбору вторичного сырья у населения и компаний малого и среднего бизнеса.
+    </div>
+  </div>   
+  <div class="about_firm">
+    <div class="about_firm_text">
+      ТОО «ЭкоИмпульс» - компания по глубокой переработке электронного и электрического оборудования.
+    </div>
+    <div class="about_firm_img" style="margin-дуае:10px;">
+      <img src="../img/new/partners/6.jpg" alt="qwmo" >
+      <a href="http://trrr.kz">Ссылка на сайт</a>
+    </div>
+
+  </div>  
+  <div class="about_firm">
+    <div class="about_firm_img" style="margin-right:10px;">
+      <img src="../img/new/partners/9.jpg" alt="qwmo">
+      <a href="../reconstruction.php">Ссылка на сайт</a>
+    </div>
+    <div class="about_firm_text">
+      ТОО «Smart Waste» - компания по управлению всех видов опасных отходов в северных регионах Казахстана.
+    </div>
+  </div>
+  <div class="about_firm">
+    <div class="about_firm_text">
+     ТОО «Electronic Waste Recycling» - компания по работе с учреждениями с госучастием по надлежащему списанию и утилизации компьютерной и оргтехники.
+   </div>
+   <div class="about_firm_img" style="margin-left:10px;">
+    <img src="../img/new/partners/5.jpg" alt="qwmo" >
+    <a href="../reconstruction.php">Ссылка на сайт</a>
+  </div>
+</div>
+<div class="about_firm">
+  <div class="about_firm_img" style="margin-right:10px;">
+    <img src="../img/new/partners/2.jpg" alt="qwmo" >
+    <a href="../reconstruction.php">Ссылка на сайт</a>
+  </div>
+  <div class="about_firm_text">
+    ТОО «Waste Logistic» - транспортно-логистическая компания, осуществляющая свою деятельность на постсоветском пространстве. В парке компании есть специализированная техника для перевозки опасных отходов, рефрижераторы, техника для перевозки грузов на большие расстояния и т.д.
+  </div>
+
+</div>
+<div class="about_firm">
+
+  <div class="about_firm_text">
+    ТОО «Polymer Waste» - компания по переработке пластиковой тары, реализации продуктов переработки.
+  </div>
+  <div class="about_firm_img" style="margin-left:10px;">
+    <img src="../img/new/partners/7.jpg" alt="qwmo" >
+    <a href="../reconstruction.php">Ссылка на сайт</a>
+  </div>
+</div>
+
 </div>

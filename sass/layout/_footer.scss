@@ -5,7 +5,7 @@
   position: relative;
   @include background-img-cover;
   background-color: $bg-dark;
-
+  background: url('../img/new/footer.jpg');
   ul {
     margin: 0;
     padding: 0;
@@ -17,8 +17,17 @@
       padding: 0 40px;
     }    
   }
+  // .logo{
+  //   margin-left: 20px;
+  // }
+  // .logo-container{
+  // text-align: unset;
+  // display: block;
+  // width: 320px;
+  // background: none;
+  // background-size:cover;
+  // }
 }
-
 
 /* Footer Widgets
 -------------------------------------------------------*/
@@ -99,7 +108,7 @@
 /* Bottom Footer
 -------------------------------------------------------*/
 .footer__bottom {
-  padding: 5px 0 20px;
+  padding: 10px 0 30px;
   position: relative;
 }
 
@@ -114,8 +123,8 @@
    &:hover,
    &:focus {
     color: $main-color;
-   }
   }
+}
 }
 // UPD
 .footer-list{
@@ -139,7 +148,8 @@
   display: -ms-flex;
   display: -o-flex;
   display: flex;
-    align-items: center;
-      justify-content: center;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 0;
 
 }

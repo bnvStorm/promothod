@@ -1,12 +1,138 @@
-<style>
-.contact-head-content li{
-    margin-left: 0px;
-    list-style-type: none;
-}	
-.contact-head-content li:nth-of-type(2)}{
-	margin-left: 0;
-}
-</style>
-<div class="contact-head-content">             	<ul>                 	<li style="list-style-type: none;">                     	<div class="text">                                 <span class="contact-head" style="font-weight: bold;font-size: 20px;">ОФИС:</span>                         	</div><!--text-->                     </li> <li>                     	<div class="text">                         	<span class="text-1">Приёмная:</span><span class="text-2 bold">8(7212) 41-00-29</span><span class="text-1">Маркетолог:</span><span class="text-2 bold">8(7212) 39-87-34</span>                         </div><!--text-->                     </li> <li>                     	<div class="text">                         	<span class="text-1">Логист:</span><span class="text-2 bold">8(7212) 36-80-55</span><span class="text-1">Юрист:</span><span class="text-2 bold">8(7212) 39-70-69</span>                         </div><!--text-->                     </li> <li>                     	<div class="text">                         <span class="text-1">Отдел закупа:</span><span class="text-2 bold">8(7212) 42-42-11</span><span class="text-1 bold">36-81-56</span><span class="text-2 bold">8(708) 436-81-56</span>	                        </div><!--text-->                     </li><li>                     	<div class="text">                         	<span class="text-1">Адрес:</span><span class="text-2 bold">г. Караганда, пр. Бухар Жырау 47</span>                         </div><!--text-->                     </li> <li style="list-style-type: none;">                     	<div class="text">                                 <span class="contact-head"  style="font-weight: bold;font-size: 20px;">ЗАВОД:</span>                         	</div><!--text-->                     </li><li>                     	<div class="text">                         	<span class="text-1">Адрес:</span><span class="text-2 bold">г. Караганда, Октябрьский район, ул.Ушакова 1А</span>                         </div><!--text-->                     </li> <li style="list-style-type: none;">                     	<div class="text">                  <span class="contact-head" style="font-weight: bold;font-size: 20px;">БУХГАЛТЕРИЯ:</span>                         	</div><!--text-->                     </li>                     	<div class="text">                         	<span class="text-1">Бухгалтер:</span><span class="text-2 bold">8(7212) 99-60-17</span>                         </div><!--text-->                                                              <div class="text">                         <span class="text-1"></span><span class="text-2 bold">8(7212) 36-82-26</span>                    </div><!--text-->                       <li>                     	<div class="text">                         	<span class="text-1">Адрес:</span><span class="text-2 bold">г. Караганда, ул. Алиханова 1, оф. 316</span>                         </div><!--text-->                     </li> <li style="list-style-type: none;">                     	<div class="text">                                 <span class="contact-head" style="font-weight: bold;font-size: 20px;">ПУНКТ ПРИЁМА:</span>                         	</div><!--text-->                     </li>                     	<div class="text">                         	<span class="text-1">Оператор:</span><span class="text-2 bold">8(7212) 39-84-64</span>                         </div><!--text-->                                                              <div class="text">                         <span class="text-1"></span><span class="text-2 bold">8(708) 439-84-64</span>                    </div><!--text-->                       <li>                     	<div class="text">                         	<span class="text-1">Адрес:</span><span class="text-2 bold">г. Караганда, ул. Казахстанская 5,</span>                         </div><!--text-->                     </li>                     <li style="list-style-type: none;">                     	<div class="text">                         	<span style="font-weight: bold;font-size: 20px;" class="text-1" "="">Казахстан:</span><span class="text-2 bold"><a href="/kontakty/predstavitelstva/" style="font-weight: bold;">ПРЕДСТАВИТЕЛЬСТВА</a></span>                         </div><!--text-->                     </li>                     </ul>             </div><!--contact-head-content-->           	 		<!--	<div class="contact-form"> <span class="contact-head">Написать нам на info@promothod.kz</span>   <form action="/kontakty/" method="POST"> <input type="hidden" name="sessid" id="sessid" value="e374472624629f1177409ca08f3afde8">                
- 	<div class="wrap-contact-form">                 	<ul>                     	<li>                         	<div class="contact-cont">                             	<span class="cont-1">От кого:</span><input type="text" name="user_name" value="" placeholder="Ваша организация или имя">                             </div>                         </li>                                                  <li>                         	<div class="contact-cont">                             	<span class="cont-1">E-mail:</span><input type="text" name="user_email" value="" placeholder="Ваш e-mail">                             </div>                         </li>                          <li>                         	<div class="contact-cont">                             	<span class="cont-1">Телефон:</span><input type="text" name="user_phone" value="" placeholder="Ваш телефон">                             </div>                        </li>                                                  <li>                         	<div class="contact-cont">                             	<span class="cont-1 up">Текст сообщения:</span><textarea name="MESSAGE"></textarea>                             </div>                         </li>  													<input type="hidden" name="captcha_sid" value="00169500b4793ccafa0851b99d154e02">                         <li>                         	<div class="contact-cont">                             	<span class="cont-1">Код с картинки:</span> 								<input type="text" class="in-2" name="captcha_word"> 								<img src="/bitrix/tools/captcha.php?captcha_sid=00169500b4793ccafa0851b99d154e02" width="180" height="40" alt="CAPTCHA">                             </div>                    </li> 												 						                     </ul>                 </div> 
-	              <button type="submit" class="contact-form-button" name="submit" value="Отправить">Отправить</button>  	<input type="hidden" name="PARAMS_HASH" value="757d23e7c92270f745065228eb13ddc1"> </form> </div>                         <div class="office-map">      -->		       	<!-- Start tabs-standard --> 				<div class="sliderkit tabs-standard" style="display: block;"> 			<!-- <div class="sliderkit-nav"> 						<div class="sliderkit-nav-clip"> 							<ul> 								<li class="sliderkit-selected"><a href="#" title="[link title]">Офис</a></li> 								<li><a href="#" title="[link title]">Завод1</a></li> 								<li><a href="#" title="[link title]">Завод2</a></li>                                                                 <li><a href="#" title="[link title]">Бухгалтерия</a></li>                                                                 <li><a href="#" title="[link title]">Пункт приёма</a></li>								 							</ul> 						</div> 					</div> 	 -->				<div class="sliderkit-panels"> 						<div class="sliderkit-panel sliderkit-panel-active" style="display: block;"> 							<img src="/img/map-new.png" width="640" height="480" alt="Офис"> 						</div>                          						<div class="sliderkit-panel" style="display: none;">                    	    	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20569.01857465241!2d73.06188045495148!3d49.877635514358474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4243444bf4b74905%3A0xf7c6893f0e49a7cd!2z0KLQntCeINCf0KDQntCc0J7QotCl0J7QlCDQmtCQ0JfQkNCl0KHQotCQ0J0!5e0!3m2!1sru!2skz!4v1501668774338" width="640" height="460" frameborder="0" style="border:0" allowfullscreen=""></iframe> alt="Завод 1"&gt;                         </div>                          						<div class="sliderkit-panel" style="display: none;"> 							<img src="/img/map-3.png" width="640" height="462" alt="Завод 2"> 						</div>                                                 <div class="sliderkit-panel" style="display: none;"> 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58213.1674128101!2d73.03447804726021!3d49.8484166181278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x424347204d30ae19%3A0xff88643233077de4!2z0J_QoNCe0JzQntCi0KXQntCUINCa0JDQl9CQ0KXQodCi0JDQnSAo0JHRg9GF0LPQsNC70YLQtdGA0LjRjyk!5e0!3m2!1sru!2sru!4v1507529380099" width="640" height="462" frameborder="0" style="border:0" allowfullscreen=""></iframe> 						</div>                                                 <div class="sliderkit-panel" style="display: none;"> 							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5148.692080979109!2d73.07005840582443!3d49.817161082153675!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc0b7a1360f6e0517!2z0J_Rg9C90LrRgiDQv9GA0LjRkdC80LAgKNCf0YDQvtC80L7RgtGF0L7QtCk!5e0!3m2!1sru!2skz!4v1507606675200" width="640" height="462" frameborder="0" style="border:0" allowfullscreen=""></iframe> 						</div>                          					</div><!--sliderkit-panels--> 				</div> 				<!-- // end of tabs-standard -->             </div>                       
+<p><span class="contact-head" style="font-weight: bold;">Call-center: </span><a href="tel:+7 (7212) 41 00 29">+7 (7212) 41 00 29</a></p>	
+<p><span class="contact-head" style="font-weight: bold;">Департамент закупок: </span><a href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a></p>	
+<p><span class="contact-head" style="font-weight: bold;">Юридический департамент: </span><a href="tel:+7 708 439 70 69">+7 708 439 70 69</a></p>	
+<p><span class="contact-head" style="font-weight: bold;">Департамент финансов: </span><a href="tel:+7 (7212) 99 60 17">+7 (7212) 99 60 17</a></p>	
+<p><span class="contact-head" style="font-weight: bold;">Центральный офис: </span>100000, Республика Казахстан, город Караганда, проспект Бухар Жырау, дом 47, 1 этаж</p>	
+
+
+<p>	
+	Центральный офис и промышленная площадка по утилизации отходов нашей компании расположены в Караганде. 	
+</p>	
+<p>	
+	Мы работаем практически по всей территории Казахстана через собственную сеть представителей или устойчивых многолетних деловых партнеров. 	
+</p>	
+<p>	
+	Представители компании и коллеги по деятельности являются профессионалами высокого уровня в сфере утилизации опасных отходов, имеют собственные площади для переработки, накопления и хранения отходов, подключены к единой транспортно-логистической системе и оперативно реагируют на запросы заказчиков.	
+</p>	
+<style>	
+	td:nth-of-type(2){	
+		font-weight:bold;	
+	}	
+</style>	
+<table class="contact_table">	
+	<tbody>	
+		<tr>	
+			<td>Уральск</td>	
+			<td><a href="tel:8 705 450 29 41">8 705 450 29 41</a></td>	
+			<td><a href="mailto:rko@qwmo.net">rko@qwmo.net</a></td>	
+		</tr>		
+		<tr>	
+			<td>Нур-Султан</td>	
+			<td><a href="tel:8 775 081 08 06">8 775 081 08 06</a>	</td>	
+			<td><a href="mailto:rum@qwmo.net">rum@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Костанай</td>	
+			<td>	<a href="tel:8 705 450 29 41">8 705 450 29 41</a>	</td>	
+			<td><a href="mailto:rko@qwmo.net">rko@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер</td>	
+			<td><a href="tel:8 707 041 41 80">8 707 041 41 80</a></td>	
+			<td><a href="mailto:rka@qwmo.net">rka@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Офис</td>	
+			<td><a href="tel:8 7142 21 22 03">8 7142 21 22 03</a>	</td>	
+			<td> - </td>	
+		</tr>	
+		<tr>	
+			<td>Актобе 				</td>	
+			<td><a href="tel:8 705 450 29 41"></a>8 705 450 29 41	</td>	
+			<td><a href="mailto:rat@qwmo.net"></a>rat@qwmo.net</td>	
+		</tr>	
+		<tr>	
+			<td>Петропавловск</td>	
+			<td><a href="tel:8 778 555 59 63">8 778 555 59 63</a>, <a href="tel:8 705 320 47 67">8 705 320 47 67</a> </td>	
+			<td><a href="mailto:ts@qwmo.net">ts@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер</td>	
+			<td><a href="tel:8 705 194 13 36">8 705 194 13 36</a>	</td>	
+			<td><a href="mailto:rpp@qwmo.kz">rpp@qwmo.kz</a></td>	
+		</tr>	
+		<tr>	
+			<td>Павлодар</td>	
+			<td><a href="tel:8 701 520 61 11">8 701 520 61 11</a></td> 			
+			<td><a href="mailto:rpa@qwmo.net">rpa@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер</td>	
+			<td><a href="8 775 170 93 92">8 775 170 93 92</a>, <a href="tel:8 777 213 54 87">8 777 213 54 87</a></td>	
+			<td>rpb@qwmo.net</td>	
+		</tr>	
+		<tr>	
+			<td>Экибастуз</td>	
+			<td><a href="tel:8 701 921 11 71">8 701 921 11 71</a>, <a href="tel:8 775 222 21 12">8 775 222 21 12</a></td>	
+			<td>rek@qwmo.net</td>	
+		</tr>	
+		<tr>	
+			<td>Кокшетау</td>	
+			<td><a href="tel:8 771 817 99 27">8 771 817 99 27	</a></td>	
+			<td><a href="mailto:rkk@qwmo.net">rkk@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер</td>	
+			<td><a href="tel:8 775 912 40 30">8 775 912 40 30</a></td>	
+			<td><a href="mailto:rkr@qwmo.net">rkr@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Алматы</td>	
+			<td><a href="tel:8 777 245 97 34">8 777 245 97 34</a>, <a href="tel:8 701 193 39 44">8 701 193 39 44</a></td>	
+			<td><a href="mailto:rav@qwmo.net">rav@qwmo.net</a>, <a href="mailto:ral@qwmo.net">ral@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Тараз</td>	
+			<td><a href="tel:8 777 117 54 82">8 777 117 54 82</a></td>	
+			<td><a href="mailto:rtb@qwmo.net">rtb@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Талдыкорган</td>	
+			<td><a href="tel:8 705 726 33 99">8 705 726 33 99</a></td>	
+			<td><a href="mailto:rrk@qwmo.net">rrk@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Семей</td>	
+			<td><a href="tel:8 747 743 16 11">8 747 743 16 11</a></td>	
+			<td><a href="mailto:rse@qwmo.net">rse@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Кызылорда</td>	
+			<td><a href="tel:8 778 875 88 88">8 778 875 88 88</a></td>	
+			<td><a href="mailto:rkk@qwmo.net">rkz@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Усть-Каменогорск</td>	
+			<td><a href="tel:8 771 840 99 91">8 771 840 99 91</a></td>	
+			<td><a href="mailto:rou@qwmo.net">rou@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер </td>	
+			<td><a href="tel:8 708 440 27 50">8 708 440 27 50</a></td>	
+			<td><a href="mailto:ras@qwmo.net">ras@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Менеджер</td>	
+			<td><a href="tel:8 771 817 99 27">8 705 401 31 45</a></td>	
+			<td><a href="mailto:rau@qwmo.net">rau@qwmo.net</a></td>	
+		</tr>	
+		<tr>	
+			<td>Балхаш </td>	
+			<td><a href="tel:8 771 817 99 27">8 771 817 99 27	</a></td>	
+			<td><a href="mailto:rkk@qwmo.net">rbb@qwmo.net</a></td>	
+		</tr>	
+	</tbody>	
+</table>	
+<div class="sliderkit-panels" style="margin-bottom:10px;margin-top:20px;"> 							
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Af4ef8294d65a575edf27a50295fd74760da3d7e5c67d96c2d860172dbb3e25ac&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>  	
+</div>   		
