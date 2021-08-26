@@ -160,12 +160,7 @@ switch ($cat) {
 	<div class='flex-parent'>
 	<!-- Navbar -->
 	<nav id='navbar-collapse' class='nav__wrap collapse navbar-collapse'>
-	<ul class='nav__menu'>
-	<li class='nav__dropdown'>
-	<a href='/o-nas/gruppa-specialistov/' >
-	Группа специалистов						</a>
-	
-	</li>												
+	<ul class='nav__menu'>										
 	<!--<li class='nav__dropdown'>
 	<a href='/o-nas/novosti/' >
 	Новости						</a>

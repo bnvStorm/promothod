@@ -77,7 +77,7 @@
 									</ul> -->
 								</li>
 								<li class="nav__dropdown">
-									<a href="/o-nas/gruppa-specialistov/" aria-haspopup="true">О нас</a>
+									<a href="/o-nas/" aria-haspopup="true">О нас</a>
 									<i class="ui-arrow-down nav__dropdown-trigger" role="button" aria-haspopup="true" aria-expanded="false"></i>
 									<!-- <ul class="nav__dropdown-menu">
 										<li><a href="index.html">О нас</a></li>
