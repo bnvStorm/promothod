@@ -46,7 +46,7 @@
 					<div class="container-fluid text-right text-md-center">
 						<span class="copyright">
 							ТОО «Промотход Казахстан» <br>
-							2012-2020 <br>
+							2012-2021 <br>
 							&copy; Медиа-центр компании
 						</span>
 					</div>

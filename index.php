@@ -411,11 +411,11 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 						<div class="col-lg-4">
 							<div class="blog-grid__title-col d-flex flex-column mb-lg-48">
 								<div class="title-row">
-									<p>Наберите телефон Call-center компании и получите ответы на все вопросы</p>
+									<p>Напишите нам на емейл и получите ответы на все вопросы</p>
 								</div>
-								<a href="tel:+77212410029" class="call-us mt-auto">
+								<a href="mailto:info@promothod.kz" class="call-us mt-auto">
 									<img src="../img/new/call.png" alt="">
-									<span class="call-us__title">Call-center:<br>+7 (7212) 41 00 29</span>
+									<span class="call-us__title">Email:<br>info@promothod.kz</span>
 									<!-- <a href="tel:+77212410029" class="call-us__phone-number"></a> -->
 								</a>	
 								<div class="title-row">
@@ -426,12 +426,6 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 											Заказать услугу <br> прямо сейчас
 										</span>
 									</a>
-									<!-- 	<p class="subtitle">Текст</p> -->
-									<h2 class="section-title" style="font-size:18px;margin-top:15px;">Вы можете связаться со специалистами по прямым телефонам:</h2>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Департамент закупок <a href="tel:8 (7212) 42 42 11" style="font-weight:bold;font-size:14px;">8 (7212) 42 42 11</a></p>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Юридический департамент <a href="tel:8 (7212) 39 70 69" style="font-weight:bold;font-size:14px;">8 (7212) 39 70 69</a></p>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Финансовый департамент <a href="tel:8 (7212) 99 61 14" style="font-weight:bold;font-size:14px;">8 (7212) 99 61 14</a></p>
-									<p style="display:flex;justify-content:space-between;font-size:14px;">Экологический департамент <a href="tel:8 (7212) 99 68 17" style="font-weight:bold;font-size:14px;">8 (7212) 99 68 17</a></p>
 								</div>
 
 							</div>	
@@ -514,68 +508,10 @@ data-splitout="none">Трансграничная перевозка ПХД-от
 									</p>
 
 									<p>
-										ТОО «Казахстанский оператор по управлению отходами» - молодая амбициозная компания, в структуре которой есть промышленная площадка (завод по переработке и утилизации) с полным набором высококлассных профессионалов, прошедших специальное обучение, цеха, склады, технологические линии по утилизации тех или иных видов отходов.
-									</p>
-
-									<p>
 										Имеет ряд региональных представителей, что позволяет оперативно решать вопросы с заказчиками в той или иной области Казахстана.
-									</p>
-
-
-									<p>
-										ТОО «КазВторРесурс» - компания по обороту продуктов переработки отходов.
-										ТОО «Промотход Сервис» - компания по проектированию контейнерных площадок, изготовлению и установке контейнеров для раздельного сбора отходов, официальный дилер на территории РК российских и зарубежных компаний – поставщиков контейнеров.
-									</p>
-
-									<p>
-										ТОО «RRR technology» - компания по сбору вторичного сырья у населения и компаний малого и среднего бизнеса.
-										ТОО «ЭкоИмпульс» - компания по глубокой переработке электронного и электрического оборудования.
-									</p>
-
-									<p>
-										ТОО «Smart Waste» - компания по управлению всех видов опасных отходов в северных регионах Казахстана.
-										ТОО «Electronic Waste Recycling» - компания по работе с учреждениями с госучастием по надлежащему списанию и утилизации компьютерной и оргтехники.
-									</p>
-
-									<p>
-										ТОО «Waste Logistic» - транспортно-логистическая компания, осуществляющая свою деятельность на постсоветском пространстве. В парке компании есть специализированная техника для перевозки опасных отходов, рефрижераторы, техника для перевозки грузов на большие расстояния и т.д.
-
-									</p>
-									<p>
-										ТОО «Polymer Waste» - компания по переработке пластиковой тары, реализации продуктов переработки.
 									</p>
 								
 
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-12 auto_margin">
-							<div class="from-blog__recent-posts">
-								<a target="_blank" href="https://kzsr.kz">
-									<img class="lazyload" data-src="/img/new/partners/4.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="https://qwmo.net">
-									<img class="lazyload" data-src="/img/new/partners/1.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="https://rpo.kz/">
-									<img class="lazyload" data-src="/img/new/partners/8.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="https://trrr.kz/">
-									<img class="lazyload" data-src="/img/new/partners/3.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="../reconstruction.php">
-									<img class="lazyload" data-src="/img/new/partners/2.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="../reconstruction2.php">
-									<img class="lazyload" data-src="/img/new/partners/5.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="https://empls.biz">
-									<img class="lazyload" data-src="/img/new/partners/6.jpg" alt="qwmo" >
-								</a>
-								<a target="_blank" href="../reconstruction3.php">
-									<img class="lazyload" data-src="/img/new/partners/7.jpg" alt="qwmo" >
-								</a>
 							</div>
 						</div>
 					</div>
